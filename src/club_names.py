@@ -19,5 +19,16 @@ name_dict = {
     'Leicester': 'Leicester City',
     'West Brom': 'West Bromwich Albion',
     'Fulham': 'Fulham',
-    'Sheffield United': 'Sheffield United'
+    'Sheffield United': 'Sheffield United',
+    'QPR': 'Queens Park Rangers',
+    'Swansea': 'Swansea City',
+    'Stoke': 'Stoke City',
+    'Hull': 'Hull City',
+    'Sunderland': 'Sunderland',
+    'Watford': 'Watford',
+    'Norwich': 'Norwich City',
+    'Bournemouth': 'AFC Bournemouth',
+    'Middlesbrough': 'Middlesbrough',
+    'Huddersfield': 'Huddersfield Town',
+    'Cardiff': 'Cardiff City',
 }
