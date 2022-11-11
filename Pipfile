@@ -7,6 +7,7 @@ name = "pypi"
 duckdb = "==0.5.1"
 pandas = "*"
 scikit-learn = "*"
+matplotlib = "*"
 
 [dev-packages]
 ipykernel = "*"
