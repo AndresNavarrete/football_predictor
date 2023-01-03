@@ -8,6 +8,7 @@ duckdb = "==0.5.1"
 pandas = "*"
 scikit-learn = "*"
 matplotlib = "*"
+requests = "*"
 
 [dev-packages]
 ipykernel = "*"
