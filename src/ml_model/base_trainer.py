@@ -1,6 +1,4 @@
-
 class BaseTrainer:
-
     def __init__(self):
         self.ML_DIR = "data/ml"
         self.DATAFILE = "df_history.csv"
@@ -14,11 +12,11 @@ class BaseTrainer:
         self.target_name = "diff_h_a"
         self.not_usefull_columns = [
             self.target_name,
-            'home',
-            'away',
-            'GF',
-            'GA',    
-            ]
+            "home",
+            "away",
+            "GF",
+            "GA",
+        ]
         self.numeric_columns = [
             "home_last_wins",
             "home_last_draws",

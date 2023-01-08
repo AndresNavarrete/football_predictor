@@ -1,7 +1,9 @@
-import requests
 import json
-import pandas as pd
+
 import duckdb
+import pandas as pd
+import requests
+
 
 class Fixture:
     def __init__(self):
@@ -9,17 +11,17 @@ class Fixture:
         self.con = duckdb.connect()
         self.fixture = None
         self.names_translator = {
-            'Man Utd': 'Man United',
-            'Spurs': 'Tottenham',
-            'Nottingham Forest': """Nott'm Forest"""
+            "Man Utd": "Man United",
+            "Spurs": "Tottenham",
+            "Nottingham Forest": """Nott'm Forest""",
         }
-    
+
     def get_fixture(self):
         raw_data = self.download_data()
         self.serialize_data(raw_data)
         self.fix_club_names()
         return self.fixture
-    
+
     def download_data(self):
         response = requests.request("GET", self.url)
         return pd.DataFrame(json.loads(response.text))
@@ -41,14 +43,14 @@ class Fixture:
             raw_data        
         """
         self.fixture = self.con.execute(query).df()
-    
+
     def fix_club_names(self):
-        replacement =  {
+        replacement = {
             "home": self.names_translator,
-            "away":self.names_translator,
+            "away": self.names_translator,
         }
         return self.fixture.replace(replacement)
-    
+
     def save(self):
         path = "data/ml/fixture.csv"
         self.fixture.to_csv(path)
