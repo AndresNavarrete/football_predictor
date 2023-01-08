@@ -22,7 +22,7 @@ class Fixture:
     
     def download_data(self):
         response = requests.request("GET", self.url)
-        return pd.DataFrame(json.loads(response.text)).fillna("")
+        return pd.DataFrame(json.loads(response.text))
 
     def serialize_data(self, raw_data):
         query = """
@@ -35,7 +35,7 @@ class Fixture:
             TRY_CAST(HomeTeamScore as INTEGER)  as home_goals,
             TRY_CAST(AwayTeamScore as INTEGER)  as away_goals,
             CASE
-                WHEN DateUtc::DATE > now() THEN FALSE ELSE TRUE 
+                WHEN HomeTeamScore is null THEN FALSE ELSE TRUE 
             END AS played 
         FROM
             raw_data        
@@ -48,8 +48,13 @@ class Fixture:
             "away":self.names_translator,
         }
         return self.fixture.replace(replacement)
+    
+    def save(self):
+        path = "data/ml/fixture.csv"
+        self.fixture.to_csv(path)
+
 
 if __name__ == "__main__":
-    provider = Fixture()
-    fixture = provider.get_fixture()
-    print(fixture)
+    fixture = Fixture()
+    fixture.get_fixture()
+    fixture.save()
