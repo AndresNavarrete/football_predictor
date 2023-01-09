@@ -71,15 +71,17 @@ class Standings:
         serialized_data = []
         for name, values in self.teams.items():
             new_row = {
-                'team': name,
-                'matches':values["matches"],
-                'points': values["points"],
+                "team": name,
+                "matches": values["matches"],
+                "points": values["points"],
             }
             serialized_data.append(new_row)
-        self.table_positions = pd.DataFrame(serialized_data).sort_values(by="points", ascending=False)
-    
+        self.table_positions = pd.DataFrame(serialized_data).sort_values(
+            by="points", ascending=False
+        )
+
     def export_table(self):
-        path  = "data/forecast/standings.csv"
+        path = "data/forecast/standings.csv"
         self.set_table_of_positions()
         self.table_positions.to_csv(path)
 

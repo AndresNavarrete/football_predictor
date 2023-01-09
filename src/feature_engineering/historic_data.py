@@ -1,8 +1,8 @@
+import json
 from datetime import datetime
 
 import duckdb
 import pandas as pd
-import json
 
 
 class Processor:
@@ -109,14 +109,16 @@ class Processor:
         self.save_categories()
 
     def save_categories(self):
-        teams_cat = self.df.team.astype('category')
+        teams_cat = self.df.team.astype("category")
         teams_cat_dictionary = dict(enumerate(teams_cat.cat.categories))
-        self.categories_to_export = {'team_codes': teams_cat_dictionary}
-    
+        self.categories_to_export = {"team_codes": teams_cat_dictionary}
+
     def export_catgories(self):
         path = f"{self.ML_PATH}/model_categories.json"
         with open(path, "w", encoding="utf-8") as f:
-            json.dump(self.categories_to_export, f, ensure_ascii=False, indent=4)
+            json.dump(
+                self.categories_to_export, f, ensure_ascii=False, indent=4
+            )
 
     def clean_data(self):
         df_matches = self.df
