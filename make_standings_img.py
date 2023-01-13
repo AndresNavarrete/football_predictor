@@ -112,9 +112,4 @@ for x in range(1, nrows):
     )
 
 ax.set_axis_off()
-plt.savefig(
-    table_image_path,
-    dpi=600,
-    transparent=False,
-    bbox_inches='tight'
-)
+plt.savefig(table_image_path, dpi=600, transparent=False, bbox_inches="tight")
