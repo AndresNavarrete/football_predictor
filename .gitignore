@@ -8,7 +8,7 @@ __pycache__/
 data/
 *.DS_Store
 *.Identifier
-
+.vscode/
 
 # C extensions
 *.so
