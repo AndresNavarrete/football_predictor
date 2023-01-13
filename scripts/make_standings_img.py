@@ -2,8 +2,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from PIL import Image
 
-class TableCreator:
 
+class TableCreator:
     def __init__(self):
         self.standings_path = "./data/forecast/standings.csv"
         self.table_image_path = "./img/out/standings_forecast.png"
@@ -32,7 +32,6 @@ class TableCreator:
         self.ax.set_xlim(0, self.ncols + 1)
         self.ax.set_ylim(0, self.nrows)
 
-    
     def execute(self):
         self.set_df()
         self.set_figure()
@@ -41,8 +40,7 @@ class TableCreator:
         self.add_columns_names()
         self.add_lines()
         self.save_img()
-        
-        
+
     def add_main_text(self):
         for i in range(self.nrows):
             for j, column in enumerate(self.columns):
@@ -56,7 +54,7 @@ class TableCreator:
                     ha=ha,
                     va="center",
                 )
-    
+
     def add_team_logos(self):
         DC_to_FC = self.ax.transData.transform
         FC_to_NFC = self.fig.transFigure.inverted().transform
@@ -66,9 +64,11 @@ class TableCreator:
         ax_width = abs(ax_point_1[0] - ax_point_2[0])
         ax_height = abs(ax_point_1[1] - ax_point_2[1])
         for x in range(0, self.nrows):
-            team_name  = self.df["team"].iloc[x]
+            team_name = self.df["team"].iloc[x]
             ax_coords = DC_to_NFC([1.25, x + 0.25])
-            flag_ax = self.fig.add_axes([ax_coords[0], ax_coords[1], ax_width, ax_height])
+            flag_ax = self.fig.add_axes(
+                [ax_coords[0], ax_coords[1], ax_width, ax_height]
+            )
             self.ax_logo(flag_ax, team_name)
 
     def ax_logo(self, flag_ax, team_name):
@@ -91,6 +91,7 @@ class TableCreator:
                 va="bottom",
                 weight="bold",
             )
+
     def add_lines(self):
         self.ax.plot(
             [self.ax.get_xlim()[0], self.ax.get_xlim()[1]],
@@ -121,8 +122,14 @@ class TableCreator:
 
     def save_img(self):
         self.ax.set_axis_off()
-        plt.savefig(self.table_image_path, dpi=600, transparent=False, bbox_inches="tight")
+        plt.savefig(
+            self.table_image_path,
+            dpi=600,
+            transparent=False,
+            bbox_inches="tight",
+        )
+
 
 if __name__ == "__main__":
     foo = TableCreator()
-    foo.execute()   
+    foo.execute()
