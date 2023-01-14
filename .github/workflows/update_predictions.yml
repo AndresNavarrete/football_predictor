@@ -19,6 +19,7 @@ jobs:
       run: |
         pip install pipenv
         pipenv install --dev
+        echo "::set-env name=PYTHONPATH::home/runner/work/${{ github.event.repository.name }}"
         
     - name: Run script
       run: |
