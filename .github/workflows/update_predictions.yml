@@ -24,6 +24,8 @@ jobs:
         
     - name: Run script
       run: |
+        export PYTHONPATH=$PWD
+        echo $PYTHONPATH
         pipenv run python3 src/predict.py
         
     - name: Commit and push changes
