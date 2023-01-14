@@ -1,0 +1,35 @@
+name: Update predictions
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: |
+        pip install pipenv
+        pipenv install --dev
+        
+    - name: Run script
+      run: |
+        pipenv run python3 src/predict.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --global user.email "${{ secrets.GIT_EMAIL }}"
+        git config --global user.name "${{ secrets.GIT_NAME }}"
+        git add .
+        git commit -m "Update prediction" || echo "No changes to commit"
+        git push
