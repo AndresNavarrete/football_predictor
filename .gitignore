@@ -5,7 +5,7 @@ __pycache__/
 
 # User defined
 
-data/
+# data/
 *.DS_Store
 *.Identifier
 .vscode/
