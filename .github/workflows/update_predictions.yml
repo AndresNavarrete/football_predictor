@@ -17,9 +17,9 @@ jobs:
 
     - name: Install dependencies
       run: |
+        export PYTHONPATH=$PWD
         pip install pipenv
         pipenv install --dev
-        echo "::set-env name=PYTHONPATH::home/runner/work/${{ github.event.repository.name }}"
         
     - name: Run script
       run: |
