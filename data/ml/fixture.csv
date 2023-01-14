@@ -67,7 +67,7 @@
 65,70,7,2022-09-11,West Ham,Newcastle,,,False
 66,63,7,2022-09-11,Crystal Palace,Man Utd,,,False
 67,65,7,2022-09-12,Leeds,Nottingham Forest,,,False
-68,64,7,2023-01-12,Fulham,Chelsea,,,False
+68,64,7,2023-01-12,Fulham,Chelsea,2.0,1.0,True
 69,68,7,2023-01-19,Man City,Spurs,,,False
 70,71,8,2022-09-16,Aston Villa,Southampton,1.0,0.0,True
 71,78,8,2022-09-16,Nottingham Forest,Fulham,2.0,3.0,True
@@ -189,7 +189,7 @@
 187,182,19,2023-01-04,Aston Villa,Wolves,1.0,1.0,True
 188,185,19,2023-01-04,Crystal Palace,Spurs,0.0,4.0,True
 189,184,19,2023-01-05,Chelsea,Man City,0.0,1.0,True
-190,191,20,2023-01-13,Aston Villa,Leeds,,,False
+190,191,20,2023-01-13,Aston Villa,Leeds,2.0,1.0,True
 191,196,20,2023-01-14,Man Utd,Man City,,,False
 192,193,20,2023-01-14,Brighton,Liverpool,,,False
 193,195,20,2023-01-14,Everton,Southampton,,,False
