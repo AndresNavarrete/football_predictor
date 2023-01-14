@@ -1,6 +1,6 @@
-from src.providers.fixture import Fixture
-from src.ml_model.predictor import Predictor
 from src.content_generator.table_creator import TableCreator
+from src.ml_model.predictor import Predictor
+from src.providers.fixture import Fixture
 
 if __name__ == "__main__":
     fixture = Fixture()
@@ -11,6 +11,5 @@ if __name__ == "__main__":
     fixture.save()
 
     predictor.execute()
-    
-    table_creator.execute()
 
+    table_creator.execute()
