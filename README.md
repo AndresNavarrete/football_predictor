@@ -1,5 +1,7 @@
 # Premier League Predictions
 
-In this projet I use some machine learning algorithms to predict the outcome of the Premier League.  Below is an image of my most recent prediction. 
+Using some machine learning algorithms I predict the outcome of the Premier League. The prediction considers historial matches, current results and performance of each team. 
+
+The image below is my most recent prediction. 
 
 ![Standings forecast](/img/out/standings_forecast.png)
