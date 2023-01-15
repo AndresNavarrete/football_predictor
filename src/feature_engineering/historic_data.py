@@ -108,7 +108,7 @@ class Processor:
 
     def clean_data(self):
         df_matches = self.df
-        query_path = "src/sql/clean_data.sql"
+        query_path = "sql/clean_data.sql"
         query = self.load_query(query_path)
         self.df = self.con.execute(query).df()
 
