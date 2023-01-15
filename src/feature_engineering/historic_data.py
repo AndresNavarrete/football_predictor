@@ -82,26 +82,13 @@ class Processor:
 
     def add_streak_columns(self):
         df_matches = self.df
-        query = """
-            WITH matches AS (
-            SELECT
-                *,
-                ROW_NUMBER() OVER (PARTITION BY season, team ORDER BY datetime) AS match_number_home,
-                ROW_NUMBER() OVER (PARTITION BY season, opponent ORDER BY datetime) AS match_number_away
-            FROM df_matches
-            ORDER BY season, datetime)
-            SELECT
-                m.*,
-                (SELECT COUNT(*) FROM matches WHERE season = m.season AND team = m.team AND result = 'W' AND match_number_home > m.match_number_home - 6 AND match_number_home < m.match_number_home) AS home_last_wins,
-                (SELECT COUNT(*) FROM matches WHERE season = m.season AND team = m.team AND result = 'L' AND match_number_home > m.match_number_home - 6 AND match_number_home < m.match_number_home) AS home_last_loses,
-                (SELECT COUNT(*) FROM matches WHERE season = m.season AND team = m.team AND result = 'D' AND match_number_home > m.match_number_home - 6 AND match_number_home < m.match_number_home) AS home_last_draws,
-                (SELECT COUNT(*) FROM matches WHERE season = m.season AND opponent = m.opponent AND result = 'W' AND match_number_away > m.match_number_away - 6 AND match_number_away < m.match_number_away) AS away_last_wins,
-                (SELECT COUNT(*) FROM matches WHERE season = m.season AND opponent = m.opponent AND result = 'L' AND match_number_away > m.match_number_away - 6 AND match_number_away < m.match_number_away) AS away_last_loses,
-                (SELECT COUNT(*) FROM matches WHERE season = m.season AND opponent = m.opponent AND result = 'D' AND match_number_away > m.match_number_away - 6 AND match_number_away < m.match_number_away) AS away_last_draws            
-            FROM matches m
-            ORDER BY season, datetime;
-        """
+        query_path = 'src/sql/team_steaks.sql' 
+        query = self.load_query(query_path)
         self.df = self.con.execute(query).df()
+    
+    def load_query(self, query_path):
+        return open(query_path, "r").read()
+
 
     def add_categorical_columns(self):
         self.df["home_code"] = self.df.team.astype("category").cat.codes
@@ -122,25 +109,8 @@ class Processor:
 
     def clean_data(self):
         df_matches = self.df
-        query = """
-            select 
-                team as home,
-                opponent as away,
-                home_code,
-                away_code,
-                home_last_wins,
-                home_last_draws,
-                home_last_loses,
-                away_last_wins,
-                away_last_draws,
-                away_last_loses,
-                GF,
-                GA
-            from df_matches
-            where 
-                GF < 10 and 
-                GA < 10
-            """
+        query_path = 'src/sql/clean_data.sql' 
+        query = self.load_query(query_path)
         self.df = self.con.execute(query).df()
 
     def export_data(self):

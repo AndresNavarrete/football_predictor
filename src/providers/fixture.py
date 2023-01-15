@@ -27,22 +27,12 @@ class Fixture:
         return pd.DataFrame(json.loads(response.text))
 
     def serialize_data(self, raw_data):
-        query = """
-        SELECT
-            MatchNumber::INT AS id,
-            RoundNumber::INT AS round,
-            DateUtc::DATE AS DATE,
-            HomeTeam AS home,
-            AwayTeam AS away,
-            TRY_CAST(HomeTeamScore as INTEGER)  as home_goals,
-            TRY_CAST(AwayTeamScore as INTEGER)  as away_goals,
-            CASE
-                WHEN HomeTeamScore is null THEN FALSE ELSE TRUE 
-            END AS played 
-        FROM
-            raw_data        
-        """
+        query_path = 'src/sql/serialize_data.sql' 
+        query = self.load_query(query_path)
         self.fixture = self.con.execute(query).df()
+    
+    def load_query(self, query_path):
+        return open(query_path, "r").read()
 
     def fix_club_names(self):
         replacement = {
