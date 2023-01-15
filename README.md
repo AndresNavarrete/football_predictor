@@ -3,8 +3,12 @@
 [![Live predictions](https://github.com/AndresNavarrete/football_predictor/actions/workflows/update_predictions.yml/badge.svg)](https://github.com/AndresNavarrete/football_predictor/actions/workflows/update_predictions.yml)
 
 
-Using some machine learning algorithms I predict the outcome of the Premier League. The prediction considers historial matches, current results and performance of each team. 
+The goal of this repository is to create a supervised machine learning algorithm that predicts the outcome of the Premier League. The prediction considers historical matches, current season results and performance of each team. 
 
-The image below is my most recent prediction. 
 
-![Standings forecast](/img/out/standings_forecast.png)
+<img src="/img/project_diagram.png" alt="Project diagram" width="100%"/>
+
+# Most recent prediction
+
+
+<img src="/img/out/standings_forecast.png" alt="Standings forecast" width="100%"/>
