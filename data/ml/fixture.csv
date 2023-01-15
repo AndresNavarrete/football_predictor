@@ -190,12 +190,12 @@
 188,185,19,2023-01-04,Crystal Palace,Spurs,0.0,4.0,True
 189,184,19,2023-01-05,Chelsea,Man City,0.0,1.0,True
 190,191,20,2023-01-13,Aston Villa,Leeds,2.0,1.0,True
-191,196,20,2023-01-14,Man Utd,Man City,,,False
-192,193,20,2023-01-14,Brighton,Liverpool,,,False
-193,195,20,2023-01-14,Everton,Southampton,,,False
-194,198,20,2023-01-14,Nottingham Forest,Leicester,,,False
-195,200,20,2023-01-14,Wolves,West Ham,,,False
-196,192,20,2023-01-14,Brentford,Bournemouth,,,False
+191,196,20,2023-01-14,Man Utd,Man City,2.0,1.0,True
+192,193,20,2023-01-14,Brighton,Liverpool,3.0,0.0,True
+193,195,20,2023-01-14,Everton,Southampton,1.0,2.0,True
+194,198,20,2023-01-14,Nottingham Forest,Leicester,2.0,0.0,True
+195,200,20,2023-01-14,Wolves,West Ham,1.0,0.0,True
+196,192,20,2023-01-14,Brentford,Bournemouth,2.0,0.0,True
 197,194,20,2023-01-15,Chelsea,Crystal Palace,,,False
 198,197,20,2023-01-15,Newcastle,Fulham,,,False
 199,199,20,2023-01-15,Spurs,Arsenal,,,False
