@@ -82,13 +82,12 @@ class Processor:
 
     def add_streak_columns(self):
         df_matches = self.df
-        query_path = 'src/sql/team_steaks.sql' 
+        query_path = "src/sql/team_steaks.sql"
         query = self.load_query(query_path)
         self.df = self.con.execute(query).df()
-    
+
     def load_query(self, query_path):
         return open(query_path, "r").read()
-
 
     def add_categorical_columns(self):
         self.df["home_code"] = self.df.team.astype("category").cat.codes
@@ -109,7 +108,7 @@ class Processor:
 
     def clean_data(self):
         df_matches = self.df
-        query_path = 'src/sql/clean_data.sql' 
+        query_path = "src/sql/clean_data.sql"
         query = self.load_query(query_path)
         self.df = self.con.execute(query).df()
 

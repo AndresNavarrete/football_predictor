@@ -27,10 +27,10 @@ class Fixture:
         return pd.DataFrame(json.loads(response.text))
 
     def serialize_data(self, raw_data):
-        query_path = 'src/sql/serialize_data.sql' 
+        query_path = "src/sql/serialize_data.sql"
         query = self.load_query(query_path)
         self.fixture = self.con.execute(query).df()
-    
+
     def load_query(self, query_path):
         return open(query_path, "r").read()
 
