@@ -196,9 +196,9 @@
 194,198,20,2023-01-14,Nott'm Forest,Leicester,2.0,0.0,True
 195,200,20,2023-01-14,Wolves,West Ham,1.0,0.0,True
 196,192,20,2023-01-14,Brentford,Bournemouth,2.0,0.0,True
-197,194,20,2023-01-15,Chelsea,Crystal Palace,,,False
-198,197,20,2023-01-15,Newcastle,Fulham,,,False
-199,199,20,2023-01-15,Tottenham,Arsenal,,,False
+197,194,20,2023-01-15,Chelsea,Crystal Palace,1.0,0.0,True
+198,197,20,2023-01-15,Newcastle,Fulham,1.0,0.0,True
+199,199,20,2023-01-15,Tottenham,Arsenal,0.0,2.0,True
 200,207,21,2023-01-21,Liverpool,Chelsea,,,False
 201,201,21,2023-01-21,Bournemouth,Nott'm Forest,,,False
 202,206,21,2023-01-21,Leicester,Brighton,,,False
