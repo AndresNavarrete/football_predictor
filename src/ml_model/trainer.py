@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 from base_trainer import BaseTrainer
 from sklearn.compose import ColumnTransformer
-from sklearn.ensemble import RandomForestRegressor
+from sklearn.svm import SVR
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
@@ -14,7 +14,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 class Trainer(BaseTrainer):
     def __init__(self):
         super().__init__()
-        self.model_name = "random_forest"
+        self.model_name = "svr"
 
     def execute(self):
         self.load_database()
@@ -56,9 +56,7 @@ class Trainer(BaseTrainer):
         )
 
     def set_model(self):
-        self.regressor = RandomForestRegressor(
-            n_estimators=150, random_state=42
-        )
+        self.regressor = SVR(kernel="rbf", C=100, gamma=0.1, epsilon=0.1)
         self.model = make_pipeline(self.encoder, self.regressor)
 
     def train_model(self):
@@ -66,9 +64,12 @@ class Trainer(BaseTrainer):
 
     def generate_metadata(self):
         features_importance = dict()
+        """
         importances = self.regressor.feature_importances_
         for value, var in zip(importances, list(self.features)):
             features_importance[var] = value
+        """
+        
         self.metadata = {
             "model": self.model_name,
             "features_importance": features_importance,
