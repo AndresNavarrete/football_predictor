@@ -80,9 +80,9 @@ class Predictor:
         return -1
 
     def manage_prediction(self, prediction, home, away):
-        if prediction >= 1:
+        if prediction >= 0.5:
             self.standings.add_winning_home_results(home, away)
-        elif prediction <= -1:
+        elif prediction <= -0.5:
             self.standings.add_losing_home_results(home, away)
         else:
             self.standings.add_draw_results(home, away)

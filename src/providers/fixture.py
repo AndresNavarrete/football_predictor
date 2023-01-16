@@ -35,11 +35,8 @@ class Fixture:
         return open(query_path, "r").read()
 
     def fix_club_names(self):
-        replacement = {
-            "home": self.names_translator,
-            "away": self.names_translator,
-        }
-        return self.fixture.replace(replacement)
+        self.fixture["home"].replace(self.names_translator, inplace=True)
+        self.fixture["away"].replace(self.names_translator, inplace=True)
 
     def save(self):
         path = "data/ml/fixture.csv"
