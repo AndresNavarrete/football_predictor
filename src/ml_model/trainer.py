@@ -6,9 +6,9 @@ import numpy as np
 import pandas as pd
 from base_trainer import BaseTrainer
 from sklearn.compose import ColumnTransformer
-from sklearn.svm import SVR
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
+from sklearn.svm import SVR
 
 
 class Trainer(BaseTrainer):
@@ -69,7 +69,7 @@ class Trainer(BaseTrainer):
         for value, var in zip(importances, list(self.features)):
             features_importance[var] = value
         """
-        
+
         self.metadata = {
             "model": self.model_name,
             "features_importance": features_importance,
