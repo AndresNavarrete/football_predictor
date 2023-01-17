@@ -65,9 +65,9 @@
 63,69,7,2022-09-10,Southampton,Brentford,,,False
 64,62,7,2022-09-11,Arsenal,Everton,,,False
 65,70,7,2022-09-11,West Ham,Newcastle,,,False
-66,63,7,2022-09-11,Crystal Palace,Man United,,,False
-67,65,7,2022-09-12,Leeds,Nott'm Forest,,,False
-68,64,7,2023-01-12,Fulham,Chelsea,2.0,1.0,True
+66,65,7,2022-09-12,Leeds,Nott'm Forest,,,False
+67,64,7,2023-01-12,Fulham,Chelsea,2.0,1.0,True
+68,63,7,2023-01-19,Crystal Palace,Man United,,,False
 69,68,7,2023-01-19,Man City,Tottenham,,,False
 70,71,8,2022-09-16,Aston Villa,Southampton,1.0,0.0,True
 71,78,8,2022-09-16,Nott'm Forest,Fulham,2.0,3.0,True
