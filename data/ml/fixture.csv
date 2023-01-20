@@ -67,8 +67,8 @@
 65,70,7,2022-09-11,West Ham,Newcastle,,,False
 66,65,7,2022-09-12,Leeds,Nott'm Forest,,,False
 67,64,7,2023-01-12,Fulham,Chelsea,2.0,1.0,True
-68,63,7,2023-01-19,Crystal Palace,Man United,,,False
-69,68,7,2023-01-19,Man City,Tottenham,,,False
+68,63,7,2023-01-19,Crystal Palace,Man United,1.0,1.0,True
+69,68,7,2023-01-19,Man City,Tottenham,4.0,2.0,True
 70,71,8,2022-09-16,Aston Villa,Southampton,1.0,0.0,True
 71,78,8,2022-09-16,Nott'm Forest,Fulham,2.0,3.0,True
 72,80,8,2022-09-17,Wolves,Man City,0.0,3.0,True
