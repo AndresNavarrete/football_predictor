@@ -205,9 +205,9 @@
 203,209,21,2023-01-21,Southampton,Aston Villa,0.0,1.0,True
 204,210,21,2023-01-21,West Ham,Everton,2.0,0.0,True
 205,203,21,2023-01-21,Crystal Palace,Newcastle,0.0,0.0,True
-206,205,21,2023-01-22,Leeds,Brentford,,,False
-207,208,21,2023-01-22,Man City,Wolves,,,False
-208,202,21,2023-01-22,Arsenal,Man United,,,False
+206,205,21,2023-01-22,Leeds,Brentford,0.0,0.0,True
+207,208,21,2023-01-22,Man City,Wolves,3.0,0.0,True
+208,202,21,2023-01-22,Arsenal,Man United,3.0,2.0,True
 209,204,21,2023-01-23,Fulham,Tottenham,,,False
 210,214,22,2023-02-03,Chelsea,Fulham,,,False
 211,215,22,2023-02-04,Everton,Arsenal,,,False
