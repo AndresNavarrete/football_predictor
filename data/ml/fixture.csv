@@ -208,7 +208,7 @@
 206,205,21,2023-01-22,Leeds,Brentford,0.0,0.0,True
 207,208,21,2023-01-22,Man City,Wolves,3.0,0.0,True
 208,202,21,2023-01-22,Arsenal,Man United,3.0,2.0,True
-209,204,21,2023-01-23,Fulham,Tottenham,,,False
+209,204,21,2023-01-23,Fulham,Tottenham,0.0,1.0,True
 210,214,22,2023-02-03,Chelsea,Fulham,,,False
 211,215,22,2023-02-04,Everton,Arsenal,,,False
 212,211,22,2023-02-04,Aston Villa,Leicester,,,False
