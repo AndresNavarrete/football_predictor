@@ -45,8 +45,18 @@ class Predictor:
             home = row.home
             away = row.away
             data_parsed = self.parse_match_row(row)
-            prediction = self.model.predict(data_parsed)[0]
+            prediction_raw = self.model.predict(data_parsed)[0]
+            prediction = self.decode_prediction(prediction_raw)
+            print(f" {home} vs {away} : result {prediction}")
             self.manage_prediction(prediction, home, away)
+
+    def decode_prediction(self, prediction):
+        if prediction == 0:
+            return "Home"
+        if prediction == 1:
+            return "Draw"
+        if prediction == 2:
+            return "Away"
 
     def get_next_match(self):
         row = self.future_matches.iloc[10]
@@ -80,12 +90,12 @@ class Predictor:
         return -1
 
     def manage_prediction(self, prediction, home, away):
-        if prediction >= 0.5:
+        if prediction == "Home":
             self.standings.add_winning_home_results(home, away)
-        elif prediction <= -0.5:
-            self.standings.add_losing_home_results(home, away)
-        else:
+        elif prediction == "Draw":
             self.standings.add_draw_results(home, away)
+        elif prediction == "Away":
+            self.standings.add_losing_home_results(home, away)
 
 
 if __name__ == "__main__":

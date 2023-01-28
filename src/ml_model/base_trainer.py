@@ -9,9 +9,10 @@ class BaseTrainer:
         self.regressor = None
         self.model = None
         self.metadata = None
-        self.target_name = "diff_h_a"
+        self.target_name = "result"
         self.not_usefull_columns = [
             self.target_name,
+            "diff_h_a",
             "home",
             "away",
             "GF",

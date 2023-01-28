@@ -1,6 +1,9 @@
-name: Python format
+name: Code formatter
 
-on: [push]
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   format:
@@ -24,5 +27,5 @@ jobs:
           git config --global user.email "${{ secrets.GIT_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_NAME }}"
           git add .
-          git commit -m "Format and organize code with black and isort" || echo "No changes to commit"
+          git commit -m "Auto commit: Code formatter" || echo "No changes to commit"
           git push

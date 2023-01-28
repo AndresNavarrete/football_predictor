@@ -3,7 +3,7 @@ name: Update predictions
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */8 * * *'
+    - cron: '0 15 * * *'
 
 jobs:
   build:
@@ -20,15 +20,12 @@ jobs:
 
     - name: Install dependencies
       run: |
-        export PYTHONPATH=$PWD
-        echo $PYTHONPATH
         pip install pipenv
         pipenv install --dev
         
     - name: Run script
       run: |
         export PYTHONPATH=$PWD
-        echo $PYTHONPATH
         pipenv run python3 src/predict.py
         
     - name: Commit and push changes
@@ -36,5 +33,5 @@ jobs:
         git config --global user.email "${{ secrets.GIT_EMAIL }}"
         git config --global user.name "${{ secrets.GIT_NAME }}"
         git add .
-        git commit -m "Update prediction" || echo "No changes to commit"
+        git commit -m "Auto commit: Update predictions" || echo "No changes to commit"
         git push

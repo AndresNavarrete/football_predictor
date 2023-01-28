@@ -1,5 +1,14 @@
 {
-    "model": "random_forest",
-    "features_importance": {},
-    "updated_at": 1673833863.8604345
+    "model": "RandomForestClassifier",
+    "features_importance": {
+        "home_code": 0.0077525790565908395,
+        "away_code": 0.012422053643725544,
+        "home_last_wins": 0.0008986533181156136,
+        "home_last_draws": 0.005244385318539251,
+        "home_last_loses": 0.009784037464076746,
+        "away_last_wins": 0.0010142657526203637,
+        "away_last_draws": 0.007864885381147118,
+        "away_last_loses": 0.0038058597015692853
+    },
+    "updated_at": 1674926950.2337222
 }
