@@ -4,17 +4,17 @@ import time
 import joblib
 import numpy as np
 import pandas as pd
-from base_trainer import BaseTrainer
+from src.ml_model.base_trainer import BaseTrainer
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
-from sklearn.svm import SVR
+from sklearn.ensemble import RandomForestClassifier
 
 
 class Trainer(BaseTrainer):
     def __init__(self):
         super().__init__()
-        self.model_name = "svr"
+        self.model_name = "RandomForestClassifier"
 
     def execute(self):
         self.load_database()
@@ -30,7 +30,15 @@ class Trainer(BaseTrainer):
         path = f"{self.ML_DIR}/{self.DATAFILE}"
         df = pd.read_csv(path)
         df["diff_h_a"] = df.GF - df.GA
+        df["result"] = df["diff_h_a"].apply(lambda row : self.get_result_from_row(row))
         self.database = df
+    
+    def get_result_from_row(self, diff):
+        if diff > 0:
+            return 0
+        if diff == 0:
+            return 1
+        return 2
 
     def split_database(self):
         self.features = self.database.drop(columns=self.not_usefull_columns)
@@ -56,7 +64,7 @@ class Trainer(BaseTrainer):
         )
 
     def set_model(self):
-        self.regressor = SVR(kernel="rbf", C=100, gamma=0.1, epsilon=0.1)
+        self.regressor = RandomForestClassifier(random_state=0, criterion = "entropy")
         self.model = make_pipeline(self.encoder, self.regressor)
 
     def train_model(self):
@@ -64,11 +72,11 @@ class Trainer(BaseTrainer):
 
     def generate_metadata(self):
         features_importance = dict()
-        """
+        
         importances = self.regressor.feature_importances_
         for value, var in zip(importances, list(self.features)):
             features_importance[var] = value
-        """
+        
 
         self.metadata = {
             "model": self.model_name,
