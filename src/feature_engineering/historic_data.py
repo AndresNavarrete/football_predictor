@@ -82,7 +82,7 @@ class Processor:
 
     def add_streak_columns(self):
         df_matches = self.df
-        query_path = "src/sql/team_steaks.sql"
+        query_path = "sql/team_steaks.sql"
         query = self.load_query(query_path)
         self.df = self.con.execute(query).df()
 
