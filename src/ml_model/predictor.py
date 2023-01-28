@@ -49,15 +49,14 @@ class Predictor:
             prediction = self.decode_prediction(prediction_raw)
             print(f" {home} vs {away} : result {prediction}")
             self.manage_prediction(prediction, home, away)
-    
+
     def decode_prediction(self, prediction):
         if prediction == 0:
             return "Home"
         if prediction == 1:
             return "Draw"
         if prediction == 2:
-            return "Away" 
-
+            return "Away"
 
     def get_next_match(self):
         row = self.future_matches.iloc[10]
@@ -97,7 +96,6 @@ class Predictor:
             self.standings.add_draw_results(home, away)
         elif prediction == "Away":
             self.standings.add_losing_home_results(home, away)
-        
 
 
 if __name__ == "__main__":
