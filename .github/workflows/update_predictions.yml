@@ -3,8 +3,7 @@ name: Update predictions
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 12 * * *'
-    - timezone: 'America/Santiago'
+    - cron: '0 15 * * *'
 
 jobs:
   build:
