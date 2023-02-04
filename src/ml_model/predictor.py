@@ -15,6 +15,7 @@ class Predictor:
         self.categories = None
         self.future_matches = None
         self.standings = None
+        self.predicted_matches = list()
 
     def execute(self):
         self.load_model()
@@ -23,6 +24,7 @@ class Predictor:
         self.set_future_matches()
         self.forecast_rest_of_season()
         self.standings.export_table()
+        self.export_predictions()
 
     def load_model(self):
         path = f"{self.ML_DIR}/trained_model.pkl"
@@ -48,8 +50,20 @@ class Predictor:
             data_parsed = self.parse_match_row(row)
             prediction_raw = self.model.predict(data_parsed)[0]
             prediction = self.decode_prediction(prediction_raw)
-            print(f" {home} vs {away} : result {prediction}")
+            print(f"{home} vs {away} : result {prediction}")
             self.manage_prediction(prediction, home, away)
+            self.add_prediction_record(row, prediction)
+            
+
+    def add_prediction_record(self, row, prediction):
+        record = {
+                'date': row.DATE,
+                'home': row.home,
+                'away': row.away,
+                'prediction': prediction
+            }
+        self.predicted_matches.append(record)
+
 
     def decode_prediction(self, prediction):
         if prediction == 0:
@@ -97,6 +111,11 @@ class Predictor:
             self.standings.add_draw_results(home, away)
         elif prediction == "Away":
             self.standings.add_losing_home_results(home, away)
+    
+    def export_predictions(self):
+        records = pd.DataFrame.from_records(self.predicted_matches)
+        path = f"{self.ML_DIR}/predictions.csv"
+        records.to_csv(path)
 
 
 if __name__ == "__main__":
