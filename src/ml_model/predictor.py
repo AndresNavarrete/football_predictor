@@ -53,17 +53,15 @@ class Predictor:
             print(f"{home} vs {away} : result {prediction}")
             self.manage_prediction(prediction, home, away)
             self.add_prediction_record(row, prediction)
-            
 
     def add_prediction_record(self, row, prediction):
         record = {
-                'date': row.DATE,
-                'home': row.home,
-                'away': row.away,
-                'prediction': prediction
-            }
+            "date": row.DATE,
+            "home": row.home,
+            "away": row.away,
+            "prediction": prediction,
+        }
         self.predicted_matches.append(record)
-
 
     def decode_prediction(self, prediction):
         if prediction == 0:
@@ -111,7 +109,7 @@ class Predictor:
             self.standings.add_draw_results(home, away)
         elif prediction == "Away":
             self.standings.add_losing_home_results(home, away)
-    
+
     def export_predictions(self):
         records = pd.DataFrame.from_records(self.predicted_matches)
         path = f"{self.ML_DIR}/predictions.csv"
