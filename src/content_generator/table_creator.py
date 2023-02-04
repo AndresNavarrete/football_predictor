@@ -1,25 +1,55 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 from PIL import Image
+import duckdb
 
 
 class TableCreator:
     def __init__(self):
+        self.con = duckdb.connect()
+        self.current_standings_path = "./data/forecast/current_standings.csv"
         self.standings_path = "./data/forecast/standings.csv"
         self.table_image_path = "./img/out/standings_forecast.png"
-        self.positions = [0.25, 2.5, 3.5, 4.5, 5.5]
+        self.positions = [0.3, 1.25, 3.5, 4.5, 5.5]
+        self.current_standings = None
         self.df = None
         self.fig = None
         self.ax = None
-
+    
+    def execute(self):
+        self.set_df()
+        self.set_figure()
+        self.add_main_text()
+        self.add_team_logos()
+        self.add_columns_names()
+        self.add_lines()
+        self.save_img()
+    
     def set_df(self):
-        df = pd.read_csv(self.standings_path)
+        prediction = self.get_df(self.standings_path)
+        current = self.get_df(self.current_standings_path)
+
+        query = """
+        SELECT
+            p.pos,
+            c.pos AS current_pos,
+            p.team,
+            p.points 
+        FROM
+            prediction p 
+        LEFT JOIN
+            current c USING(team)
+        """
+        self.df = self.con.execute(query).df()
+
+    def get_df(self, standings_path):
+        df = pd.read_csv(standings_path)
         df["pos"] = df.reset_index().index + 1
         df.drop(columns=df.columns[0], axis=1, inplace=True)
         df = df[["pos", "team", "matches", "points"]].sort_values(
             by="points", ascending=True
         )
-        self.df = df
+        return df
 
     def set_figure(self):
         self.fig = plt.figure(figsize=(7, 10), dpi=300)
@@ -32,22 +62,11 @@ class TableCreator:
         self.ax.set_xlim(0, self.ncols + 1)
         self.ax.set_ylim(0, self.nrows)
 
-    def execute(self):
-        self.set_df()
-        self.set_figure()
-        self.add_main_text()
-        self.add_team_logos()
-        self.add_columns_names()
-        self.add_lines()
-        self.save_img()
 
     def add_main_text(self):
         for i in range(self.nrows):
             for j, column in enumerate(self.columns):
-                if j == 0:
-                    ha = "left"
-                else:
-                    ha = "center"
+                ha = "center"
                 self.ax.annotate(
                     text=self.df[column].iloc[i],
                     xy=(self.positions[j], i + 0.5),
@@ -59,13 +78,13 @@ class TableCreator:
         DC_to_FC = self.ax.transData.transform
         FC_to_NFC = self.fig.transFigure.inverted().transform
         DC_to_NFC = lambda x: FC_to_NFC(DC_to_FC(x))
-        ax_point_1 = DC_to_NFC([2.25, 0.25])
-        ax_point_2 = DC_to_NFC([2.75, 0.75])
+        ax_point_1 = DC_to_NFC([2.2, 0.2])
+        ax_point_2 = DC_to_NFC([2.9, 0.8])
         ax_width = abs(ax_point_1[0] - ax_point_2[0])
         ax_height = abs(ax_point_1[1] - ax_point_2[1])
         for x in range(0, self.nrows):
             team_name = self.df["team"].iloc[x]
-            ax_coords = DC_to_NFC([1.25, x + 0.25])
+            ax_coords = DC_to_NFC([2.15, x + 0.25])
             flag_ax = self.fig.add_axes(
                 [ax_coords[0], ax_coords[1], ax_width, ax_height]
             )
@@ -78,14 +97,11 @@ class TableCreator:
         return flag_ax
 
     def add_columns_names(self):
-        column_names = ["Position", "Team", "Matches", "Points"]
-        for index, c in enumerate(column_names):
-            if index == 0:
-                ha = "left"
-            else:
-                ha = "center"
+        column_names = ["Forecast", "Current", "Team", "Points"]
+        for index, col in enumerate(column_names):
+            ha = "center"
             self.ax.annotate(
-                text=column_names[index],
+                text=col,
                 xy=(self.positions[index], self.nrows),
                 ha=ha,
                 va="bottom",

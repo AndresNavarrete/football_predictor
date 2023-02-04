@@ -36,6 +36,7 @@ class Predictor:
     def set_standing(self):
         self.standings = Standings()
         self.standings.execute()
+        self.standings.export_table(filename="current_standings")
 
     def set_future_matches(self):
         self.future_matches = self.standings.database.query("played == False")
