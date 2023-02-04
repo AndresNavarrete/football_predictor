@@ -80,7 +80,7 @@ class Standings:
             by="points", ascending=False
         )
 
-    def export_table(self, filename = 'standings'):
+    def export_table(self, filename="standings"):
         path = f"data/forecast/{filename}.csv"
         self.set_table_of_positions()
         self.table_positions.to_csv(path)

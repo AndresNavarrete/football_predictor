@@ -1,7 +1,7 @@
+import duckdb
 import matplotlib.pyplot as plt
 import pandas as pd
 from PIL import Image
-import duckdb
 
 
 class TableCreator:
@@ -15,7 +15,7 @@ class TableCreator:
         self.df = None
         self.fig = None
         self.ax = None
-    
+
     def execute(self):
         self.set_df()
         self.set_figure()
@@ -24,7 +24,7 @@ class TableCreator:
         self.add_columns_names()
         self.add_lines()
         self.save_img()
-    
+
     def set_df(self):
         prediction = self.get_df(self.standings_path)
         current = self.get_df(self.current_standings_path)
@@ -61,7 +61,6 @@ class TableCreator:
 
         self.ax.set_xlim(0, self.ncols + 1)
         self.ax.set_ylim(0, self.nrows)
-
 
     def add_main_text(self):
         for i in range(self.nrows):
