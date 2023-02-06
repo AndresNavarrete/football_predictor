@@ -217,8 +217,8 @@
 215,216,22,2023-02-04,Man United,Crystal Palace,2.0,1.0,True
 216,220,22,2023-02-04,Wolves,Liverpool,3.0,0.0,True
 217,217,22,2023-02-04,Newcastle,West Ham,1.0,1.0,True
-218,218,22,2023-02-05,Nott'm Forest,Leeds,,,False
-219,219,22,2023-02-05,Tottenham,Man City,,,False
+218,218,22,2023-02-05,Nott'm Forest,Leeds,1.0,0.0,True
+219,219,22,2023-02-05,Tottenham,Man City,1.0,0.0,True
 220,230,23,2023-02-11,West Ham,Chelsea,,,False
 221,222,23,2023-02-11,Arsenal,Brentford,,,False
 222,223,23,2023-02-11,Crystal Palace,Brighton,,,False
