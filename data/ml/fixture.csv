@@ -219,13 +219,13 @@
 217,217,22,2023-02-04,Newcastle,West Ham,1.0,1.0,True
 218,218,22,2023-02-05,Nott'm Forest,Leeds,1.0,0.0,True
 219,219,22,2023-02-05,Tottenham,Man City,1.0,0.0,True
-220,230,23,2023-02-11,West Ham,Chelsea,,,False
-221,222,23,2023-02-11,Arsenal,Brentford,,,False
-222,223,23,2023-02-11,Crystal Palace,Brighton,,,False
-223,224,23,2023-02-11,Fulham,Nott'm Forest,,,False
-224,226,23,2023-02-11,Leicester,Tottenham,,,False
-225,229,23,2023-02-11,Southampton,Wolves,,,False
-226,221,23,2023-02-11,Bournemouth,Newcastle,,,False
+220,230,23,2023-02-11,West Ham,Chelsea,1.0,1.0,True
+221,222,23,2023-02-11,Arsenal,Brentford,1.0,1.0,True
+222,223,23,2023-02-11,Crystal Palace,Brighton,1.0,1.0,True
+223,224,23,2023-02-11,Fulham,Nott'm Forest,2.0,0.0,True
+224,226,23,2023-02-11,Leicester,Tottenham,4.0,1.0,True
+225,229,23,2023-02-11,Southampton,Wolves,1.0,2.0,True
+226,221,23,2023-02-11,Bournemouth,Newcastle,1.0,1.0,True
 227,225,23,2023-02-12,Leeds,Man United,,,False
 228,228,23,2023-02-12,Man City,Aston Villa,,,False
 229,227,23,2023-02-13,Liverpool,Everton,,,False
