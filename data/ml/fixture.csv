@@ -228,7 +228,7 @@
 226,221,23,2023-02-11,Bournemouth,Newcastle,1.0,1.0,True
 227,225,23,2023-02-12,Leeds,Man United,0.0,2.0,True
 228,228,23,2023-02-12,Man City,Aston Villa,3.0,1.0,True
-229,227,23,2023-02-13,Liverpool,Everton,,,False
+229,227,23,2023-02-13,Liverpool,Everton,2.0,0.0,True
 230,231,24,2023-02-18,Aston Villa,Arsenal,,,False
 231,232,24,2023-02-18,Brentford,Crystal Palace,,,False
 232,233,24,2023-02-18,Brighton,Fulham,,,False
