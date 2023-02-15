@@ -61,24 +61,24 @@
 59,56,6,2022-09-04,Man United,Arsenal,3.0,1.0,True
 60,61,7,2022-09-10,Bournemouth,Brighton,,,False
 61,66,7,2022-09-10,Leicester,Aston Villa,,,False
-62,67,7,2022-09-10,Liverpool,Wolves,,,False
-63,69,7,2022-09-10,Southampton,Brentford,,,False
-64,62,7,2022-09-11,Arsenal,Everton,,,False
-65,70,7,2022-09-11,West Ham,Newcastle,,,False
-66,65,7,2022-09-12,Leeds,Nott'm Forest,,,False
-67,64,7,2023-01-12,Fulham,Chelsea,2.0,1.0,True
-68,63,7,2023-01-19,Crystal Palace,Man United,1.0,1.0,True
-69,68,7,2023-01-19,Man City,Tottenham,4.0,2.0,True
+62,70,7,2022-09-11,West Ham,Newcastle,,,False
+63,65,7,2022-09-12,Leeds,Nott'm Forest,,,False
+64,64,7,2023-01-12,Fulham,Chelsea,2.0,1.0,True
+65,63,7,2023-01-19,Crystal Palace,Man United,1.0,1.0,True
+66,68,7,2023-01-19,Man City,Tottenham,4.0,2.0,True
+67,62,7,2023-03-01,Arsenal,Everton,,,False
+68,67,7,2023-03-01,Liverpool,Wolves,,,False
+69,69,7,2023-03-15,Southampton,Brentford,,,False
 70,71,8,2022-09-16,Aston Villa,Southampton,1.0,0.0,True
 71,78,8,2022-09-16,Nott'm Forest,Fulham,2.0,3.0,True
 72,80,8,2022-09-17,Wolves,Man City,0.0,3.0,True
-73,73,8,2022-09-17,Brighton,Crystal Palace,,,False
-74,77,8,2022-09-17,Newcastle,Bournemouth,1.0,1.0,True
-75,79,8,2022-09-17,Tottenham,Leicester,6.0,2.0,True
-76,72,8,2022-09-18,Brentford,Arsenal,0.0,3.0,True
-77,75,8,2022-09-18,Everton,West Ham,1.0,0.0,True
-78,74,8,2022-09-18,Chelsea,Liverpool,,,False
-79,76,8,2023-02-08,Man United,Leeds,2.0,2.0,True
+73,77,8,2022-09-17,Newcastle,Bournemouth,1.0,1.0,True
+74,79,8,2022-09-17,Tottenham,Leicester,6.0,2.0,True
+75,72,8,2022-09-18,Brentford,Arsenal,0.0,3.0,True
+76,75,8,2022-09-18,Everton,West Ham,1.0,0.0,True
+77,74,8,2022-09-18,Chelsea,Liverpool,,,False
+78,76,8,2023-02-08,Man United,Leeds,2.0,2.0,True
+79,73,8,2023-03-16,Brighton,Crystal Palace,,,False
 80,82,9,2022-10-01,Arsenal,Tottenham,3.0,1.0,True
 81,81,9,2022-10-01,Bournemouth,Brentford,0.0,0.0,True
 82,83,9,2022-10-01,Crystal Palace,Chelsea,1.0,2.0,True
