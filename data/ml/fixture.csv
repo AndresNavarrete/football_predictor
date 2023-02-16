@@ -118,7 +118,7 @@
 116,120,12,2022-10-19,Man United,Tottenham,2.0,0.0,True
 117,115,12,2022-10-20,Fulham,Aston Villa,3.0,0.0,True
 118,116,12,2022-10-20,Leicester,Leeds,2.0,0.0,True
-119,112,12,2023-02-15,Arsenal,Man City,,,False
+119,112,12,2023-02-15,Arsenal,Man City,1.0,3.0,True
 120,126,13,2022-10-22,Nott'm Forest,Liverpool,1.0,0.0,True
 121,123,13,2022-10-22,Everton,Crystal Palace,3.0,0.0,True
 122,125,13,2022-10-22,Man City,Brighton,3.0,1.0,True
