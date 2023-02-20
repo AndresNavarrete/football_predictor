@@ -237,8 +237,8 @@
 235,238,24,2023-02-18,Nott'm Forest,Man City,1.0,1.0,True
 236,240,24,2023-02-18,Wolves,Bournemouth,0.0,1.0,True
 237,237,24,2023-02-18,Newcastle,Liverpool,0.0,2.0,True
-238,236,24,2023-02-19,Man United,Leicester,,,False
-239,239,24,2023-02-19,Tottenham,West Ham,,,False
+238,236,24,2023-02-19,Man United,Leicester,3.0,0.0,True
+239,239,24,2023-02-19,Tottenham,West Ham,2.0,0.0,True
 240,244,25,2023-02-24,Fulham,Wolves,,,False
 241,248,25,2023-02-25,Newcastle,Brighton,,,False
 242,243,25,2023-02-25,Everton,Aston Villa,,,False
