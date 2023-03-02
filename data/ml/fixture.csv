@@ -62,8 +62,8 @@
 60,64,7,2023-01-12,Fulham,Chelsea,2.0,1.0,True
 61,63,7,2023-01-19,Crystal Palace,Man United,1.0,1.0,True
 62,68,7,2023-01-19,Man City,Tottenham,4.0,2.0,True
-63,62,7,2023-03-01,Arsenal,Everton,,,False
-64,67,7,2023-03-01,Liverpool,Wolves,,,False
+63,62,7,2023-03-01,Arsenal,Everton,4.0,0.0,True
+64,67,7,2023-03-01,Liverpool,Wolves,2.0,0.0,True
 65,69,7,2023-03-15,Southampton,Brentford,,,False
 66,61,7,2023-04-04,Bournemouth,Brighton,,,False
 67,65,7,2023-04-04,Leeds,Nott'm Forest,,,False
