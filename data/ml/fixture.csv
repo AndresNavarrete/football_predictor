@@ -256,8 +256,8 @@
 254,255,26,2023-03-04,Chelsea,Leeds,1.0,0.0,True
 255,260,26,2023-03-04,Wolves,Tottenham,1.0,0.0,True
 256,259,26,2023-03-04,Southampton,Leicester,1.0,0.0,True
-257,258,26,2023-03-05,Nott'm Forest,Everton,,,False
-258,256,26,2023-03-05,Liverpool,Man United,,,False
+257,258,26,2023-03-05,Nott'm Forest,Everton,2.0,2.0,True
+258,256,26,2023-03-05,Liverpool,Man United,7.0,0.0,True
 259,253,26,2023-03-06,Brentford,Fulham,,,False
 260,261,27,2023-03-11,Bournemouth,Liverpool,,,False
 261,270,27,2023-03-11,West Ham,Aston Villa,,,False
