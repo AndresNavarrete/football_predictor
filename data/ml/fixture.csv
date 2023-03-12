@@ -259,15 +259,15 @@
 257,258,26,2023-03-05,Nott'm Forest,Everton,2.0,2.0,True
 258,256,26,2023-03-05,Liverpool,Man United,7.0,0.0,True
 259,253,26,2023-03-06,Brentford,Fulham,3.0,2.0,True
-260,261,27,2023-03-11,Bournemouth,Liverpool,,,False
-261,270,27,2023-03-11,West Ham,Aston Villa,,,False
-262,263,27,2023-03-11,Everton,Brentford,,,False
-263,265,27,2023-03-11,Leeds,Brighton,,,False
-264,266,27,2023-03-11,Leicester,Chelsea,,,False
-265,269,27,2023-03-11,Tottenham,Nott'm Forest,,,False
-266,262,27,2023-03-11,Crystal Palace,Man City,,,False
-267,264,27,2023-03-12,Fulham,Arsenal,,,False
-268,267,27,2023-03-12,Man United,Southampton,,,False
+260,261,27,2023-03-11,Bournemouth,Liverpool,1.0,0.0,True
+261,263,27,2023-03-11,Everton,Brentford,1.0,0.0,True
+262,265,27,2023-03-11,Leeds,Brighton,2.0,2.0,True
+263,266,27,2023-03-11,Leicester,Chelsea,1.0,3.0,True
+264,269,27,2023-03-11,Tottenham,Nott'm Forest,3.0,1.0,True
+265,262,27,2023-03-11,Crystal Palace,Man City,0.0,1.0,True
+266,264,27,2023-03-12,Fulham,Arsenal,,,False
+267,267,27,2023-03-12,Man United,Southampton,,,False
+268,270,27,2023-03-12,West Ham,Aston Villa,,,False
 269,268,27,2023-03-12,Newcastle,Wolves,,,False
 270,278,28,2023-03-17,Nott'm Forest,Newcastle,,,False
 271,272,28,2023-03-18,Aston Villa,Bournemouth,,,False
