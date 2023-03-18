@@ -64,7 +64,7 @@
 62,68,7,2023-01-19,Man City,Tottenham,4.0,2.0,True
 63,62,7,2023-03-01,Arsenal,Everton,4.0,0.0,True
 64,67,7,2023-03-01,Liverpool,Wolves,2.0,0.0,True
-65,69,7,2023-03-15,Southampton,Brentford,,,False
+65,69,7,2023-03-15,Southampton,Brentford,0.0,2.0,True
 66,61,7,2023-04-04,Bournemouth,Brighton,,,False
 67,65,7,2023-04-04,Leeds,Nott'm Forest,,,False
 68,66,7,2023-04-04,Leicester,Aston Villa,,,False
@@ -269,7 +269,7 @@
 267,267,27,2023-03-12,Man United,Southampton,0.0,0.0,True
 268,270,27,2023-03-12,West Ham,Aston Villa,1.0,1.0,True
 269,268,27,2023-03-12,Newcastle,Wolves,2.0,1.0,True
-270,278,28,2023-03-17,Nott'm Forest,Newcastle,,,False
+270,278,28,2023-03-17,Nott'm Forest,Newcastle,1.0,2.0,True
 271,272,28,2023-03-18,Aston Villa,Bournemouth,,,False
 272,273,28,2023-03-18,Brentford,Leicester,,,False
 273,276,28,2023-03-18,Liverpool,Fulham,,,False
