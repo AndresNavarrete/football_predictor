@@ -270,12 +270,12 @@
 268,270,27,2023-03-12,West Ham,Aston Villa,1.0,1.0,True
 269,268,27,2023-03-12,Newcastle,Wolves,2.0,1.0,True
 270,278,28,2023-03-17,Nott'm Forest,Newcastle,1.0,2.0,True
-271,272,28,2023-03-18,Aston Villa,Bournemouth,,,False
-272,273,28,2023-03-18,Brentford,Leicester,,,False
+271,272,28,2023-03-18,Aston Villa,Bournemouth,3.0,0.0,True
+272,273,28,2023-03-18,Brentford,Leicester,1.0,1.0,True
 273,276,28,2023-03-18,Liverpool,Fulham,,,False
-274,279,28,2023-03-18,Southampton,Tottenham,,,False
-275,280,28,2023-03-18,Wolves,Leeds,,,False
-276,275,28,2023-03-18,Chelsea,Everton,,,False
+274,279,28,2023-03-18,Southampton,Tottenham,3.0,3.0,True
+275,280,28,2023-03-18,Wolves,Leeds,2.0,4.0,True
+276,275,28,2023-03-18,Chelsea,Everton,2.0,2.0,True
 277,271,28,2023-03-19,Arsenal,Crystal Palace,,,False
 278,274,28,2023-03-19,Brighton,Man United,,,False
 279,277,28,2023-03-19,Man City,West Ham,,,False
@@ -296,8 +296,8 @@
 294,295,30,2023-04-08,Leicester,Bournemouth,,,False
 295,299,30,2023-04-08,Tottenham,Brighton,,,False
 296,300,30,2023-04-08,Wolves,Chelsea,,,False
-297,294,30,2023-04-08,Leeds,Crystal Palace,,,False
-298,298,30,2023-04-09,Southampton,Man City,,,False
+297,298,30,2023-04-08,Southampton,Man City,,,False
+298,294,30,2023-04-09,Leeds,Crystal Palace,,,False
 299,296,30,2023-04-09,Liverpool,Arsenal,,,False
 300,301,31,2023-04-15,Aston Villa,Newcastle,,,False
 301,302,31,2023-04-15,Chelsea,Brighton,,,False
@@ -305,35 +305,35 @@
 303,307,31,2023-04-15,Southampton,Crystal Palace,,,False
 304,308,31,2023-04-15,Tottenham,Bournemouth,,,False
 305,310,31,2023-04-15,Wolves,Brentford,,,False
-306,306,31,2023-04-15,Nott'm Forest,Man United,,,False
+306,305,31,2023-04-15,Man City,Leicester,,,False
 307,309,31,2023-04-16,West Ham,Arsenal,,,False
-308,305,31,2023-04-16,Man City,Leicester,,,False
+308,306,31,2023-04-16,Nott'm Forest,Man United,,,False
 309,304,31,2023-04-17,Leeds,Liverpool,,,False
 310,312,32,2023-04-21,Arsenal,Southampton,,,False
 311,316,32,2023-04-22,Fulham,Leeds,,,False
-312,311,32,2023-04-22,Bournemouth,West Ham,,,False
-313,313,32,2023-04-22,Brentford,Aston Villa,,,False
-314,315,32,2023-04-22,Crystal Palace,Everton,,,False
-315,317,32,2023-04-22,Leicester,Wolves,,,False
-316,318,32,2023-04-22,Liverpool,Nott'm Forest,,,False
-317,319,32,2023-04-22,Man United,Chelsea,,,False
+312,313,32,2023-04-22,Brentford,Aston Villa,,,False
+313,315,32,2023-04-22,Crystal Palace,Everton,,,False
+314,317,32,2023-04-22,Leicester,Wolves,,,False
+315,318,32,2023-04-22,Liverpool,Nott'm Forest,,,False
+316,319,32,2023-04-22,Man United,Chelsea,,,False
+317,311,32,2023-04-23,Bournemouth,West Ham,,,False
 318,320,32,2023-04-23,Newcastle,Tottenham,,,False
 319,314,32,2023-04-23,Brighton,Man City,,,False
 320,326,33,2023-04-25,Wolves,Crystal Palace,,,False
 321,327,33,2023-04-25,Aston Villa,Fulham,,,False
-322,329,33,2023-04-25,Southampton,Bournemouth,,,False
-323,322,33,2023-04-25,Leeds,Leicester,,,False
-324,323,33,2023-04-26,Nott'm Forest,Brighton,,,False
-325,325,33,2023-04-26,West Ham,Liverpool,,,False
-326,328,33,2023-04-26,Chelsea,Brentford,,,False
-327,330,33,2023-04-26,Man City,Arsenal,,,False
-328,321,33,2023-04-27,Everton,Newcastle,,,False
+322,322,33,2023-04-25,Leeds,Leicester,,,False
+323,323,33,2023-04-26,Nott'm Forest,Brighton,,,False
+324,325,33,2023-04-26,West Ham,Liverpool,,,False
+325,328,33,2023-04-26,Chelsea,Brentford,,,False
+326,330,33,2023-04-26,Man City,Arsenal,,,False
+327,321,33,2023-04-27,Everton,Newcastle,,,False
+328,329,33,2023-04-27,Southampton,Bournemouth,,,False
 329,324,33,2023-04-27,Tottenham,Man United,,,False
 330,335,34,2023-04-29,Crystal Palace,West Ham,,,False
-331,331,34,2023-04-29,Bournemouth,Leeds,,,False
-332,333,34,2023-04-29,Brentford,Nott'm Forest,,,False
-333,334,34,2023-04-29,Brighton,Wolves,,,False
-334,332,34,2023-04-29,Arsenal,Chelsea,,,False
+331,333,34,2023-04-29,Brentford,Nott'm Forest,,,False
+332,334,34,2023-04-29,Brighton,Wolves,,,False
+333,332,34,2023-04-29,Arsenal,Chelsea,,,False
+334,331,34,2023-04-30,Bournemouth,Leeds,,,False
 335,336,34,2023-04-30,Fulham,Man City,,,False
 336,339,34,2023-04-30,Man United,Aston Villa,,,False
 337,340,34,2023-04-30,Newcastle,Southampton,,,False
