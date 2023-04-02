@@ -279,13 +279,13 @@
 277,271,28,2023-03-19,Arsenal,Crystal Palace,4.0,1.0,True
 278,274,28,2023-03-19,Brighton,Man United,,,False
 279,277,28,2023-03-19,Man City,West Ham,,,False
-280,287,29,2023-04-01,Man City,Liverpool,,,False
-281,281,29,2023-04-01,Bournemouth,Fulham,,,False
-282,282,29,2023-04-01,Arsenal,Leeds,,,False
-283,283,29,2023-04-01,Brighton,Brentford,,,False
-284,285,29,2023-04-01,Crystal Palace,Leicester,,,False
-285,289,29,2023-04-01,Nott'm Forest,Wolves,,,False
-286,284,29,2023-04-01,Chelsea,Aston Villa,,,False
+280,287,29,2023-04-01,Man City,Liverpool,4.0,1.0,True
+281,281,29,2023-04-01,Bournemouth,Fulham,2.0,1.0,True
+282,282,29,2023-04-01,Arsenal,Leeds,4.0,1.0,True
+283,283,29,2023-04-01,Brighton,Brentford,3.0,3.0,True
+284,285,29,2023-04-01,Crystal Palace,Leicester,2.0,1.0,True
+285,289,29,2023-04-01,Nott'm Forest,Wolves,1.0,1.0,True
+286,284,29,2023-04-01,Chelsea,Aston Villa,0.0,2.0,True
 287,290,29,2023-04-02,West Ham,Southampton,,,False
 288,288,29,2023-04-02,Newcastle,Man United,,,False
 289,286,29,2023-04-03,Everton,Tottenham,,,False
