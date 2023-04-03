@@ -286,8 +286,8 @@
 284,285,29,2023-04-01,Crystal Palace,Leicester,2.0,1.0,True
 285,289,29,2023-04-01,Nott'm Forest,Wolves,1.0,1.0,True
 286,284,29,2023-04-01,Chelsea,Aston Villa,0.0,2.0,True
-287,290,29,2023-04-02,West Ham,Southampton,,,False
-288,288,29,2023-04-02,Newcastle,Man United,,,False
+287,290,29,2023-04-02,West Ham,Southampton,1.0,0.0,True
+288,288,29,2023-04-02,Newcastle,Man United,2.0,0.0,True
 289,286,29,2023-04-03,Everton,Tottenham,,,False
 290,297,30,2023-04-08,Man United,Everton,,,False
 291,291,30,2023-04-08,Aston Villa,Nott'm Forest,,,False
