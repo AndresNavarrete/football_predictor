@@ -1,87 +1,85 @@
 ,date,home,away,prediction
 0,2023-02-25,Newcastle,Brighton,Home
-1,2023-03-18,Liverpool,Fulham,Away
-2,2023-03-19,Brighton,Man United,Away
-3,2023-03-19,Man City,West Ham,Home
-4,2023-04-09,Leeds,Crystal Palace,Away
-5,2023-04-09,Liverpool,Arsenal,Home
-6,2023-04-15,Aston Villa,Newcastle,Home
-7,2023-04-15,Chelsea,Brighton,Away
-8,2023-04-15,Everton,Fulham,Home
-9,2023-04-15,Southampton,Crystal Palace,Away
-10,2023-04-15,Tottenham,Bournemouth,Home
-11,2023-04-15,Wolves,Brentford,Draw
-12,2023-04-15,Man City,Leicester,Home
-13,2023-04-16,West Ham,Arsenal,Home
-14,2023-04-16,Nott'm Forest,Man United,Home
-15,2023-04-17,Leeds,Liverpool,Home
-16,2023-04-21,Arsenal,Southampton,Away
-17,2023-04-22,Fulham,Leeds,Away
-18,2023-04-22,Brentford,Aston Villa,Away
-19,2023-04-22,Crystal Palace,Everton,Home
-20,2023-04-22,Leicester,Wolves,Away
-21,2023-04-22,Liverpool,Nott'm Forest,Away
-22,2023-04-22,Man United,Chelsea,Home
-23,2023-04-23,Bournemouth,West Ham,Away
-24,2023-04-23,Newcastle,Tottenham,Home
-25,2023-04-23,Brighton,Man City,Home
-26,2023-04-25,Wolves,Crystal Palace,Home
-27,2023-04-25,Aston Villa,Fulham,Home
-28,2023-04-25,Leeds,Leicester,Away
-29,2023-04-26,Nott'm Forest,Brighton,Home
-30,2023-04-26,West Ham,Liverpool,Away
-31,2023-04-26,Chelsea,Brentford,Away
-32,2023-04-26,Man City,Arsenal,Home
-33,2023-04-27,Everton,Newcastle,Home
-34,2023-04-27,Southampton,Bournemouth,Away
-35,2023-04-27,Tottenham,Man United,Home
-36,2023-04-29,Crystal Palace,West Ham,Home
-37,2023-04-29,Brentford,Nott'm Forest,Away
-38,2023-04-29,Brighton,Wolves,Away
-39,2023-04-29,Arsenal,Chelsea,Away
-40,2023-04-30,Bournemouth,Leeds,Away
-41,2023-04-30,Fulham,Man City,Home
-42,2023-04-30,Man United,Aston Villa,Home
-43,2023-04-30,Newcastle,Southampton,Away
-44,2023-04-30,Liverpool,Tottenham,Home
-45,2023-05-01,Leicester,Everton,Away
-46,2023-05-06,Bournemouth,Chelsea,Away
-47,2023-05-06,Brighton,Everton,Away
-48,2023-05-06,Fulham,Leicester,Away
-49,2023-05-06,Liverpool,Brentford,Away
-50,2023-05-06,Man City,Leeds,Away
-51,2023-05-06,Newcastle,Arsenal,Away
-52,2023-05-06,Nott'm Forest,Southampton,Home
-53,2023-05-06,Tottenham,Crystal Palace,Home
-54,2023-05-06,West Ham,Man United,Away
-55,2023-05-06,Wolves,Aston Villa,Home
-56,2023-05-13,Arsenal,Brighton,Away
-57,2023-05-13,Aston Villa,Tottenham,Away
-58,2023-05-13,Brentford,West Ham,Home
-59,2023-05-13,Chelsea,Nott'm Forest,Home
-60,2023-05-13,Crystal Palace,Bournemouth,Away
-61,2023-05-13,Everton,Man City,Home
-62,2023-05-13,Leeds,Newcastle,Draw
-63,2023-05-13,Leicester,Liverpool,Home
-64,2023-05-13,Man United,Wolves,Home
-65,2023-05-13,Southampton,Fulham,Away
-66,2023-05-20,Bournemouth,Man United,Home
-67,2023-05-20,Brighton,Southampton,Home
-68,2023-05-20,Fulham,Crystal Palace,Home
-69,2023-05-20,Liverpool,Aston Villa,Home
-70,2023-05-20,Man City,Chelsea,Away
-71,2023-05-20,Newcastle,Leicester,Away
-72,2023-05-20,Nott'm Forest,Arsenal,Draw
-73,2023-05-20,Tottenham,Brentford,Away
-74,2023-05-20,West Ham,Leeds,Away
-75,2023-05-20,Wolves,Everton,Home
-76,2023-05-28,Arsenal,Wolves,Home
-77,2023-05-28,Aston Villa,Brighton,Away
-78,2023-05-28,Brentford,Man City,Draw
-79,2023-05-28,Chelsea,Newcastle,Away
-80,2023-05-28,Crystal Palace,Nott'm Forest,Away
-81,2023-05-28,Everton,Bournemouth,Home
-82,2023-05-28,Leeds,Tottenham,Away
-83,2023-05-28,Leicester,West Ham,Home
-84,2023-05-28,Man United,Fulham,Away
-85,2023-05-28,Southampton,Liverpool,Away
+1,2023-05-03,Liverpool,Fulham,Away
+2,2023-05-03,Man City,West Ham,Home
+3,2023-05-04,Brighton,Man United,Away
+4,2023-04-15,Aston Villa,Newcastle,Home
+5,2023-04-15,Chelsea,Brighton,Away
+6,2023-04-15,Everton,Fulham,Home
+7,2023-04-15,Southampton,Crystal Palace,Away
+8,2023-04-15,Tottenham,Bournemouth,Home
+9,2023-04-15,Wolves,Brentford,Draw
+10,2023-04-15,Man City,Leicester,Home
+11,2023-04-16,West Ham,Arsenal,Home
+12,2023-04-16,Nott'm Forest,Man United,Home
+13,2023-04-17,Leeds,Liverpool,Away
+14,2023-04-21,Arsenal,Southampton,Away
+15,2023-04-22,Fulham,Leeds,Away
+16,2023-04-22,Brentford,Aston Villa,Away
+17,2023-04-22,Crystal Palace,Everton,Home
+18,2023-04-22,Leicester,Wolves,Away
+19,2023-04-22,Liverpool,Nott'm Forest,Away
+20,2023-04-22,Man United,Chelsea,Home
+21,2023-04-23,Bournemouth,West Ham,Away
+22,2023-04-23,Newcastle,Tottenham,Home
+23,2023-04-23,Brighton,Man City,Home
+24,2023-04-25,Wolves,Crystal Palace,Home
+25,2023-04-25,Aston Villa,Fulham,Home
+26,2023-04-25,Leeds,Leicester,Away
+27,2023-04-26,Nott'm Forest,Brighton,Home
+28,2023-04-26,West Ham,Liverpool,Away
+29,2023-04-26,Chelsea,Brentford,Away
+30,2023-04-26,Man City,Arsenal,Home
+31,2023-04-27,Everton,Newcastle,Home
+32,2023-04-27,Southampton,Bournemouth,Away
+33,2023-04-27,Tottenham,Man United,Home
+34,2023-04-29,Crystal Palace,West Ham,Home
+35,2023-04-29,Brentford,Nott'm Forest,Away
+36,2023-04-29,Brighton,Wolves,Away
+37,2023-04-29,Arsenal,Chelsea,Away
+38,2023-04-30,Bournemouth,Leeds,Home
+39,2023-04-30,Fulham,Man City,Home
+40,2023-04-30,Man United,Aston Villa,Home
+41,2023-04-30,Newcastle,Southampton,Away
+42,2023-04-30,Liverpool,Tottenham,Home
+43,2023-05-01,Leicester,Everton,Away
+44,2023-05-06,Bournemouth,Chelsea,Away
+45,2023-05-06,Tottenham,Crystal Palace,Home
+46,2023-05-06,Wolves,Aston Villa,Home
+47,2023-05-06,Liverpool,Brentford,Away
+48,2023-05-07,Man City,Leeds,Away
+49,2023-05-07,Newcastle,Arsenal,Away
+50,2023-05-07,West Ham,Man United,Away
+51,2023-05-08,Fulham,Leicester,Away
+52,2023-05-08,Brighton,Everton,Away
+53,2023-05-08,Nott'm Forest,Southampton,Home
+54,2023-05-13,Leeds,Newcastle,Away
+55,2023-05-13,Aston Villa,Tottenham,Away
+56,2023-05-13,Brentford,West Ham,Home
+57,2023-05-13,Chelsea,Nott'm Forest,Home
+58,2023-05-13,Crystal Palace,Bournemouth,Home
+59,2023-05-13,Man United,Wolves,Home
+60,2023-05-13,Southampton,Fulham,Away
+61,2023-05-14,Everton,Man City,Home
+62,2023-05-14,Arsenal,Brighton,Away
+63,2023-05-15,Leicester,Liverpool,Away
+64,2023-05-20,Bournemouth,Man United,Home
+65,2023-05-20,Brighton,Southampton,Home
+66,2023-05-20,Fulham,Crystal Palace,Away
+67,2023-05-20,Liverpool,Aston Villa,Home
+68,2023-05-20,Man City,Chelsea,Away
+69,2023-05-20,Newcastle,Leicester,Home
+70,2023-05-20,Nott'm Forest,Arsenal,Draw
+71,2023-05-20,Tottenham,Brentford,Away
+72,2023-05-20,West Ham,Leeds,Away
+73,2023-05-20,Wolves,Everton,Home
+74,2023-05-28,Arsenal,Wolves,Home
+75,2023-05-28,Aston Villa,Brighton,Away
+76,2023-05-28,Brentford,Man City,Draw
+77,2023-05-28,Chelsea,Newcastle,Home
+78,2023-05-28,Crystal Palace,Nott'm Forest,Home
+79,2023-05-28,Everton,Bournemouth,Home
+80,2023-05-28,Leeds,Tottenham,Away
+81,2023-05-28,Leicester,West Ham,Away
+82,2023-05-28,Man United,Fulham,Home
+83,2023-05-28,Southampton,Liverpool,Home
