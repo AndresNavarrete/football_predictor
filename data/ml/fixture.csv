@@ -299,13 +299,13 @@
 297,298,30,2023-04-08,Southampton,Man City,1.0,4.0,True
 298,294,30,2023-04-09,Leeds,Crystal Palace,1.0,5.0,True
 299,296,30,2023-04-09,Liverpool,Arsenal,2.0,2.0,True
-300,301,31,2023-04-15,Aston Villa,Newcastle,,,False
-301,302,31,2023-04-15,Chelsea,Brighton,,,False
-302,303,31,2023-04-15,Everton,Fulham,,,False
-303,307,31,2023-04-15,Southampton,Crystal Palace,,,False
-304,308,31,2023-04-15,Tottenham,Bournemouth,,,False
-305,310,31,2023-04-15,Wolves,Brentford,,,False
-306,305,31,2023-04-15,Man City,Leicester,,,False
+300,301,31,2023-04-15,Aston Villa,Newcastle,3.0,0.0,True
+301,302,31,2023-04-15,Chelsea,Brighton,1.0,2.0,True
+302,303,31,2023-04-15,Everton,Fulham,1.0,3.0,True
+303,307,31,2023-04-15,Southampton,Crystal Palace,0.0,2.0,True
+304,310,31,2023-04-15,Wolves,Brentford,2.0,0.0,True
+305,308,31,2023-04-15,Tottenham,Bournemouth,2.0,3.0,True
+306,305,31,2023-04-15,Man City,Leicester,3.0,1.0,True
 307,309,31,2023-04-16,West Ham,Arsenal,,,False
 308,306,31,2023-04-16,Nott'm Forest,Man United,,,False
 309,304,31,2023-04-17,Leeds,Liverpool,,,False
@@ -332,13 +332,13 @@
 330,335,34,2023-04-29,Crystal Palace,West Ham,,,False
 331,333,34,2023-04-29,Brentford,Nott'm Forest,,,False
 332,334,34,2023-04-29,Brighton,Wolves,,,False
-333,332,34,2023-04-29,Arsenal,Chelsea,,,False
-334,331,34,2023-04-30,Bournemouth,Leeds,,,False
-335,336,34,2023-04-30,Fulham,Man City,,,False
-336,339,34,2023-04-30,Man United,Aston Villa,,,False
-337,340,34,2023-04-30,Newcastle,Southampton,,,False
-338,338,34,2023-04-30,Liverpool,Tottenham,,,False
-339,337,34,2023-05-01,Leicester,Everton,,,False
+333,331,34,2023-04-30,Bournemouth,Leeds,,,False
+334,336,34,2023-04-30,Fulham,Man City,,,False
+335,339,34,2023-04-30,Man United,Aston Villa,,,False
+336,340,34,2023-04-30,Newcastle,Southampton,,,False
+337,338,34,2023-04-30,Liverpool,Tottenham,,,False
+338,337,34,2023-05-01,Leicester,Everton,,,False
+339,332,34,2023-05-02,Arsenal,Chelsea,,,False
 340,341,35,2023-05-06,Bournemouth,Chelsea,,,False
 341,348,35,2023-05-06,Tottenham,Crystal Palace,,,False
 342,350,35,2023-05-06,Wolves,Aston Villa,,,False
