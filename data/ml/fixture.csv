@@ -308,7 +308,7 @@
 306,305,31,2023-04-15,Man City,Leicester,3.0,1.0,True
 307,309,31,2023-04-16,West Ham,Arsenal,2.0,2.0,True
 308,306,31,2023-04-16,Nott'm Forest,Man United,0.0,2.0,True
-309,304,31,2023-04-17,Leeds,Liverpool,,,False
+309,304,31,2023-04-17,Leeds,Liverpool,1.0,6.0,True
 310,312,32,2023-04-21,Arsenal,Southampton,,,False
 311,316,32,2023-04-22,Fulham,Leeds,,,False
 312,313,32,2023-04-22,Brentford,Aston Villa,,,False
