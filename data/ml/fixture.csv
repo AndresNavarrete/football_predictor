@@ -309,12 +309,12 @@
 307,309,31,2023-04-16,West Ham,Arsenal,2.0,2.0,True
 308,306,31,2023-04-16,Nott'm Forest,Man United,0.0,2.0,True
 309,304,31,2023-04-17,Leeds,Liverpool,1.0,6.0,True
-310,312,32,2023-04-21,Arsenal,Southampton,,,False
-311,316,32,2023-04-22,Fulham,Leeds,,,False
-312,313,32,2023-04-22,Brentford,Aston Villa,,,False
-313,315,32,2023-04-22,Crystal Palace,Everton,,,False
-314,317,32,2023-04-22,Leicester,Wolves,,,False
-315,318,32,2023-04-22,Liverpool,Nott'm Forest,,,False
+310,312,32,2023-04-21,Arsenal,Southampton,3.0,3.0,True
+311,316,32,2023-04-22,Fulham,Leeds,2.0,1.0,True
+312,313,32,2023-04-22,Brentford,Aston Villa,1.0,1.0,True
+313,315,32,2023-04-22,Crystal Palace,Everton,0.0,0.0,True
+314,317,32,2023-04-22,Leicester,Wolves,2.0,1.0,True
+315,318,32,2023-04-22,Liverpool,Nott'm Forest,3.0,2.0,True
 316,319,32,2023-04-22,Man United,Chelsea,,,False
 317,311,32,2023-04-23,Bournemouth,West Ham,,,False
 318,320,32,2023-04-23,Newcastle,Tottenham,,,False
