@@ -332,11 +332,11 @@
 330,335,34,2023-04-29,Crystal Palace,West Ham,4.0,3.0,True
 331,333,34,2023-04-29,Brentford,Nott'm Forest,2.0,1.0,True
 332,334,34,2023-04-29,Brighton,Wolves,6.0,0.0,True
-333,331,34,2023-04-30,Bournemouth,Leeds,,,False
-334,336,34,2023-04-30,Fulham,Man City,,,False
-335,339,34,2023-04-30,Man United,Aston Villa,,,False
-336,340,34,2023-04-30,Newcastle,Southampton,,,False
-337,338,34,2023-04-30,Liverpool,Tottenham,,,False
+333,331,34,2023-04-30,Bournemouth,Leeds,4.0,1.0,True
+334,336,34,2023-04-30,Fulham,Man City,1.0,2.0,True
+335,339,34,2023-04-30,Man United,Aston Villa,1.0,0.0,True
+336,340,34,2023-04-30,Newcastle,Southampton,3.0,1.0,True
+337,338,34,2023-04-30,Liverpool,Tottenham,4.0,3.0,True
 338,337,34,2023-05-01,Leicester,Everton,,,False
 339,332,34,2023-05-02,Arsenal,Chelsea,,,False
 340,341,35,2023-05-06,Bournemouth,Chelsea,,,False
