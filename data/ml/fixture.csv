@@ -337,8 +337,8 @@
 335,339,34,2023-04-30,Man United,Aston Villa,1.0,0.0,True
 336,340,34,2023-04-30,Newcastle,Southampton,3.0,1.0,True
 337,338,34,2023-04-30,Liverpool,Tottenham,4.0,3.0,True
-338,337,34,2023-05-01,Leicester,Everton,,,False
-339,332,34,2023-05-02,Arsenal,Chelsea,,,False
+338,337,34,2023-05-01,Leicester,Everton,2.0,2.0,True
+339,332,34,2023-05-02,Arsenal,Chelsea,3.0,1.0,True
 340,341,35,2023-05-06,Bournemouth,Chelsea,,,False
 341,345,35,2023-05-06,Man City,Leeds,,,False
 342,348,35,2023-05-06,Tottenham,Crystal Palace,,,False
