@@ -278,7 +278,7 @@
 276,271,28,2023-03-19,Arsenal,Crystal Palace,4.0,1.0,True
 277,276,28,2023-05-03,Liverpool,Fulham,1.0,0.0,True
 278,277,28,2023-05-03,Man City,West Ham,3.0,0.0,True
-279,274,28,2023-05-04,Brighton,Man United,,,False
+279,274,28,2023-05-04,Brighton,Man United,1.0,0.0,True
 280,287,29,2023-04-01,Man City,Liverpool,4.0,1.0,True
 281,281,29,2023-04-01,Bournemouth,Fulham,2.0,1.0,True
 282,282,29,2023-04-01,Arsenal,Leeds,4.0,1.0,True
