@@ -339,11 +339,11 @@
 337,338,34,2023-04-30,Liverpool,Tottenham,4.0,3.0,True
 338,337,34,2023-05-01,Leicester,Everton,2.0,2.0,True
 339,332,34,2023-05-02,Arsenal,Chelsea,3.0,1.0,True
-340,341,35,2023-05-06,Bournemouth,Chelsea,,,False
-341,345,35,2023-05-06,Man City,Leeds,,,False
-342,348,35,2023-05-06,Tottenham,Crystal Palace,,,False
-343,350,35,2023-05-06,Wolves,Aston Villa,,,False
-344,344,35,2023-05-06,Liverpool,Brentford,,,False
+340,341,35,2023-05-06,Bournemouth,Chelsea,1.0,3.0,True
+341,345,35,2023-05-06,Man City,Leeds,2.0,1.0,True
+342,348,35,2023-05-06,Tottenham,Crystal Palace,1.0,0.0,True
+343,350,35,2023-05-06,Wolves,Aston Villa,1.0,0.0,True
+344,344,35,2023-05-06,Liverpool,Brentford,1.0,0.0,True
 345,346,35,2023-05-07,Newcastle,Arsenal,,,False
 346,349,35,2023-05-07,West Ham,Man United,,,False
 347,343,35,2023-05-08,Fulham,Leicester,,,False
