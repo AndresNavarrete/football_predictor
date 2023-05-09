@@ -346,9 +346,9 @@
 344,344,35,2023-05-06,Liverpool,Brentford,1.0,0.0,True
 345,346,35,2023-05-07,Newcastle,Arsenal,0.0,2.0,True
 346,349,35,2023-05-07,West Ham,Man United,1.0,0.0,True
-347,343,35,2023-05-08,Fulham,Leicester,,,False
-348,342,35,2023-05-08,Brighton,Everton,,,False
-349,347,35,2023-05-08,Nott'm Forest,Southampton,,,False
+347,343,35,2023-05-08,Fulham,Leicester,5.0,3.0,True
+348,342,35,2023-05-08,Brighton,Everton,1.0,5.0,True
+349,347,35,2023-05-08,Nott'm Forest,Southampton,4.0,3.0,True
 350,357,36,2023-05-13,Leeds,Newcastle,,,False
 351,352,36,2023-05-13,Aston Villa,Tottenham,,,False
 352,354,36,2023-05-13,Chelsea,Nott'm Forest,,,False
