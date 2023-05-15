@@ -355,9 +355,9 @@
 353,355,36,2023-05-13,Crystal Palace,Bournemouth,2.0,0.0,True
 354,359,36,2023-05-13,Man United,Wolves,2.0,0.0,True
 355,360,36,2023-05-13,Southampton,Fulham,0.0,2.0,True
-356,353,36,2023-05-14,Brentford,West Ham,,,False
-357,356,36,2023-05-14,Everton,Man City,,,False
-358,351,36,2023-05-14,Arsenal,Brighton,,,False
+356,353,36,2023-05-14,Brentford,West Ham,2.0,0.0,True
+357,356,36,2023-05-14,Everton,Man City,0.0,3.0,True
+358,351,36,2023-05-14,Arsenal,Brighton,0.0,3.0,True
 359,358,36,2023-05-15,Leicester,Liverpool,,,False
 360,368,37,2023-05-20,Tottenham,Brentford,,,False
 361,361,37,2023-05-20,Bournemouth,Man United,,,False
