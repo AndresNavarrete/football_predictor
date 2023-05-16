@@ -358,7 +358,7 @@
 356,353,36,2023-05-14,Brentford,West Ham,2.0,0.0,True
 357,356,36,2023-05-14,Everton,Man City,0.0,3.0,True
 358,351,36,2023-05-14,Arsenal,Brighton,0.0,3.0,True
-359,358,36,2023-05-15,Leicester,Liverpool,,,False
+359,358,36,2023-05-15,Leicester,Liverpool,0.0,3.0,True
 360,368,37,2023-05-20,Tottenham,Brentford,,,False
 361,361,37,2023-05-20,Bournemouth,Man United,,,False
 362,363,37,2023-05-20,Fulham,Crystal Palace,,,False
