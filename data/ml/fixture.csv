@@ -359,12 +359,12 @@
 357,356,36,2023-05-14,Everton,Man City,0.0,3.0,True
 358,351,36,2023-05-14,Arsenal,Brighton,0.0,3.0,True
 359,358,36,2023-05-15,Leicester,Liverpool,0.0,3.0,True
-360,368,37,2023-05-20,Tottenham,Brentford,,,False
-361,361,37,2023-05-20,Bournemouth,Man United,,,False
-362,363,37,2023-05-20,Fulham,Crystal Palace,,,False
-363,364,37,2023-05-20,Liverpool,Aston Villa,,,False
-364,370,37,2023-05-20,Wolves,Everton,,,False
-365,367,37,2023-05-20,Nott'm Forest,Arsenal,,,False
+360,368,37,2023-05-20,Tottenham,Brentford,1.0,3.0,True
+361,361,37,2023-05-20,Bournemouth,Man United,0.0,1.0,True
+362,363,37,2023-05-20,Fulham,Crystal Palace,2.0,2.0,True
+363,364,37,2023-05-20,Liverpool,Aston Villa,1.0,1.0,True
+364,370,37,2023-05-20,Wolves,Everton,1.0,1.0,True
+365,367,37,2023-05-20,Nott'm Forest,Arsenal,1.0,0.0,True
 366,369,37,2023-05-21,West Ham,Leeds,,,False
 367,362,37,2023-05-21,Brighton,Southampton,,,False
 368,365,37,2023-05-21,Man City,Chelsea,,,False
