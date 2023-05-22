@@ -365,9 +365,9 @@
 363,364,37,2023-05-20,Liverpool,Aston Villa,1.0,1.0,True
 364,370,37,2023-05-20,Wolves,Everton,1.0,1.0,True
 365,367,37,2023-05-20,Nott'm Forest,Arsenal,1.0,0.0,True
-366,369,37,2023-05-21,West Ham,Leeds,,,False
-367,362,37,2023-05-21,Brighton,Southampton,,,False
-368,365,37,2023-05-21,Man City,Chelsea,,,False
+366,369,37,2023-05-21,West Ham,Leeds,3.0,1.0,True
+367,362,37,2023-05-21,Brighton,Southampton,3.0,1.0,True
+368,365,37,2023-05-21,Man City,Chelsea,1.0,0.0,True
 369,366,37,2023-05-22,Newcastle,Leicester,,,False
 370,371,38,2023-05-28,Arsenal,Wolves,,,False
 371,372,38,2023-05-28,Aston Villa,Brighton,,,False
