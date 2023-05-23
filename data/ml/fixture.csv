@@ -368,7 +368,7 @@
 366,369,37,2023-05-21,West Ham,Leeds,3.0,1.0,True
 367,362,37,2023-05-21,Brighton,Southampton,3.0,1.0,True
 368,365,37,2023-05-21,Man City,Chelsea,1.0,0.0,True
-369,366,37,2023-05-22,Newcastle,Leicester,,,False
+369,366,37,2023-05-22,Newcastle,Leicester,0.0,0.0,True
 370,371,38,2023-05-28,Arsenal,Wolves,,,False
 371,372,38,2023-05-28,Aston Villa,Brighton,,,False
 372,373,38,2023-05-28,Brentford,Man City,,,False
