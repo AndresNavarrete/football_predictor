@@ -317,7 +317,7 @@
 315,318,32,2023-04-22,Liverpool,Nott'm Forest,3.0,2.0,True
 316,311,32,2023-04-23,Bournemouth,West Ham,0.0,4.0,True
 317,320,32,2023-04-23,Newcastle,Tottenham,6.0,1.0,True
-318,314,32,2023-05-24,Brighton,Man City,,,False
+318,314,32,2023-05-24,Brighton,Man City,1.0,1.0,True
 319,319,32,2023-05-25,Man United,Chelsea,,,False
 320,326,33,2023-04-25,Wolves,Crystal Palace,2.0,0.0,True
 321,327,33,2023-04-25,Aston Villa,Fulham,1.0,0.0,True

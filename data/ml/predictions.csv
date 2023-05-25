@@ -1,13 +1,12 @@
 ,date,home,away,prediction
-0,2023-05-24,Brighton,Man City,Home
-1,2023-05-25,Man United,Chelsea,Away
-2,2023-05-28,Arsenal,Wolves,Away
-3,2023-05-28,Aston Villa,Brighton,Home
-4,2023-05-28,Brentford,Man City,Home
-5,2023-05-28,Chelsea,Newcastle,Home
-6,2023-05-28,Crystal Palace,Nott'm Forest,Home
-7,2023-05-28,Everton,Bournemouth,Away
-8,2023-05-28,Leeds,Tottenham,Away
-9,2023-05-28,Leicester,West Ham,Away
-10,2023-05-28,Man United,Fulham,Away
-11,2023-05-28,Southampton,Liverpool,Away
+0,2023-05-25,Man United,Chelsea,Away
+1,2023-05-28,Arsenal,Wolves,Away
+2,2023-05-28,Aston Villa,Brighton,Away
+3,2023-05-28,Brentford,Man City,Home
+4,2023-05-28,Chelsea,Newcastle,Home
+5,2023-05-28,Crystal Palace,Nott'm Forest,Home
+6,2023-05-28,Everton,Bournemouth,Away
+7,2023-05-28,Leeds,Tottenham,Away
+8,2023-05-28,Leicester,West Ham,Away
+9,2023-05-28,Man United,Fulham,Away
+10,2023-05-28,Southampton,Liverpool,Away
