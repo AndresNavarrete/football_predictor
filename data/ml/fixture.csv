@@ -1,381 +1,381 @@
 ,id,round,DATE,home,away,home_goals,away_goals,played
-0,1,1,2022-08-05,Crystal Palace,Arsenal,0,2,True
-1,2,1,2022-08-06,Fulham,Liverpool,2,2,True
-2,3,1,2022-08-06,Bournemouth,Aston Villa,2,0,True
-3,4,1,2022-08-06,Leeds,Wolves,2,1,True
-4,6,1,2022-08-06,Newcastle,Nott'm Forest,2,0,True
-5,7,1,2022-08-06,Tottenham,Southampton,4,1,True
-6,8,1,2022-08-06,Everton,Chelsea,0,1,True
-7,5,1,2022-08-07,Leicester,Brentford,2,2,True
-8,9,1,2022-08-07,Man United,Brighton,1,2,True
-9,10,1,2022-08-07,West Ham,Man City,0,2,True
-10,12,2,2022-08-13,Aston Villa,Everton,2,1,True
-11,11,2,2022-08-13,Arsenal,Leicester,4,2,True
-12,14,2,2022-08-13,Brighton,Newcastle,0,0,True
-13,17,2,2022-08-13,Man City,Bournemouth,4,0,True
-14,19,2,2022-08-13,Southampton,Leeds,2,2,True
-15,20,2,2022-08-13,Wolves,Fulham,0,0,True
-16,13,2,2022-08-13,Brentford,Man United,4,0,True
-17,18,2,2022-08-14,Nott'm Forest,West Ham,1,0,True
-18,15,2,2022-08-14,Chelsea,Tottenham,2,2,True
-19,16,2,2022-08-15,Liverpool,Crystal Palace,1,1,True
-20,29,3,2022-08-20,Tottenham,Wolves,1,0,True
-21,22,3,2022-08-20,Crystal Palace,Aston Villa,3,1,True
-22,23,3,2022-08-20,Everton,Nott'm Forest,1,1,True
-23,24,3,2022-08-20,Fulham,Brentford,3,2,True
-24,26,3,2022-08-20,Leicester,Southampton,1,2,True
-25,21,3,2022-08-20,Bournemouth,Arsenal,0,3,True
-26,25,3,2022-08-21,Leeds,Chelsea,3,0,True
-27,30,3,2022-08-21,West Ham,Brighton,0,2,True
-28,28,3,2022-08-21,Newcastle,Man City,3,3,True
-29,27,3,2022-08-22,Man United,Liverpool,2,1,True
-30,39,4,2022-08-27,Southampton,Man United,0,1,True
-31,33,4,2022-08-27,Brentford,Everton,1,1,True
-32,34,4,2022-08-27,Brighton,Leeds,1,0,True
-33,35,4,2022-08-27,Chelsea,Leicester,2,1,True
-34,36,4,2022-08-27,Liverpool,Bournemouth,9,0,True
-35,37,4,2022-08-27,Man City,Crystal Palace,4,2,True
-36,31,4,2022-08-27,Arsenal,Fulham,2,1,True
-37,32,4,2022-08-28,Aston Villa,West Ham,0,1,True
-38,40,4,2022-08-28,Wolves,Newcastle,1,1,True
-39,38,4,2022-08-28,Nott'm Forest,Tottenham,0,2,True
-40,43,5,2022-08-30,Fulham,Brighton,2,1,True
-41,47,5,2022-08-30,Crystal Palace,Brentford,1,1,True
-42,48,5,2022-08-30,Southampton,Chelsea,2,1,True
-43,44,5,2022-08-30,Leeds,Everton,1,1,True
-44,41,5,2022-08-31,Bournemouth,Wolves,0,0,True
-45,42,5,2022-08-31,Arsenal,Aston Villa,2,1,True
-46,50,5,2022-08-31,Man City,Nott'm Forest,6,0,True
-47,46,5,2022-08-31,West Ham,Tottenham,1,1,True
-48,49,5,2022-08-31,Liverpool,Newcastle,2,1,True
-49,45,5,2022-09-01,Leicester,Man United,0,1,True
-50,55,6,2022-09-03,Everton,Liverpool,0,0,True
-51,52,6,2022-09-03,Brentford,Leeds,5,2,True
-52,54,6,2022-09-03,Chelsea,West Ham,2,1,True
-53,57,6,2022-09-03,Newcastle,Crystal Palace,0,0,True
-54,58,6,2022-09-03,Nott'm Forest,Bournemouth,2,3,True
-55,59,6,2022-09-03,Tottenham,Fulham,2,1,True
-56,60,6,2022-09-03,Wolves,Southampton,1,0,True
-57,51,6,2022-09-03,Aston Villa,Man City,1,1,True
-58,53,6,2022-09-04,Brighton,Leicester,5,2,True
-59,56,6,2022-09-04,Man United,Arsenal,3,1,True
-60,64,7,2023-01-12,Fulham,Chelsea,2,1,True
-61,63,7,2023-01-19,Crystal Palace,Man United,1,1,True
-62,68,7,2023-01-19,Man City,Tottenham,4,2,True
-63,62,7,2023-03-01,Arsenal,Everton,4,0,True
-64,67,7,2023-03-01,Liverpool,Wolves,2,0,True
-65,69,7,2023-03-15,Southampton,Brentford,0,2,True
-66,61,7,2023-04-04,Bournemouth,Brighton,0,2,True
-67,65,7,2023-04-04,Leeds,Nott'm Forest,2,1,True
-68,66,7,2023-04-04,Leicester,Aston Villa,1,2,True
-69,70,7,2023-04-05,West Ham,Newcastle,1,5,True
-70,71,8,2022-09-16,Aston Villa,Southampton,1,0,True
-71,78,8,2022-09-16,Nott'm Forest,Fulham,2,3,True
-72,80,8,2022-09-17,Wolves,Man City,0,3,True
-73,77,8,2022-09-17,Newcastle,Bournemouth,1,1,True
-74,79,8,2022-09-17,Tottenham,Leicester,6,2,True
-75,72,8,2022-09-18,Brentford,Arsenal,0,3,True
-76,75,8,2022-09-18,Everton,West Ham,1,0,True
-77,76,8,2023-02-08,Man United,Leeds,2,2,True
-78,73,8,2023-03-15,Brighton,Crystal Palace,1,0,True
-79,74,8,2023-04-04,Chelsea,Liverpool,0,0,True
-80,82,9,2022-10-01,Arsenal,Tottenham,3,1,True
-81,81,9,2022-10-01,Bournemouth,Brentford,0,0,True
-82,83,9,2022-10-01,Crystal Palace,Chelsea,1,2,True
-83,84,9,2022-10-01,Fulham,Newcastle,1,4,True
-84,87,9,2022-10-01,Liverpool,Brighton,3,3,True
-85,89,9,2022-10-01,Southampton,Everton,1,2,True
-86,90,9,2022-10-01,West Ham,Wolves,2,0,True
-87,88,9,2022-10-02,Man City,Man United,6,3,True
-88,85,9,2022-10-02,Leeds,Aston Villa,0,0,True
-89,86,9,2022-10-03,Leicester,Nott'm Forest,4,0,True
-90,91,10,2022-10-08,Bournemouth,Leicester,2,1,True
-91,94,10,2022-10-08,Chelsea,Wolves,3,0,True
-92,97,10,2022-10-08,Man City,Southampton,4,0,True
-93,98,10,2022-10-08,Newcastle,Brentford,5,1,True
-94,93,10,2022-10-08,Brighton,Tottenham,0,1,True
-95,95,10,2022-10-09,Crystal Palace,Leeds,2,1,True
-96,100,10,2022-10-09,West Ham,Fulham,3,1,True
-97,92,10,2022-10-09,Arsenal,Liverpool,3,2,True
-98,96,10,2022-10-09,Everton,Man United,1,2,True
-99,99,10,2022-10-10,Nott'm Forest,Aston Villa,1,1,True
-100,102,11,2022-10-14,Brentford,Brighton,2,0,True
-101,105,11,2022-10-15,Leicester,Crystal Palace,0,0,True
-102,103,11,2022-10-15,Fulham,Bournemouth,2,2,True
-103,110,11,2022-10-15,Wolves,Nott'm Forest,1,0,True
-104,109,11,2022-10-15,Tottenham,Everton,2,0,True
-105,101,11,2022-10-16,Aston Villa,Chelsea,0,2,True
-106,104,11,2022-10-16,Leeds,Arsenal,0,1,True
-107,107,11,2022-10-16,Man United,Newcastle,0,0,True
-108,108,11,2022-10-16,Southampton,West Ham,1,1,True
-109,106,11,2022-10-16,Liverpool,Man City,1,0,True
-110,114,12,2022-10-18,Brighton,Nott'm Forest,0,0,True
-111,117,12,2022-10-18,Crystal Palace,Wolves,2,1,True
-112,111,12,2022-10-19,Bournemouth,Southampton,0,1,True
-113,113,12,2022-10-19,Brentford,Chelsea,0,0,True
-114,118,12,2022-10-19,Newcastle,Everton,1,0,True
-115,119,12,2022-10-19,Liverpool,West Ham,1,0,True
-116,120,12,2022-10-19,Man United,Tottenham,2,0,True
-117,115,12,2022-10-20,Fulham,Aston Villa,3,0,True
-118,116,12,2022-10-20,Leicester,Leeds,2,0,True
-119,112,12,2023-02-15,Arsenal,Man City,1,3,True
-120,126,13,2022-10-22,Nott'm Forest,Liverpool,1,0,True
-121,123,13,2022-10-22,Everton,Crystal Palace,3,0,True
-122,125,13,2022-10-22,Man City,Brighton,3,1,True
-123,122,13,2022-10-22,Chelsea,Man United,1,1,True
-124,121,13,2022-10-23,Aston Villa,Brentford,4,0,True
-125,124,13,2022-10-23,Leeds,Fulham,2,3,True
-126,127,13,2022-10-23,Southampton,Arsenal,1,1,True
-127,130,13,2022-10-23,Wolves,Leicester,0,4,True
-128,128,13,2022-10-23,Tottenham,Newcastle,1,2,True
-129,129,13,2022-10-24,West Ham,Bournemouth,2,0,True
-130,137,14,2022-10-29,Leicester,Man City,0,1,True
-131,131,14,2022-10-29,Bournemouth,Tottenham,2,3,True
-132,133,14,2022-10-29,Brentford,Wolves,1,1,True
-133,134,14,2022-10-29,Brighton,Chelsea,4,1,True
-134,135,14,2022-10-29,Crystal Palace,Southampton,1,0,True
-135,140,14,2022-10-29,Newcastle,Aston Villa,4,0,True
-136,136,14,2022-10-29,Fulham,Everton,0,0,True
-137,138,14,2022-10-29,Liverpool,Leeds,1,2,True
-138,132,14,2022-10-30,Arsenal,Nott'm Forest,5,0,True
-139,139,14,2022-10-30,Man United,West Ham,1,0,True
-140,144,15,2022-11-05,Leeds,Bournemouth,4,3,True
-141,145,15,2022-11-05,Man City,Fulham,2,1,True
-142,146,15,2022-11-05,Nott'm Forest,Brentford,2,2,True
-143,150,15,2022-11-05,Wolves,Brighton,2,3,True
-144,143,15,2022-11-05,Everton,Leicester,0,2,True
-145,142,15,2022-11-06,Chelsea,Arsenal,0,1,True
-146,141,15,2022-11-06,Aston Villa,Man United,3,1,True
-147,147,15,2022-11-06,Southampton,Newcastle,1,4,True
-148,149,15,2022-11-06,West Ham,Crystal Palace,1,2,True
-149,148,15,2022-11-06,Tottenham,Liverpool,1,2,True
-150,155,16,2022-11-12,Man City,Brentford,1,2,True
-151,151,16,2022-11-12,Bournemouth,Everton,3,0,True
-152,154,16,2022-11-12,Liverpool,Southampton,3,1,True
-153,157,16,2022-11-12,Nott'm Forest,Crystal Palace,1,0,True
-154,158,16,2022-11-12,Tottenham,Leeds,4,3,True
-155,159,16,2022-11-12,West Ham,Leicester,0,2,True
-156,156,16,2022-11-12,Newcastle,Chelsea,1,0,True
-157,160,16,2022-11-12,Wolves,Arsenal,0,2,True
-158,152,16,2022-11-13,Brighton,Aston Villa,1,2,True
-159,153,16,2022-11-13,Fulham,Man United,1,2,True
-160,163,17,2022-12-26,Brentford,Tottenham,2,2,True
-161,165,17,2022-12-26,Crystal Palace,Fulham,0,3,True
-162,166,17,2022-12-26,Everton,Wolves,1,2,True
-163,168,17,2022-12-26,Leicester,Newcastle,0,3,True
-164,170,17,2022-12-26,Southampton,Brighton,1,3,True
-165,162,17,2022-12-26,Aston Villa,Liverpool,1,3,True
-166,161,17,2022-12-26,Arsenal,West Ham,3,1,True
-167,164,17,2022-12-27,Chelsea,Bournemouth,2,0,True
-168,169,17,2022-12-27,Man United,Nott'm Forest,3,0,True
-169,167,17,2022-12-28,Leeds,Man City,1,3,True
-170,179,18,2022-12-30,West Ham,Brentford,0,2,True
-171,174,18,2022-12-30,Liverpool,Leicester,2,1,True
-172,180,18,2022-12-31,Wolves,Man United,0,1,True
-173,171,18,2022-12-31,Bournemouth,Crystal Palace,0,2,True
-174,173,18,2022-12-31,Fulham,Southampton,2,1,True
-175,175,18,2022-12-31,Man City,Everton,1,1,True
-176,176,18,2022-12-31,Newcastle,Leeds,0,0,True
-177,172,18,2022-12-31,Brighton,Arsenal,2,4,True
-178,178,18,2023-01-01,Tottenham,Aston Villa,0,2,True
-179,177,18,2023-01-01,Nott'm Forest,Chelsea,1,1,True
-180,183,19,2023-01-02,Brentford,Liverpool,3,1,True
-181,181,19,2023-01-03,Arsenal,Newcastle,0,0,True
-182,186,19,2023-01-03,Everton,Brighton,1,4,True
-183,188,19,2023-01-03,Leicester,Fulham,0,1,True
-184,189,19,2023-01-03,Man United,Bournemouth,3,0,True
-185,190,19,2023-01-04,Southampton,Nott'm Forest,0,1,True
-186,187,19,2023-01-04,Leeds,West Ham,2,2,True
-187,182,19,2023-01-04,Aston Villa,Wolves,1,1,True
-188,185,19,2023-01-04,Crystal Palace,Tottenham,0,4,True
-189,184,19,2023-01-05,Chelsea,Man City,0,1,True
-190,191,20,2023-01-13,Aston Villa,Leeds,2,1,True
-191,196,20,2023-01-14,Man United,Man City,2,1,True
-192,193,20,2023-01-14,Brighton,Liverpool,3,0,True
-193,195,20,2023-01-14,Everton,Southampton,1,2,True
-194,198,20,2023-01-14,Nott'm Forest,Leicester,2,0,True
-195,200,20,2023-01-14,Wolves,West Ham,1,0,True
-196,192,20,2023-01-14,Brentford,Bournemouth,2,0,True
-197,194,20,2023-01-15,Chelsea,Crystal Palace,1,0,True
-198,197,20,2023-01-15,Newcastle,Fulham,1,0,True
-199,199,20,2023-01-15,Tottenham,Arsenal,0,2,True
-200,207,21,2023-01-21,Liverpool,Chelsea,0,0,True
-201,201,21,2023-01-21,Bournemouth,Nott'm Forest,1,1,True
-202,206,21,2023-01-21,Leicester,Brighton,2,2,True
-203,209,21,2023-01-21,Southampton,Aston Villa,0,1,True
-204,210,21,2023-01-21,West Ham,Everton,2,0,True
-205,203,21,2023-01-21,Crystal Palace,Newcastle,0,0,True
-206,205,21,2023-01-22,Leeds,Brentford,0,0,True
-207,208,21,2023-01-22,Man City,Wolves,3,0,True
-208,202,21,2023-01-22,Arsenal,Man United,3,2,True
-209,204,21,2023-01-23,Fulham,Tottenham,0,1,True
-210,214,22,2023-02-03,Chelsea,Fulham,0,0,True
-211,215,22,2023-02-04,Everton,Arsenal,1,0,True
-212,211,22,2023-02-04,Aston Villa,Leicester,2,4,True
-213,212,22,2023-02-04,Brentford,Southampton,3,0,True
-214,213,22,2023-02-04,Brighton,Bournemouth,1,0,True
-215,216,22,2023-02-04,Man United,Crystal Palace,2,1,True
-216,220,22,2023-02-04,Wolves,Liverpool,3,0,True
-217,217,22,2023-02-04,Newcastle,West Ham,1,1,True
-218,218,22,2023-02-05,Nott'm Forest,Leeds,1,0,True
-219,219,22,2023-02-05,Tottenham,Man City,1,0,True
-220,230,23,2023-02-11,West Ham,Chelsea,1,1,True
-221,222,23,2023-02-11,Arsenal,Brentford,1,1,True
-222,223,23,2023-02-11,Crystal Palace,Brighton,1,1,True
-223,224,23,2023-02-11,Fulham,Nott'm Forest,2,0,True
-224,226,23,2023-02-11,Leicester,Tottenham,4,1,True
-225,229,23,2023-02-11,Southampton,Wolves,1,2,True
-226,221,23,2023-02-11,Bournemouth,Newcastle,1,1,True
-227,225,23,2023-02-12,Leeds,Man United,0,2,True
-228,228,23,2023-02-12,Man City,Aston Villa,3,1,True
-229,227,23,2023-02-13,Liverpool,Everton,2,0,True
-230,231,24,2023-02-18,Aston Villa,Arsenal,2,4,True
-231,232,24,2023-02-18,Brentford,Crystal Palace,1,1,True
-232,233,24,2023-02-18,Brighton,Fulham,0,1,True
-233,234,24,2023-02-18,Chelsea,Southampton,0,1,True
-234,235,24,2023-02-18,Everton,Leeds,1,0,True
-235,238,24,2023-02-18,Nott'm Forest,Man City,1,1,True
-236,240,24,2023-02-18,Wolves,Bournemouth,0,1,True
-237,237,24,2023-02-18,Newcastle,Liverpool,0,2,True
-238,236,24,2023-02-19,Man United,Leicester,3,0,True
-239,239,24,2023-02-19,Tottenham,West Ham,2,0,True
-240,244,25,2023-02-24,Fulham,Wolves,1,1,True
-241,243,25,2023-02-25,Everton,Aston Villa,0,2,True
-242,245,25,2023-02-25,Leeds,Southampton,1,0,True
-243,246,25,2023-02-25,Leicester,Arsenal,0,1,True
-244,250,25,2023-02-25,West Ham,Nott'm Forest,4,0,True
-245,241,25,2023-02-25,Bournemouth,Man City,1,4,True
-246,242,25,2023-02-25,Crystal Palace,Liverpool,0,0,True
-247,249,25,2023-02-26,Tottenham,Chelsea,2,0,True
-248,247,25,2023-04-05,Man United,Brentford,1,0,True
-249,248,25,2023-05-18,Newcastle,Brighton,4,1,True
-250,257,26,2023-03-04,Man City,Newcastle,2,0,True
-251,251,26,2023-03-04,Arsenal,Bournemouth,3,2,True
-252,252,26,2023-03-04,Aston Villa,Crystal Palace,1,0,True
-253,254,26,2023-03-04,Brighton,West Ham,4,0,True
-254,255,26,2023-03-04,Chelsea,Leeds,1,0,True
-255,260,26,2023-03-04,Wolves,Tottenham,1,0,True
-256,259,26,2023-03-04,Southampton,Leicester,1,0,True
-257,258,26,2023-03-05,Nott'm Forest,Everton,2,2,True
-258,256,26,2023-03-05,Liverpool,Man United,7,0,True
-259,253,26,2023-03-06,Brentford,Fulham,3,2,True
-260,261,27,2023-03-11,Bournemouth,Liverpool,1,0,True
-261,263,27,2023-03-11,Everton,Brentford,1,0,True
-262,265,27,2023-03-11,Leeds,Brighton,2,2,True
-263,266,27,2023-03-11,Leicester,Chelsea,1,3,True
-264,269,27,2023-03-11,Tottenham,Nott'm Forest,3,1,True
-265,262,27,2023-03-11,Crystal Palace,Man City,0,1,True
-266,264,27,2023-03-12,Fulham,Arsenal,0,3,True
-267,267,27,2023-03-12,Man United,Southampton,0,0,True
-268,270,27,2023-03-12,West Ham,Aston Villa,1,1,True
-269,268,27,2023-03-12,Newcastle,Wolves,2,1,True
-270,278,28,2023-03-17,Nott'm Forest,Newcastle,1,2,True
-271,272,28,2023-03-18,Aston Villa,Bournemouth,3,0,True
-272,273,28,2023-03-18,Brentford,Leicester,1,1,True
-273,279,28,2023-03-18,Southampton,Tottenham,3,3,True
-274,280,28,2023-03-18,Wolves,Leeds,2,4,True
-275,275,28,2023-03-18,Chelsea,Everton,2,2,True
-276,271,28,2023-03-19,Arsenal,Crystal Palace,4,1,True
-277,276,28,2023-05-03,Liverpool,Fulham,1,0,True
-278,277,28,2023-05-03,Man City,West Ham,3,0,True
-279,274,28,2023-05-04,Brighton,Man United,1,0,True
-280,287,29,2023-04-01,Man City,Liverpool,4,1,True
-281,281,29,2023-04-01,Bournemouth,Fulham,2,1,True
-282,282,29,2023-04-01,Arsenal,Leeds,4,1,True
-283,283,29,2023-04-01,Brighton,Brentford,3,3,True
-284,285,29,2023-04-01,Crystal Palace,Leicester,2,1,True
-285,289,29,2023-04-01,Nott'm Forest,Wolves,1,1,True
-286,284,29,2023-04-01,Chelsea,Aston Villa,0,2,True
-287,290,29,2023-04-02,West Ham,Southampton,1,0,True
-288,288,29,2023-04-02,Newcastle,Man United,2,0,True
-289,286,29,2023-04-03,Everton,Tottenham,1,1,True
-290,297,30,2023-04-08,Man United,Everton,2,0,True
-291,291,30,2023-04-08,Aston Villa,Nott'm Forest,2,0,True
-292,292,30,2023-04-08,Brentford,Newcastle,1,2,True
-293,293,30,2023-04-08,Fulham,West Ham,0,1,True
-294,295,30,2023-04-08,Leicester,Bournemouth,0,1,True
-295,299,30,2023-04-08,Tottenham,Brighton,2,1,True
-296,300,30,2023-04-08,Wolves,Chelsea,1,0,True
-297,298,30,2023-04-08,Southampton,Man City,1,4,True
-298,294,30,2023-04-09,Leeds,Crystal Palace,1,5,True
-299,296,30,2023-04-09,Liverpool,Arsenal,2,2,True
-300,301,31,2023-04-15,Aston Villa,Newcastle,3,0,True
-301,302,31,2023-04-15,Chelsea,Brighton,1,2,True
-302,303,31,2023-04-15,Everton,Fulham,1,3,True
-303,307,31,2023-04-15,Southampton,Crystal Palace,0,2,True
-304,310,31,2023-04-15,Wolves,Brentford,2,0,True
-305,308,31,2023-04-15,Tottenham,Bournemouth,2,3,True
-306,305,31,2023-04-15,Man City,Leicester,3,1,True
-307,309,31,2023-04-16,West Ham,Arsenal,2,2,True
-308,306,31,2023-04-16,Nott'm Forest,Man United,0,2,True
-309,304,31,2023-04-17,Leeds,Liverpool,1,6,True
-310,312,32,2023-04-21,Arsenal,Southampton,3,3,True
-311,316,32,2023-04-22,Fulham,Leeds,2,1,True
-312,313,32,2023-04-22,Brentford,Aston Villa,1,1,True
-313,315,32,2023-04-22,Crystal Palace,Everton,0,0,True
-314,317,32,2023-04-22,Leicester,Wolves,2,1,True
-315,318,32,2023-04-22,Liverpool,Nott'm Forest,3,2,True
-316,311,32,2023-04-23,Bournemouth,West Ham,0,4,True
-317,320,32,2023-04-23,Newcastle,Tottenham,6,1,True
-318,314,32,2023-05-24,Brighton,Man City,1,1,True
-319,319,32,2023-05-25,Man United,Chelsea,4,1,True
-320,326,33,2023-04-25,Wolves,Crystal Palace,2,0,True
-321,327,33,2023-04-25,Aston Villa,Fulham,1,0,True
-322,322,33,2023-04-25,Leeds,Leicester,1,1,True
-323,323,33,2023-04-26,Nott'm Forest,Brighton,3,1,True
-324,325,33,2023-04-26,West Ham,Liverpool,1,2,True
-325,328,33,2023-04-26,Chelsea,Brentford,0,2,True
-326,330,33,2023-04-26,Man City,Arsenal,4,1,True
-327,321,33,2023-04-27,Everton,Newcastle,1,4,True
-328,329,33,2023-04-27,Southampton,Bournemouth,0,1,True
-329,324,33,2023-04-27,Tottenham,Man United,2,2,True
-330,335,34,2023-04-29,Crystal Palace,West Ham,4,3,True
-331,333,34,2023-04-29,Brentford,Nott'm Forest,2,1,True
-332,334,34,2023-04-29,Brighton,Wolves,6,0,True
-333,331,34,2023-04-30,Bournemouth,Leeds,4,1,True
-334,336,34,2023-04-30,Fulham,Man City,1,2,True
-335,339,34,2023-04-30,Man United,Aston Villa,1,0,True
-336,340,34,2023-04-30,Newcastle,Southampton,3,1,True
-337,338,34,2023-04-30,Liverpool,Tottenham,4,3,True
-338,337,34,2023-05-01,Leicester,Everton,2,2,True
-339,332,34,2023-05-02,Arsenal,Chelsea,3,1,True
-340,341,35,2023-05-06,Bournemouth,Chelsea,1,3,True
-341,345,35,2023-05-06,Man City,Leeds,2,1,True
-342,348,35,2023-05-06,Tottenham,Crystal Palace,1,0,True
-343,350,35,2023-05-06,Wolves,Aston Villa,1,0,True
-344,344,35,2023-05-06,Liverpool,Brentford,1,0,True
-345,346,35,2023-05-07,Newcastle,Arsenal,0,2,True
-346,349,35,2023-05-07,West Ham,Man United,1,0,True
-347,343,35,2023-05-08,Fulham,Leicester,5,3,True
-348,342,35,2023-05-08,Brighton,Everton,1,5,True
-349,347,35,2023-05-08,Nott'm Forest,Southampton,4,3,True
-350,357,36,2023-05-13,Leeds,Newcastle,2,2,True
-351,352,36,2023-05-13,Aston Villa,Tottenham,2,1,True
-352,354,36,2023-05-13,Chelsea,Nott'm Forest,2,2,True
-353,355,36,2023-05-13,Crystal Palace,Bournemouth,2,0,True
-354,359,36,2023-05-13,Man United,Wolves,2,0,True
-355,360,36,2023-05-13,Southampton,Fulham,0,2,True
-356,353,36,2023-05-14,Brentford,West Ham,2,0,True
-357,356,36,2023-05-14,Everton,Man City,0,3,True
-358,351,36,2023-05-14,Arsenal,Brighton,0,3,True
-359,358,36,2023-05-15,Leicester,Liverpool,0,3,True
-360,368,37,2023-05-20,Tottenham,Brentford,1,3,True
-361,361,37,2023-05-20,Bournemouth,Man United,0,1,True
-362,363,37,2023-05-20,Fulham,Crystal Palace,2,2,True
-363,364,37,2023-05-20,Liverpool,Aston Villa,1,1,True
-364,370,37,2023-05-20,Wolves,Everton,1,1,True
-365,367,37,2023-05-20,Nott'm Forest,Arsenal,1,0,True
-366,369,37,2023-05-21,West Ham,Leeds,3,1,True
-367,362,37,2023-05-21,Brighton,Southampton,3,1,True
-368,365,37,2023-05-21,Man City,Chelsea,1,0,True
-369,366,37,2023-05-22,Newcastle,Leicester,0,0,True
-370,371,38,2023-05-28,Arsenal,Wolves,5,0,True
-371,372,38,2023-05-28,Aston Villa,Brighton,2,1,True
-372,373,38,2023-05-28,Brentford,Man City,1,0,True
-373,374,38,2023-05-28,Chelsea,Newcastle,1,1,True
-374,375,38,2023-05-28,Crystal Palace,Nott'm Forest,1,1,True
-375,376,38,2023-05-28,Everton,Bournemouth,1,0,True
-376,377,38,2023-05-28,Leeds,Tottenham,1,4,True
-377,378,38,2023-05-28,Leicester,West Ham,2,1,True
-378,379,38,2023-05-28,Man United,Fulham,2,1,True
-379,380,38,2023-05-28,Southampton,Liverpool,4,4,True
+0,1,1,2023-08-11,Burnley,Man City,0.0,3.0,True
+1,2,1,2023-08-12,Arsenal,Nott'm Forest,2.0,1.0,True
+2,3,1,2023-08-12,Bournemouth,West Ham,1.0,1.0,True
+3,4,1,2023-08-12,Brighton,Luton,4.0,1.0,True
+4,5,1,2023-08-12,Everton,Fulham,0.0,1.0,True
+5,6,1,2023-08-12,Sheffield United,Crystal Palace,0.0,1.0,True
+6,7,1,2023-08-12,Newcastle,Aston Villa,5.0,1.0,True
+7,8,1,2023-08-13,Brentford,Tottenham,2.0,2.0,True
+8,9,1,2023-08-13,Chelsea,Liverpool,1.0,1.0,True
+9,10,1,2023-08-14,Man United,Wolves,1.0,0.0,True
+10,17,2,2023-08-18,Nott'm Forest,Sheffield United,2.0,1.0,True
+11,13,2,2023-08-19,Fulham,Brentford,0.0,3.0,True
+12,14,2,2023-08-19,Liverpool,Bournemouth,3.0,1.0,True
+13,20,2,2023-08-19,Wolves,Brighton,1.0,4.0,True
+14,18,2,2023-08-19,Tottenham,Man United,2.0,0.0,True
+15,16,2,2023-08-19,Man City,Newcastle,1.0,0.0,True
+16,11,2,2023-08-20,Aston Villa,Everton,4.0,0.0,True
+17,19,2,2023-08-20,West Ham,Chelsea,3.0,1.0,True
+18,12,2,2023-08-21,Crystal Palace,Arsenal,0.0,1.0,True
+19,15,2,2023-10-03,Luton,Burnley,,,False
+20,26,3,2023-08-25,Chelsea,Luton,3.0,0.0,True
+21,22,3,2023-08-26,Bournemouth,Tottenham,0.0,2.0,True
+22,21,3,2023-08-26,Arsenal,Fulham,2.0,2.0,True
+23,23,3,2023-08-26,Brentford,Crystal Palace,1.0,1.0,True
+24,27,3,2023-08-26,Everton,Wolves,0.0,1.0,True
+25,28,3,2023-08-26,Man United,Nott'm Forest,3.0,2.0,True
+26,24,3,2023-08-26,Brighton,West Ham,1.0,3.0,True
+27,25,3,2023-08-27,Burnley,Aston Villa,1.0,3.0,True
+28,30,3,2023-08-27,Sheffield United,Man City,1.0,2.0,True
+29,29,3,2023-08-27,Newcastle,Liverpool,1.0,2.0,True
+30,38,4,2023-09-01,Luton,West Ham,1.0,2.0,True
+31,40,4,2023-09-02,Sheffield United,Everton,2.0,2.0,True
+32,32,4,2023-09-02,Brentford,Bournemouth,2.0,2.0,True
+33,34,4,2023-09-02,Burnley,Tottenham,2.0,5.0,True
+34,35,4,2023-09-02,Chelsea,Nott'm Forest,0.0,1.0,True
+35,39,4,2023-09-02,Man City,Fulham,5.0,1.0,True
+36,33,4,2023-09-02,Brighton,Newcastle,3.0,1.0,True
+37,36,4,2023-09-03,Crystal Palace,Wolves,3.0,2.0,True
+38,37,4,2023-09-03,Liverpool,Aston Villa,3.0,0.0,True
+39,31,4,2023-09-03,Arsenal,Man United,3.0,1.0,True
+40,50,5,2023-09-16,Wolves,Liverpool,1.0,3.0,True
+41,41,5,2023-09-16,Aston Villa,Crystal Palace,3.0,1.0,True
+42,44,5,2023-09-16,Fulham,Luton,1.0,0.0,True
+43,45,5,2023-09-16,Man United,Brighton,1.0,3.0,True
+44,48,5,2023-09-16,Tottenham,Sheffield United,2.0,1.0,True
+45,49,5,2023-09-16,West Ham,Man City,1.0,3.0,True
+46,46,5,2023-09-16,Newcastle,Brentford,1.0,0.0,True
+47,42,5,2023-09-17,Bournemouth,Chelsea,,,False
+48,43,5,2023-09-17,Everton,Arsenal,,,False
+49,47,5,2023-09-18,Nott'm Forest,Burnley,,,False
+50,56,6,2023-09-23,Crystal Palace,Fulham,,,False
+51,58,6,2023-09-23,Luton,Wolves,,,False
+52,59,6,2023-09-23,Man City,Nott'm Forest,,,False
+53,52,6,2023-09-23,Brentford,Everton,,,False
+54,54,6,2023-09-23,Burnley,Man United,,,False
+55,51,6,2023-09-24,Arsenal,Tottenham,,,False
+56,53,6,2023-09-24,Brighton,Bournemouth,,,False
+57,55,6,2023-09-24,Chelsea,Aston Villa,,,False
+58,57,6,2023-09-24,Liverpool,West Ham,,,False
+59,60,6,2023-09-24,Sheffield United,Newcastle,,,False
+60,61,7,2023-09-30,Aston Villa,Brighton,,,False
+61,62,7,2023-09-30,Bournemouth,Arsenal,,,False
+62,63,7,2023-09-30,Everton,Luton,,,False
+63,65,7,2023-09-30,Man United,Crystal Palace,,,False
+64,66,7,2023-09-30,Newcastle,Burnley,,,False
+65,69,7,2023-09-30,West Ham,Sheffield United,,,False
+66,70,7,2023-09-30,Wolves,Man City,,,False
+67,68,7,2023-09-30,Tottenham,Liverpool,,,False
+68,67,7,2023-10-01,Nott'm Forest,Brentford,,,False
+69,64,7,2023-10-02,Fulham,Chelsea,,,False
+70,77,8,2023-10-07,Luton,Tottenham,,,False
+71,73,8,2023-10-07,Burnley,Chelsea,,,False
+72,75,8,2023-10-07,Everton,Bournemouth,,,False
+73,76,8,2023-10-07,Fulham,Sheffield United,,,False
+74,78,8,2023-10-07,Man United,Brentford,,,False
+75,74,8,2023-10-07,Crystal Palace,Nott'm Forest,,,False
+76,72,8,2023-10-08,Brighton,Liverpool,,,False
+77,79,8,2023-10-08,West Ham,Newcastle,,,False
+78,80,8,2023-10-08,Wolves,Aston Villa,,,False
+79,71,8,2023-10-08,Arsenal,Man City,,,False
+80,85,9,2023-10-21,Liverpool,Everton,,,False
+81,82,9,2023-10-21,Bournemouth,Wolves,,,False
+82,83,9,2023-10-21,Brentford,Burnley,,,False
+83,86,9,2023-10-21,Man City,Brighton,,,False
+84,87,9,2023-10-21,Newcastle,Crystal Palace,,,False
+85,88,9,2023-10-21,Nott'm Forest,Luton,,,False
+86,84,9,2023-10-21,Chelsea,Arsenal,,,False
+87,89,9,2023-10-21,Sheffield United,Man United,,,False
+88,81,9,2023-10-22,Aston Villa,West Ham,,,False
+89,90,9,2023-10-23,Tottenham,Fulham,,,False
+90,96,10,2023-10-27,Crystal Palace,Tottenham,,,False
+91,95,10,2023-10-28,Chelsea,Brentford,,,False
+92,91,10,2023-10-28,Arsenal,Sheffield United,,,False
+93,93,10,2023-10-28,Bournemouth,Burnley,,,False
+94,100,10,2023-10-28,Wolves,Newcastle,,,False
+95,99,10,2023-10-29,West Ham,Everton,,,False
+96,92,10,2023-10-29,Aston Villa,Luton,,,False
+97,94,10,2023-10-29,Brighton,Fulham,,,False
+98,97,10,2023-10-29,Liverpool,Nott'm Forest,,,False
+99,98,10,2023-10-29,Man United,Man City,,,False
+100,101,11,2023-11-04,Brentford,West Ham,,,False
+101,102,11,2023-11-04,Burnley,Crystal Palace,,,False
+102,103,11,2023-11-04,Everton,Brighton,,,False
+103,104,11,2023-11-04,Fulham,Man United,,,False
+104,105,11,2023-11-04,Luton,Liverpool,,,False
+105,106,11,2023-11-04,Man City,Bournemouth,,,False
+106,107,11,2023-11-04,Newcastle,Arsenal,,,False
+107,108,11,2023-11-04,Nott'm Forest,Aston Villa,,,False
+108,109,11,2023-11-04,Sheffield United,Wolves,,,False
+109,110,11,2023-11-04,Tottenham,Chelsea,,,False
+110,111,12,2023-11-11,Arsenal,Burnley,,,False
+111,112,12,2023-11-11,Aston Villa,Fulham,,,False
+112,113,12,2023-11-11,Bournemouth,Newcastle,,,False
+113,114,12,2023-11-11,Brighton,Sheffield United,,,False
+114,115,12,2023-11-11,Chelsea,Man City,,,False
+115,116,12,2023-11-11,Crystal Palace,Everton,,,False
+116,117,12,2023-11-11,Liverpool,Brentford,,,False
+117,118,12,2023-11-11,Man United,Luton,,,False
+118,119,12,2023-11-11,West Ham,Nott'm Forest,,,False
+119,120,12,2023-11-11,Wolves,Tottenham,,,False
+120,121,13,2023-11-25,Brentford,Arsenal,,,False
+121,122,13,2023-11-25,Burnley,West Ham,,,False
+122,123,13,2023-11-25,Everton,Man United,,,False
+123,124,13,2023-11-25,Fulham,Wolves,,,False
+124,125,13,2023-11-25,Luton,Crystal Palace,,,False
+125,126,13,2023-11-25,Man City,Liverpool,,,False
+126,127,13,2023-11-25,Newcastle,Chelsea,,,False
+127,128,13,2023-11-25,Nott'm Forest,Brighton,,,False
+128,129,13,2023-11-25,Sheffield United,Bournemouth,,,False
+129,130,13,2023-11-25,Tottenham,Aston Villa,,,False
+130,131,14,2023-12-02,Arsenal,Wolves,,,False
+131,132,14,2023-12-02,Bournemouth,Aston Villa,,,False
+132,133,14,2023-12-02,Brentford,Luton,,,False
+133,134,14,2023-12-02,Burnley,Sheffield United,,,False
+134,135,14,2023-12-02,Chelsea,Brighton,,,False
+135,136,14,2023-12-02,Liverpool,Fulham,,,False
+136,137,14,2023-12-02,Man City,Tottenham,,,False
+137,138,14,2023-12-02,Newcastle,Man United,,,False
+138,139,14,2023-12-02,Nott'm Forest,Everton,,,False
+139,140,14,2023-12-02,West Ham,Crystal Palace,,,False
+140,141,15,2023-12-05,Aston Villa,Man City,,,False
+141,142,15,2023-12-05,Brighton,Brentford,,,False
+142,143,15,2023-12-05,Everton,Newcastle,,,False
+143,144,15,2023-12-05,Fulham,Nott'm Forest,,,False
+144,145,15,2023-12-05,Luton,Arsenal,,,False
+145,146,15,2023-12-05,Sheffield United,Liverpool,,,False
+146,147,15,2023-12-05,Tottenham,West Ham,,,False
+147,148,15,2023-12-05,Wolves,Burnley,,,False
+148,149,15,2023-12-05,Crystal Palace,Bournemouth,,,False
+149,150,15,2023-12-06,Man United,Chelsea,,,False
+150,151,16,2023-12-09,Aston Villa,Arsenal,,,False
+151,152,16,2023-12-09,Brighton,Burnley,,,False
+152,153,16,2023-12-09,Crystal Palace,Liverpool,,,False
+153,154,16,2023-12-09,Everton,Chelsea,,,False
+154,155,16,2023-12-09,Fulham,West Ham,,,False
+155,156,16,2023-12-09,Luton,Man City,,,False
+156,157,16,2023-12-09,Man United,Bournemouth,,,False
+157,158,16,2023-12-09,Sheffield United,Brentford,,,False
+158,159,16,2023-12-09,Tottenham,Newcastle,,,False
+159,160,16,2023-12-09,Wolves,Nott'm Forest,,,False
+160,161,17,2023-12-16,Arsenal,Brighton,,,False
+161,162,17,2023-12-16,Bournemouth,Luton,,,False
+162,163,17,2023-12-16,Brentford,Aston Villa,,,False
+163,164,17,2023-12-16,Burnley,Everton,,,False
+164,165,17,2023-12-16,Chelsea,Sheffield United,,,False
+165,166,17,2023-12-16,Liverpool,Man United,,,False
+166,167,17,2023-12-16,Man City,Crystal Palace,,,False
+167,168,17,2023-12-16,Newcastle,Fulham,,,False
+168,169,17,2023-12-16,Nott'm Forest,Tottenham,,,False
+169,170,17,2023-12-16,West Ham,Wolves,,,False
+170,171,18,2023-12-23,Aston Villa,Sheffield United,,,False
+171,172,18,2023-12-23,Crystal Palace,Brighton,,,False
+172,173,18,2023-12-23,Fulham,Burnley,,,False
+173,174,18,2023-12-23,Liverpool,Arsenal,,,False
+174,175,18,2023-12-23,Luton,Newcastle,,,False
+175,176,18,2023-12-23,Man City,Brentford,,,False
+176,177,18,2023-12-23,Nott'm Forest,Bournemouth,,,False
+177,178,18,2023-12-23,Tottenham,Everton,,,False
+178,179,18,2023-12-23,West Ham,Man United,,,False
+179,180,18,2023-12-23,Wolves,Chelsea,,,False
+180,181,19,2023-12-26,Arsenal,West Ham,,,False
+181,182,19,2023-12-26,Bournemouth,Fulham,,,False
+182,183,19,2023-12-26,Brentford,Wolves,,,False
+183,184,19,2023-12-26,Brighton,Tottenham,,,False
+184,185,19,2023-12-26,Burnley,Liverpool,,,False
+185,186,19,2023-12-26,Chelsea,Crystal Palace,,,False
+186,187,19,2023-12-26,Everton,Man City,,,False
+187,188,19,2023-12-26,Man United,Aston Villa,,,False
+188,189,19,2023-12-26,Newcastle,Nott'm Forest,,,False
+189,190,19,2023-12-26,Sheffield United,Luton,,,False
+190,191,20,2023-12-30,Aston Villa,Burnley,,,False
+191,192,20,2023-12-30,Crystal Palace,Brentford,,,False
+192,193,20,2023-12-30,Fulham,Arsenal,,,False
+193,194,20,2023-12-30,Liverpool,Newcastle,,,False
+194,195,20,2023-12-30,Luton,Chelsea,,,False
+195,196,20,2023-12-30,Man City,Sheffield United,,,False
+196,197,20,2023-12-30,Nott'm Forest,Man United,,,False
+197,198,20,2023-12-30,Tottenham,Bournemouth,,,False
+198,199,20,2023-12-30,West Ham,Brighton,,,False
+199,200,20,2023-12-30,Wolves,Everton,,,False
+200,201,21,2024-01-13,Arsenal,Crystal Palace,,,False
+201,202,21,2024-01-13,Bournemouth,Liverpool,,,False
+202,203,21,2024-01-13,Brentford,Nott'm Forest,,,False
+203,204,21,2024-01-13,Brighton,Wolves,,,False
+204,205,21,2024-01-13,Burnley,Luton,,,False
+205,206,21,2024-01-13,Chelsea,Fulham,,,False
+206,207,21,2024-01-13,Everton,Aston Villa,,,False
+207,208,21,2024-01-13,Man United,Tottenham,,,False
+208,209,21,2024-01-13,Newcastle,Man City,,,False
+209,210,21,2024-01-13,Sheffield United,West Ham,,,False
+210,211,22,2024-01-30,Aston Villa,Newcastle,,,False
+211,212,22,2024-01-30,Fulham,Everton,,,False
+212,213,22,2024-01-30,Luton,Brighton,,,False
+213,214,22,2024-01-30,Nott'm Forest,Arsenal,,,False
+214,215,22,2024-01-30,Tottenham,Brentford,,,False
+215,216,22,2024-01-30,West Ham,Bournemouth,,,False
+216,217,22,2024-01-30,Wolves,Man United,,,False
+217,218,22,2024-01-30,Crystal Palace,Sheffield United,,,False
+218,219,22,2024-01-31,Liverpool,Chelsea,,,False
+219,220,22,2024-01-31,Man City,Burnley,,,False
+220,221,23,2024-02-03,Arsenal,Liverpool,,,False
+221,222,23,2024-02-03,Bournemouth,Nott'm Forest,,,False
+222,223,23,2024-02-03,Brentford,Man City,,,False
+223,224,23,2024-02-03,Brighton,Crystal Palace,,,False
+224,225,23,2024-02-03,Burnley,Fulham,,,False
+225,226,23,2024-02-03,Chelsea,Wolves,,,False
+226,227,23,2024-02-03,Everton,Tottenham,,,False
+227,228,23,2024-02-03,Man United,West Ham,,,False
+228,229,23,2024-02-03,Newcastle,Luton,,,False
+229,230,23,2024-02-03,Sheffield United,Aston Villa,,,False
+230,231,24,2024-02-10,Aston Villa,Man United,,,False
+231,232,24,2024-02-10,Crystal Palace,Chelsea,,,False
+232,233,24,2024-02-10,Fulham,Bournemouth,,,False
+233,234,24,2024-02-10,Liverpool,Burnley,,,False
+234,235,24,2024-02-10,Luton,Sheffield United,,,False
+235,236,24,2024-02-10,Man City,Everton,,,False
+236,237,24,2024-02-10,Nott'm Forest,Newcastle,,,False
+237,238,24,2024-02-10,Tottenham,Brighton,,,False
+238,239,24,2024-02-10,West Ham,Arsenal,,,False
+239,240,24,2024-02-10,Wolves,Brentford,,,False
+240,241,25,2024-02-17,Brentford,Liverpool,,,False
+241,242,25,2024-02-17,Burnley,Arsenal,,,False
+242,243,25,2024-02-17,Everton,Crystal Palace,,,False
+243,244,25,2024-02-17,Fulham,Aston Villa,,,False
+244,245,25,2024-02-17,Luton,Man United,,,False
+245,246,25,2024-02-17,Man City,Chelsea,,,False
+246,247,25,2024-02-17,Newcastle,Bournemouth,,,False
+247,248,25,2024-02-17,Nott'm Forest,West Ham,,,False
+248,249,25,2024-02-17,Sheffield United,Brighton,,,False
+249,250,25,2024-02-17,Tottenham,Wolves,,,False
+250,251,26,2024-02-24,Arsenal,Newcastle,,,False
+251,252,26,2024-02-24,Aston Villa,Nott'm Forest,,,False
+252,253,26,2024-02-24,Bournemouth,Man City,,,False
+253,254,26,2024-02-24,Brighton,Everton,,,False
+254,255,26,2024-02-24,Chelsea,Tottenham,,,False
+255,256,26,2024-02-24,Crystal Palace,Burnley,,,False
+256,257,26,2024-02-24,Liverpool,Luton,,,False
+257,258,26,2024-02-24,Man United,Fulham,,,False
+258,259,26,2024-02-24,West Ham,Brentford,,,False
+259,260,26,2024-02-24,Wolves,Sheffield United,,,False
+260,261,27,2024-03-02,Brentford,Chelsea,,,False
+261,262,27,2024-03-02,Burnley,Bournemouth,,,False
+262,263,27,2024-03-02,Everton,West Ham,,,False
+263,264,27,2024-03-02,Fulham,Brighton,,,False
+264,265,27,2024-03-02,Luton,Aston Villa,,,False
+265,266,27,2024-03-02,Man City,Man United,,,False
+266,267,27,2024-03-02,Newcastle,Wolves,,,False
+267,268,27,2024-03-02,Nott'm Forest,Liverpool,,,False
+268,269,27,2024-03-02,Sheffield United,Arsenal,,,False
+269,270,27,2024-03-02,Tottenham,Crystal Palace,,,False
+270,271,28,2024-03-09,Arsenal,Brentford,,,False
+271,272,28,2024-03-09,Aston Villa,Tottenham,,,False
+272,273,28,2024-03-09,Bournemouth,Sheffield United,,,False
+273,274,28,2024-03-09,Brighton,Nott'm Forest,,,False
+274,275,28,2024-03-09,Chelsea,Newcastle,,,False
+275,276,28,2024-03-09,Crystal Palace,Luton,,,False
+276,277,28,2024-03-09,Liverpool,Man City,,,False
+277,278,28,2024-03-09,Man United,Everton,,,False
+278,279,28,2024-03-09,West Ham,Burnley,,,False
+279,280,28,2024-03-09,Wolves,Fulham,,,False
+280,281,29,2024-03-16,Arsenal,Chelsea,,,False
+281,282,29,2024-03-16,Brighton,Man City,,,False
+282,283,29,2024-03-16,Burnley,Brentford,,,False
+283,284,29,2024-03-16,Crystal Palace,Newcastle,,,False
+284,285,29,2024-03-16,Everton,Liverpool,,,False
+285,286,29,2024-03-16,Fulham,Tottenham,,,False
+286,287,29,2024-03-16,Luton,Nott'm Forest,,,False
+287,288,29,2024-03-16,Man United,Sheffield United,,,False
+288,289,29,2024-03-16,West Ham,Aston Villa,,,False
+289,290,29,2024-03-16,Wolves,Bournemouth,,,False
+290,291,30,2024-03-30,Aston Villa,Wolves,,,False
+291,292,30,2024-03-30,Bournemouth,Everton,,,False
+292,293,30,2024-03-30,Brentford,Man United,,,False
+293,294,30,2024-03-30,Chelsea,Burnley,,,False
+294,295,30,2024-03-30,Liverpool,Brighton,,,False
+295,296,30,2024-03-30,Man City,Arsenal,,,False
+296,297,30,2024-03-30,Newcastle,West Ham,,,False
+297,298,30,2024-03-30,Nott'm Forest,Crystal Palace,,,False
+298,299,30,2024-03-30,Sheffield United,Fulham,,,False
+299,300,30,2024-03-30,Tottenham,Luton,,,False
+300,301,31,2024-04-02,Arsenal,Luton,,,False
+301,302,31,2024-04-02,Bournemouth,Crystal Palace,,,False
+302,303,31,2024-04-02,Brentford,Brighton,,,False
+303,304,31,2024-04-02,Burnley,Wolves,,,False
+304,305,31,2024-04-02,Nott'm Forest,Fulham,,,False
+305,306,31,2024-04-02,West Ham,Tottenham,,,False
+306,307,31,2024-04-03,Chelsea,Man United,,,False
+307,308,31,2024-04-03,Newcastle,Everton,,,False
+308,309,31,2024-04-03,Liverpool,Sheffield United,,,False
+309,310,31,2024-04-03,Man City,Aston Villa,,,False
+310,311,32,2024-04-06,Aston Villa,Brentford,,,False
+311,312,32,2024-04-06,Brighton,Arsenal,,,False
+312,313,32,2024-04-06,Crystal Palace,Man City,,,False
+313,314,32,2024-04-06,Everton,Burnley,,,False
+314,315,32,2024-04-06,Fulham,Newcastle,,,False
+315,316,32,2024-04-06,Luton,Bournemouth,,,False
+316,317,32,2024-04-06,Man United,Liverpool,,,False
+317,318,32,2024-04-06,Sheffield United,Chelsea,,,False
+318,319,32,2024-04-06,Tottenham,Nott'm Forest,,,False
+319,320,32,2024-04-06,Wolves,West Ham,,,False
+320,321,33,2024-04-13,Arsenal,Aston Villa,,,False
+321,322,33,2024-04-13,Bournemouth,Man United,,,False
+322,323,33,2024-04-13,Brentford,Sheffield United,,,False
+323,324,33,2024-04-13,Burnley,Brighton,,,False
+324,325,33,2024-04-13,Chelsea,Everton,,,False
+325,326,33,2024-04-13,Liverpool,Crystal Palace,,,False
+326,327,33,2024-04-13,Man City,Luton,,,False
+327,328,33,2024-04-13,Newcastle,Tottenham,,,False
+328,329,33,2024-04-13,Nott'm Forest,Wolves,,,False
+329,330,33,2024-04-13,West Ham,Fulham,,,False
+330,331,34,2024-04-20,Aston Villa,Bournemouth,,,False
+331,332,34,2024-04-20,Brighton,Chelsea,,,False
+332,333,34,2024-04-20,Crystal Palace,West Ham,,,False
+333,334,34,2024-04-20,Everton,Nott'm Forest,,,False
+334,335,34,2024-04-20,Fulham,Liverpool,,,False
+335,336,34,2024-04-20,Luton,Brentford,,,False
+336,337,34,2024-04-20,Man United,Newcastle,,,False
+337,338,34,2024-04-20,Sheffield United,Burnley,,,False
+338,339,34,2024-04-20,Tottenham,Man City,,,False
+339,340,34,2024-04-20,Wolves,Arsenal,,,False
+340,341,35,2024-04-27,Aston Villa,Chelsea,,,False
+341,342,35,2024-04-27,Bournemouth,Brighton,,,False
+342,343,35,2024-04-27,Everton,Brentford,,,False
+343,344,35,2024-04-27,Fulham,Crystal Palace,,,False
+344,345,35,2024-04-27,Man United,Burnley,,,False
+345,346,35,2024-04-27,Newcastle,Sheffield United,,,False
+346,347,35,2024-04-27,Nott'm Forest,Man City,,,False
+347,348,35,2024-04-27,Tottenham,Arsenal,,,False
+348,349,35,2024-04-27,West Ham,Liverpool,,,False
+349,350,35,2024-04-27,Wolves,Luton,,,False
+350,351,36,2024-05-04,Arsenal,Bournemouth,,,False
+351,352,36,2024-05-04,Brentford,Fulham,,,False
+352,353,36,2024-05-04,Brighton,Aston Villa,,,False
+353,354,36,2024-05-04,Burnley,Newcastle,,,False
+354,355,36,2024-05-04,Chelsea,West Ham,,,False
+355,356,36,2024-05-04,Crystal Palace,Man United,,,False
+356,357,36,2024-05-04,Liverpool,Tottenham,,,False
+357,358,36,2024-05-04,Luton,Everton,,,False
+358,359,36,2024-05-04,Man City,Wolves,,,False
+359,360,36,2024-05-04,Sheffield United,Nott'm Forest,,,False
+360,361,37,2024-05-11,Aston Villa,Liverpool,,,False
+361,362,37,2024-05-11,Bournemouth,Brentford,,,False
+362,363,37,2024-05-11,Everton,Sheffield United,,,False
+363,364,37,2024-05-11,Fulham,Man City,,,False
+364,365,37,2024-05-11,Man United,Arsenal,,,False
+365,366,37,2024-05-11,Newcastle,Brighton,,,False
+366,367,37,2024-05-11,Nott'm Forest,Chelsea,,,False
+367,368,37,2024-05-11,Tottenham,Burnley,,,False
+368,369,37,2024-05-11,West Ham,Luton,,,False
+369,370,37,2024-05-11,Wolves,Crystal Palace,,,False
+370,371,38,2024-05-19,Arsenal,Everton,,,False
+371,372,38,2024-05-19,Brentford,Newcastle,,,False
+372,373,38,2024-05-19,Brighton,Man United,,,False
+373,374,38,2024-05-19,Burnley,Nott'm Forest,,,False
+374,375,38,2024-05-19,Chelsea,Bournemouth,,,False
+375,376,38,2024-05-19,Crystal Palace,Aston Villa,,,False
+376,377,38,2024-05-19,Liverpool,Wolves,,,False
+377,378,38,2024-05-19,Luton,Fulham,,,False
+378,379,38,2024-05-19,Man City,West Ham,,,False
+379,380,38,2024-05-19,Sheffield United,Tottenham,,,False
