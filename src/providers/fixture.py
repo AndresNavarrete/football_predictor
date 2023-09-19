@@ -7,10 +7,11 @@ import requests
 
 class Fixture:
     def __init__(self):
-        self.url = "https://fixturedownload.com/feed/json/epl-2022"
+        self.url = "https://fixturedownload.com/feed/json/epl-2023"
         self.con = duckdb.connect()
         self.fixture = None
         self.names_translator = {
+            "Sheffield Utd": "Sheffield United",
             "Man Utd": "Man United",
             "Spurs": "Tottenham",
             "Nottingham Forest": """Nott'm Forest""",
