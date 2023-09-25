@@ -54,11 +54,11 @@
 52,59,6,2023-09-23,Man City,Nott'm Forest,2.0,0.0,True
 53,52,6,2023-09-23,Brentford,Everton,1.0,3.0,True
 54,54,6,2023-09-23,Burnley,Man United,0.0,1.0,True
-55,51,6,2023-09-24,Arsenal,Tottenham,,,False
-56,53,6,2023-09-24,Brighton,Bournemouth,,,False
-57,55,6,2023-09-24,Chelsea,Aston Villa,,,False
-58,57,6,2023-09-24,Liverpool,West Ham,,,False
-59,60,6,2023-09-24,Sheffield United,Newcastle,,,False
+55,51,6,2023-09-24,Arsenal,Tottenham,2.0,2.0,True
+56,53,6,2023-09-24,Brighton,Bournemouth,3.0,1.0,True
+57,55,6,2023-09-24,Chelsea,Aston Villa,0.0,1.0,True
+58,57,6,2023-09-24,Liverpool,West Ham,3.0,1.0,True
+59,60,6,2023-09-24,Sheffield United,Newcastle,0.0,8.0,True
 60,61,7,2023-09-30,Aston Villa,Brighton,,,False
 61,62,7,2023-09-30,Bournemouth,Arsenal,,,False
 62,63,7,2023-09-30,Everton,Luton,,,False
