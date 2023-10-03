@@ -68,7 +68,7 @@
 66,70,7,2023-09-30,Wolves,Man City,2.0,1.0,True
 67,68,7,2023-09-30,Tottenham,Liverpool,2.0,1.0,True
 68,67,7,2023-10-01,Nott'm Forest,Brentford,1.0,1.0,True
-69,64,7,2023-10-02,Fulham,Chelsea,,,False
+69,64,7,2023-10-02,Fulham,Chelsea,0.0,2.0,True
 70,77,8,2023-10-07,Luton,Tottenham,,,False
 71,73,8,2023-10-07,Burnley,Chelsea,,,False
 72,75,8,2023-10-07,Everton,Bournemouth,,,False
