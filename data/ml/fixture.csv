@@ -69,16 +69,16 @@
 67,68,7,2023-09-30,Tottenham,Liverpool,2.0,1.0,True
 68,67,7,2023-10-01,Nott'm Forest,Brentford,1.0,1.0,True
 69,64,7,2023-10-02,Fulham,Chelsea,0.0,2.0,True
-70,77,8,2023-10-07,Luton,Tottenham,,,False
-71,73,8,2023-10-07,Burnley,Chelsea,,,False
-72,75,8,2023-10-07,Everton,Bournemouth,,,False
-73,76,8,2023-10-07,Fulham,Sheffield United,,,False
-74,78,8,2023-10-07,Man United,Brentford,,,False
-75,74,8,2023-10-07,Crystal Palace,Nott'm Forest,,,False
-76,72,8,2023-10-08,Brighton,Liverpool,,,False
-77,79,8,2023-10-08,West Ham,Newcastle,,,False
-78,80,8,2023-10-08,Wolves,Aston Villa,,,False
-79,71,8,2023-10-08,Arsenal,Man City,,,False
+70,77,8,2023-10-07,Luton,Tottenham,0.0,1.0,True
+71,73,8,2023-10-07,Burnley,Chelsea,1.0,4.0,True
+72,75,8,2023-10-07,Everton,Bournemouth,3.0,0.0,True
+73,76,8,2023-10-07,Fulham,Sheffield United,3.0,1.0,True
+74,78,8,2023-10-07,Man United,Brentford,2.0,1.0,True
+75,74,8,2023-10-07,Crystal Palace,Nott'm Forest,0.0,0.0,True
+76,72,8,2023-10-08,Brighton,Liverpool,2.0,2.0,True
+77,79,8,2023-10-08,West Ham,Newcastle,2.0,2.0,True
+78,80,8,2023-10-08,Wolves,Aston Villa,1.0,1.0,True
+79,71,8,2023-10-08,Arsenal,Man City,1.0,0.0,True
 80,85,9,2023-10-21,Liverpool,Everton,,,False
 81,82,9,2023-10-21,Bournemouth,Wolves,,,False
 82,83,9,2023-10-21,Brentford,Burnley,,,False
