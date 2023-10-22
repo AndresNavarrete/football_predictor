@@ -79,14 +79,14 @@
 77,79,8,2023-10-08,West Ham,Newcastle,2.0,2.0,True
 78,80,8,2023-10-08,Wolves,Aston Villa,1.0,1.0,True
 79,71,8,2023-10-08,Arsenal,Man City,1.0,0.0,True
-80,85,9,2023-10-21,Liverpool,Everton,,,False
-81,82,9,2023-10-21,Bournemouth,Wolves,,,False
-82,83,9,2023-10-21,Brentford,Burnley,,,False
-83,86,9,2023-10-21,Man City,Brighton,,,False
-84,87,9,2023-10-21,Newcastle,Crystal Palace,,,False
-85,88,9,2023-10-21,Nott'm Forest,Luton,,,False
-86,84,9,2023-10-21,Chelsea,Arsenal,,,False
-87,89,9,2023-10-21,Sheffield United,Man United,,,False
+80,85,9,2023-10-21,Liverpool,Everton,2.0,0.0,True
+81,82,9,2023-10-21,Bournemouth,Wolves,1.0,2.0,True
+82,83,9,2023-10-21,Brentford,Burnley,3.0,0.0,True
+83,86,9,2023-10-21,Man City,Brighton,2.0,1.0,True
+84,87,9,2023-10-21,Newcastle,Crystal Palace,4.0,0.0,True
+85,88,9,2023-10-21,Nott'm Forest,Luton,2.0,2.0,True
+86,84,9,2023-10-21,Chelsea,Arsenal,2.0,2.0,True
+87,89,9,2023-10-21,Sheffield United,Man United,1.0,2.0,True
 88,81,9,2023-10-22,Aston Villa,West Ham,,,False
 89,90,9,2023-10-23,Tottenham,Fulham,,,False
 90,96,10,2023-10-27,Crystal Palace,Tottenham,,,False
@@ -130,15 +130,15 @@
 128,123,13,2023-11-26,Everton,Man United,,,False
 129,124,13,2023-11-27,Fulham,Wolves,,,False
 130,131,14,2023-12-02,Arsenal,Wolves,,,False
-131,132,14,2023-12-02,Bournemouth,Aston Villa,,,False
-132,133,14,2023-12-02,Brentford,Luton,,,False
-133,134,14,2023-12-02,Burnley,Sheffield United,,,False
-134,135,14,2023-12-02,Chelsea,Brighton,,,False
-135,136,14,2023-12-02,Liverpool,Fulham,,,False
-136,137,14,2023-12-02,Man City,Tottenham,,,False
-137,138,14,2023-12-02,Newcastle,Man United,,,False
-138,139,14,2023-12-02,Nott'm Forest,Everton,,,False
-139,140,14,2023-12-02,West Ham,Crystal Palace,,,False
+131,133,14,2023-12-02,Brentford,Luton,,,False
+132,134,14,2023-12-02,Burnley,Sheffield United,,,False
+133,139,14,2023-12-02,Nott'm Forest,Everton,,,False
+134,138,14,2023-12-02,Newcastle,Man United,,,False
+135,132,14,2023-12-03,Bournemouth,Aston Villa,,,False
+136,135,14,2023-12-03,Chelsea,Brighton,,,False
+137,136,14,2023-12-03,Liverpool,Fulham,,,False
+138,140,14,2023-12-03,West Ham,Crystal Palace,,,False
+139,137,14,2023-12-03,Man City,Tottenham,,,False
 140,141,15,2023-12-05,Aston Villa,Man City,,,False
 141,142,15,2023-12-05,Brighton,Brentford,,,False
 142,143,15,2023-12-05,Everton,Newcastle,,,False
