@@ -90,10 +90,10 @@
 88,81,9,2023-10-22,Aston Villa,West Ham,4.0,1.0,True
 89,90,9,2023-10-23,Tottenham,Fulham,2.0,0.0,True
 90,96,10,2023-10-27,Crystal Palace,Tottenham,1.0,2.0,True
-91,95,10,2023-10-28,Chelsea,Brentford,,,False
-92,91,10,2023-10-28,Arsenal,Sheffield United,,,False
-93,93,10,2023-10-28,Bournemouth,Burnley,,,False
-94,100,10,2023-10-28,Wolves,Newcastle,,,False
+91,95,10,2023-10-28,Chelsea,Brentford,0.0,2.0,True
+92,91,10,2023-10-28,Arsenal,Sheffield United,5.0,0.0,True
+93,93,10,2023-10-28,Bournemouth,Burnley,2.0,1.0,True
+94,100,10,2023-10-28,Wolves,Newcastle,2.0,2.0,True
 95,99,10,2023-10-29,West Ham,Everton,,,False
 96,92,10,2023-10-29,Aston Villa,Luton,,,False
 97,94,10,2023-10-29,Brighton,Fulham,,,False
