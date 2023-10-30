@@ -94,11 +94,11 @@
 92,91,10,2023-10-28,Arsenal,Sheffield United,5.0,0.0,True
 93,93,10,2023-10-28,Bournemouth,Burnley,2.0,1.0,True
 94,100,10,2023-10-28,Wolves,Newcastle,2.0,2.0,True
-95,99,10,2023-10-29,West Ham,Everton,,,False
-96,92,10,2023-10-29,Aston Villa,Luton,,,False
-97,94,10,2023-10-29,Brighton,Fulham,,,False
-98,97,10,2023-10-29,Liverpool,Nott'm Forest,,,False
-99,98,10,2023-10-29,Man United,Man City,,,False
+95,99,10,2023-10-29,West Ham,Everton,0.0,1.0,True
+96,92,10,2023-10-29,Aston Villa,Luton,3.0,1.0,True
+97,94,10,2023-10-29,Brighton,Fulham,1.0,1.0,True
+98,97,10,2023-10-29,Liverpool,Nott'm Forest,3.0,0.0,True
+99,98,10,2023-10-29,Man United,Man City,0.0,3.0,True
 100,104,11,2023-11-04,Fulham,Man United,,,False
 101,101,11,2023-11-04,Brentford,West Ham,,,False
 102,102,11,2023-11-04,Burnley,Crystal Palace,,,False
