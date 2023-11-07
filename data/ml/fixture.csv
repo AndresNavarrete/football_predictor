@@ -108,7 +108,7 @@
 106,107,11,2023-11-04,Newcastle,Arsenal,1.0,0.0,True
 107,108,11,2023-11-05,Nott'm Forest,Aston Villa,2.0,0.0,True
 108,105,11,2023-11-05,Luton,Liverpool,1.0,1.0,True
-109,110,11,2023-11-06,Tottenham,Chelsea,,,False
+109,110,11,2023-11-06,Tottenham,Chelsea,1.0,4.0,True
 110,120,12,2023-11-11,Wolves,Tottenham,,,False
 111,111,12,2023-11-11,Arsenal,Burnley,,,False
 112,116,12,2023-11-11,Crystal Palace,Everton,,,False
