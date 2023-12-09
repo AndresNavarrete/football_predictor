@@ -147,8 +147,8 @@
 145,149,15,2023-12-06,Crystal Palace,Bournemouth,0.0,2.0,True
 146,141,15,2023-12-06,Aston Villa,Man City,1.0,0.0,True
 147,150,15,2023-12-06,Man United,Chelsea,2.0,1.0,True
-148,143,15,2023-12-07,Everton,Newcastle,,,False
-149,147,15,2023-12-07,Tottenham,West Ham,,,False
+148,143,15,2023-12-07,Everton,Newcastle,3.0,0.0,True
+149,147,15,2023-12-07,Tottenham,West Ham,1.0,2.0,True
 150,153,16,2023-12-09,Crystal Palace,Liverpool,,,False
 151,152,16,2023-12-09,Brighton,Burnley,,,False
 152,157,16,2023-12-09,Man United,Bournemouth,,,False
