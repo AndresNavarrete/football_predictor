@@ -178,15 +178,15 @@
 176,177,18,2023-12-23,Nott'm Forest,Bournemouth,2.0,3.0,True
 177,178,18,2023-12-23,Tottenham,Everton,2.0,1.0,True
 178,174,18,2023-12-23,Liverpool,Arsenal,1.0,1.0,True
-179,180,18,2023-12-24,Wolves,Chelsea,,,False
-180,189,19,2023-12-26,Newcastle,Nott'm Forest,,,False
-181,182,19,2023-12-26,Bournemouth,Fulham,,,False
-182,190,19,2023-12-26,Sheffield United,Luton,,,False
-183,185,19,2023-12-26,Burnley,Liverpool,,,False
-184,188,19,2023-12-26,Man United,Aston Villa,,,False
-185,183,19,2023-12-27,Brentford,Wolves,,,False
-186,186,19,2023-12-27,Chelsea,Crystal Palace,,,False
-187,187,19,2023-12-27,Everton,Man City,,,False
+179,180,18,2023-12-24,Wolves,Chelsea,2.0,1.0,True
+180,189,19,2023-12-26,Newcastle,Nott'm Forest,1.0,3.0,True
+181,182,19,2023-12-26,Bournemouth,Fulham,3.0,0.0,True
+182,190,19,2023-12-26,Sheffield United,Luton,2.0,3.0,True
+183,185,19,2023-12-26,Burnley,Liverpool,0.0,2.0,True
+184,188,19,2023-12-26,Man United,Aston Villa,3.0,2.0,True
+185,183,19,2023-12-27,Brentford,Wolves,1.0,4.0,True
+186,186,19,2023-12-27,Chelsea,Crystal Palace,2.0,1.0,True
+187,187,19,2023-12-27,Everton,Man City,1.0,3.0,True
 188,184,19,2023-12-28,Brighton,Tottenham,,,False
 189,181,19,2023-12-28,Arsenal,West Ham,,,False
 190,195,20,2023-12-30,Luton,Chelsea,,,False
