@@ -187,8 +187,8 @@
 185,183,19,2023-12-27,Brentford,Wolves,1.0,4.0,True
 186,186,19,2023-12-27,Chelsea,Crystal Palace,2.0,1.0,True
 187,187,19,2023-12-27,Everton,Man City,1.0,3.0,True
-188,184,19,2023-12-28,Brighton,Tottenham,,,False
-189,181,19,2023-12-28,Arsenal,West Ham,,,False
+188,184,19,2023-12-28,Brighton,Tottenham,4.0,2.0,True
+189,181,19,2023-12-28,Arsenal,West Ham,0.0,2.0,True
 190,195,20,2023-12-30,Luton,Chelsea,,,False
 191,191,20,2023-12-30,Aston Villa,Burnley,,,False
 192,192,20,2023-12-30,Crystal Palace,Brentford,,,False
