@@ -3,7 +3,7 @@ name: Update predictions
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 15 * * 2,4,6'
+    - cron: '0 15 * * 0'
 
 jobs:
   build:
