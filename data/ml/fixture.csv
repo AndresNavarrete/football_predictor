@@ -199,11 +199,11 @@
 197,198,20,2023-12-31,Tottenham,Bournemouth,3.0,1.0,True
 198,194,20,2024-01-01,Liverpool,Newcastle,4.0,2.0,True
 199,199,20,2024-01-02,West Ham,Brighton,0.0,0.0,True
-200,206,21,2024-01-13,Chelsea,Fulham,,,False
-201,209,21,2024-01-13,Newcastle,Man City,,,False
-202,207,21,2024-01-14,Everton,Aston Villa,,,False
-203,208,21,2024-01-14,Man United,Tottenham,,,False
-204,205,21,2024-01-15,Burnley,Luton,,,False
+200,205,21,2024-01-12,Burnley,Luton,1.0,1.0,True
+201,206,21,2024-01-13,Chelsea,Fulham,1.0,0.0,True
+202,209,21,2024-01-13,Newcastle,Man City,2.0,3.0,True
+203,207,21,2024-01-14,Everton,Aston Villa,,,False
+204,208,21,2024-01-14,Man United,Tottenham,,,False
 205,201,21,2024-01-20,Arsenal,Crystal Palace,,,False
 206,203,21,2024-01-20,Brentford,Nott'm Forest,,,False
 207,210,21,2024-01-21,Sheffield United,West Ham,,,False
