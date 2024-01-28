@@ -206,9 +206,9 @@
 204,208,21,2024-01-14,Man United,Tottenham,2.0,2.0,True
 205,201,21,2024-01-20,Arsenal,Crystal Palace,5.0,0.0,True
 206,203,21,2024-01-20,Brentford,Nott'm Forest,3.0,2.0,True
-207,210,21,2024-01-21,Sheffield United,West Ham,,,False
-208,202,21,2024-01-21,Bournemouth,Liverpool,,,False
-209,204,21,2024-01-22,Brighton,Wolves,,,False
+207,210,21,2024-01-21,Sheffield United,West Ham,2.0,2.0,True
+208,202,21,2024-01-21,Bournemouth,Liverpool,0.0,4.0,True
+209,204,21,2024-01-22,Brighton,Wolves,0.0,0.0,True
 210,214,22,2024-01-30,Nott'm Forest,Arsenal,,,False
 211,212,22,2024-01-30,Fulham,Everton,,,False
 212,213,22,2024-01-30,Luton,Brighton,,,False
