@@ -1,173 +1,158 @@
 ,date,home,away,prediction
-0,2023-12-16,Bournemouth,Luton,Away
+0,2023-12-16,Bournemouth,Luton,Home
 1,2024-02-20,Man City,Brentford,Home
-2,2024-01-30,Nott'm Forest,Arsenal,Away
-3,2024-01-30,Fulham,Everton,Away
-4,2024-01-30,Luton,Brighton,Draw
-5,2024-01-30,Crystal Palace,Sheffield United,Away
-6,2024-01-30,Aston Villa,Newcastle,Home
-7,2024-01-31,Tottenham,Brentford,Draw
-8,2024-01-31,Man City,Burnley,Home
-9,2024-01-31,Liverpool,Chelsea,Home
-10,2024-02-01,West Ham,Bournemouth,Away
-11,2024-02-01,Wolves,Man United,Away
-12,2024-02-03,Everton,Tottenham,Away
-13,2024-02-03,Brighton,Crystal Palace,Away
-14,2024-02-03,Burnley,Fulham,Away
-15,2024-02-03,Newcastle,Luton,Away
-16,2024-02-03,Sheffield United,Aston Villa,Home
-17,2024-02-04,Bournemouth,Nott'm Forest,Home
-18,2024-02-04,Chelsea,Wolves,Home
-19,2024-02-04,Man United,West Ham,Home
-20,2024-02-04,Arsenal,Liverpool,Home
-21,2024-02-05,Brentford,Man City,Home
-22,2024-02-10,Man City,Everton,Draw
-23,2024-02-10,Fulham,Bournemouth,Home
-24,2024-02-10,Liverpool,Burnley,Away
-25,2024-02-10,Luton,Sheffield United,Draw
-26,2024-02-10,Tottenham,Brighton,Home
-27,2024-02-10,Wolves,Brentford,Away
-28,2024-02-10,Nott'm Forest,Newcastle,Away
-29,2024-02-11,West Ham,Arsenal,Away
-30,2024-02-11,Aston Villa,Man United,Home
-31,2024-02-12,Crystal Palace,Chelsea,Home
-32,2024-02-17,Brentford,Liverpool,Away
-33,2024-02-17,Burnley,Arsenal,Home
-34,2024-02-17,Fulham,Aston Villa,Home
-35,2024-02-17,Newcastle,Bournemouth,Away
-36,2024-02-17,Nott'm Forest,West Ham,Away
-37,2024-02-17,Tottenham,Wolves,Away
-38,2024-02-17,Man City,Chelsea,Away
-39,2024-02-18,Sheffield United,Brighton,Away
-40,2024-02-18,Luton,Man United,Home
-41,2024-02-19,Everton,Crystal Palace,Away
-42,2024-02-23,Chelsea,Tottenham,Home
-43,2024-02-24,Aston Villa,Nott'm Forest,Away
-44,2024-02-24,Brighton,Everton,Away
-45,2024-02-24,Crystal Palace,Burnley,Away
-46,2024-02-24,Liverpool,Luton,Home
-47,2024-02-24,Man United,Fulham,Home
-48,2024-02-24,Bournemouth,Man City,Away
-49,2024-02-24,Arsenal,Newcastle,Draw
-50,2024-02-25,Wolves,Sheffield United,Away
-51,2024-02-26,West Ham,Brentford,Away
-52,2024-03-02,Brentford,Chelsea,Away
-53,2024-03-02,Burnley,Bournemouth,Away
-54,2024-03-02,Everton,West Ham,Away
-55,2024-03-02,Fulham,Brighton,Away
-56,2024-03-02,Luton,Aston Villa,Home
-57,2024-03-02,Man City,Man United,Home
-58,2024-03-02,Newcastle,Wolves,Away
-59,2024-03-02,Nott'm Forest,Liverpool,Away
-60,2024-03-02,Sheffield United,Arsenal,Home
-61,2024-03-02,Tottenham,Crystal Palace,Home
-62,2024-03-09,Arsenal,Brentford,Home
-63,2024-03-09,Aston Villa,Tottenham,Away
-64,2024-03-09,Bournemouth,Sheffield United,Home
-65,2024-03-09,Brighton,Nott'm Forest,Away
-66,2024-03-09,Chelsea,Newcastle,Draw
-67,2024-03-09,Crystal Palace,Luton,Home
-68,2024-03-09,Liverpool,Man City,Away
-69,2024-03-09,Man United,Everton,Draw
-70,2024-03-09,West Ham,Burnley,Away
-71,2024-03-09,Wolves,Fulham,Away
-72,2024-03-16,Arsenal,Chelsea,Home
-73,2024-03-16,Brighton,Man City,Home
-74,2024-03-16,Burnley,Brentford,Home
-75,2024-03-16,Crystal Palace,Newcastle,Away
-76,2024-03-16,Everton,Liverpool,Away
-77,2024-03-16,Fulham,Tottenham,Away
-78,2024-03-16,Luton,Nott'm Forest,Home
-79,2024-03-16,Man United,Sheffield United,Away
-80,2024-03-16,West Ham,Aston Villa,Away
-81,2024-03-16,Wolves,Bournemouth,Away
-82,2024-03-30,Aston Villa,Wolves,Away
-83,2024-03-30,Bournemouth,Everton,Draw
-84,2024-03-30,Brentford,Man United,Away
-85,2024-03-30,Chelsea,Burnley,Home
-86,2024-03-30,Liverpool,Brighton,Home
-87,2024-03-30,Man City,Arsenal,Away
-88,2024-03-30,Newcastle,West Ham,Away
-89,2024-03-30,Nott'm Forest,Crystal Palace,Home
-90,2024-03-30,Sheffield United,Fulham,Home
-91,2024-03-30,Tottenham,Luton,Away
-92,2024-04-02,Arsenal,Luton,Away
-93,2024-04-02,Bournemouth,Crystal Palace,Draw
-94,2024-04-02,Brentford,Brighton,Away
-95,2024-04-02,Burnley,Wolves,Home
-96,2024-04-02,Nott'm Forest,Fulham,Away
-97,2024-04-02,West Ham,Tottenham,Away
-98,2024-04-03,Chelsea,Man United,Home
-99,2024-04-03,Newcastle,Everton,Away
-100,2024-04-03,Liverpool,Sheffield United,Home
-101,2024-04-03,Man City,Aston Villa,Away
-102,2024-04-06,Aston Villa,Brentford,Away
-103,2024-04-06,Brighton,Arsenal,Away
-104,2024-04-06,Crystal Palace,Man City,Away
-105,2024-04-06,Everton,Burnley,Away
-106,2024-04-06,Fulham,Newcastle,Draw
-107,2024-04-06,Luton,Bournemouth,Home
-108,2024-04-06,Man United,Liverpool,Home
-109,2024-04-06,Sheffield United,Chelsea,Home
-110,2024-04-06,Tottenham,Nott'm Forest,Home
-111,2024-04-06,Wolves,West Ham,Home
-112,2024-04-13,Arsenal,Aston Villa,Home
-113,2024-04-13,Bournemouth,Man United,Draw
-114,2024-04-13,Brentford,Sheffield United,Away
-115,2024-04-13,Burnley,Brighton,Home
-116,2024-04-13,Chelsea,Everton,Draw
-117,2024-04-13,Liverpool,Crystal Palace,Away
-118,2024-04-13,Man City,Luton,Home
-119,2024-04-13,Newcastle,Tottenham,Home
-120,2024-04-13,Nott'm Forest,Wolves,Home
-121,2024-04-13,West Ham,Fulham,Away
-122,2024-04-20,Aston Villa,Bournemouth,Away
-123,2024-04-20,Brighton,Chelsea,Away
-124,2024-04-20,Crystal Palace,West Ham,Away
-125,2024-04-20,Everton,Nott'm Forest,Away
-126,2024-04-20,Fulham,Liverpool,Home
-127,2024-04-20,Luton,Brentford,Draw
-128,2024-04-20,Man United,Newcastle,Away
-129,2024-04-20,Sheffield United,Burnley,Home
-130,2024-04-20,Tottenham,Man City,Home
-131,2024-04-20,Wolves,Arsenal,Home
-132,2024-04-27,Aston Villa,Chelsea,Away
-133,2024-04-27,Bournemouth,Brighton,Home
-134,2024-04-27,Everton,Brentford,Away
-135,2024-04-27,Fulham,Crystal Palace,Home
-136,2024-04-27,Man United,Burnley,Home
-137,2024-04-27,Newcastle,Sheffield United,Home
-138,2024-04-27,Nott'm Forest,Man City,Home
-139,2024-04-27,Tottenham,Arsenal,Away
-140,2024-04-27,West Ham,Liverpool,Home
-141,2024-04-27,Wolves,Luton,Home
-142,2024-05-04,Arsenal,Bournemouth,Home
-143,2024-05-04,Brentford,Fulham,Home
-144,2024-05-04,Brighton,Aston Villa,Away
-145,2024-05-04,Burnley,Newcastle,Home
-146,2024-05-04,Chelsea,West Ham,Away
-147,2024-05-04,Crystal Palace,Man United,Away
-148,2024-05-04,Liverpool,Tottenham,Away
-149,2024-05-04,Luton,Everton,Home
-150,2024-05-04,Man City,Wolves,Away
-151,2024-05-04,Sheffield United,Nott'm Forest,Away
-152,2024-05-11,Aston Villa,Liverpool,Away
-153,2024-05-11,Bournemouth,Brentford,Home
-154,2024-05-11,Everton,Sheffield United,Away
-155,2024-05-11,Fulham,Man City,Away
-156,2024-05-11,Man United,Arsenal,Home
-157,2024-05-11,Newcastle,Brighton,Away
-158,2024-05-11,Nott'm Forest,Chelsea,Home
-159,2024-05-11,Tottenham,Burnley,Away
-160,2024-05-11,West Ham,Luton,Away
-161,2024-05-11,Wolves,Crystal Palace,Draw
-162,2024-05-19,Arsenal,Everton,Away
-163,2024-05-19,Brentford,Newcastle,Home
-164,2024-05-19,Brighton,Man United,Away
-165,2024-05-19,Burnley,Nott'm Forest,Home
-166,2024-05-19,Chelsea,Bournemouth,Home
-167,2024-05-19,Crystal Palace,Aston Villa,Away
-168,2024-05-19,Liverpool,Wolves,Away
-169,2024-05-19,Luton,Fulham,Home
-170,2024-05-19,Man City,West Ham,Away
-171,2024-05-19,Sheffield United,Tottenham,Home
+2,2024-02-04,Bournemouth,Nott'm Forest,Home
+3,2024-02-04,Chelsea,Wolves,Home
+4,2024-02-04,Man United,West Ham,Draw
+5,2024-02-04,Arsenal,Liverpool,Home
+6,2024-02-05,Brentford,Man City,Home
+7,2024-02-10,Man City,Everton,Home
+8,2024-02-10,Fulham,Bournemouth,Away
+9,2024-02-10,Liverpool,Burnley,Home
+10,2024-02-10,Luton,Sheffield United,Away
+11,2024-02-10,Tottenham,Brighton,Away
+12,2024-02-10,Wolves,Brentford,Home
+13,2024-02-10,Nott'm Forest,Newcastle,Draw
+14,2024-02-11,West Ham,Arsenal,Away
+15,2024-02-11,Aston Villa,Man United,Home
+16,2024-02-12,Crystal Palace,Chelsea,Home
+17,2024-02-17,Brentford,Liverpool,Home
+18,2024-02-17,Burnley,Arsenal,Home
+19,2024-02-17,Fulham,Aston Villa,Away
+20,2024-02-17,Newcastle,Bournemouth,Away
+21,2024-02-17,Nott'm Forest,West Ham,Away
+22,2024-02-17,Tottenham,Wolves,Draw
+23,2024-02-17,Man City,Chelsea,Home
+24,2024-02-18,Sheffield United,Brighton,Away
+25,2024-02-18,Luton,Man United,Away
+26,2024-02-19,Everton,Crystal Palace,Home
+27,2024-02-23,Chelsea,Tottenham,Away
+28,2024-02-24,Aston Villa,Nott'm Forest,Away
+29,2024-02-24,Brighton,Everton,Draw
+30,2024-02-24,Crystal Palace,Burnley,Away
+31,2024-02-24,Liverpool,Luton,Away
+32,2024-02-24,Man United,Fulham,Away
+33,2024-02-24,Bournemouth,Man City,Home
+34,2024-02-24,Arsenal,Newcastle,Home
+35,2024-02-25,Wolves,Sheffield United,Away
+36,2024-02-26,West Ham,Brentford,Home
+37,2024-03-02,Brentford,Chelsea,Away
+38,2024-03-02,Everton,West Ham,Home
+39,2024-03-02,Fulham,Brighton,Away
+40,2024-03-02,Newcastle,Wolves,Away
+41,2024-03-02,Nott'm Forest,Liverpool,Away
+42,2024-03-02,Tottenham,Crystal Palace,Home
+43,2024-03-02,Luton,Aston Villa,Away
+44,2024-03-03,Burnley,Bournemouth,Home
+45,2024-03-03,Man City,Man United,Away
+46,2024-03-04,Sheffield United,Arsenal,Home
+47,2024-03-09,Arsenal,Brentford,Home
+48,2024-03-09,Aston Villa,Tottenham,Home
+49,2024-03-09,Bournemouth,Sheffield United,Home
+50,2024-03-09,Brighton,Nott'm Forest,Home
+51,2024-03-09,Chelsea,Newcastle,Away
+52,2024-03-09,Crystal Palace,Luton,Away
+53,2024-03-09,Liverpool,Man City,Home
+54,2024-03-09,Man United,Everton,Home
+55,2024-03-09,West Ham,Burnley,Home
+56,2024-03-09,Wolves,Fulham,Home
+57,2024-03-16,Arsenal,Chelsea,Away
+58,2024-03-16,Brighton,Man City,Home
+59,2024-03-16,Burnley,Brentford,Away
+60,2024-03-16,Crystal Palace,Newcastle,Away
+61,2024-03-16,Everton,Liverpool,Home
+62,2024-03-16,Fulham,Tottenham,Away
+63,2024-03-16,Luton,Nott'm Forest,Draw
+64,2024-03-16,Man United,Sheffield United,Away
+65,2024-03-16,West Ham,Aston Villa,Home
+66,2024-03-16,Wolves,Bournemouth,Home
+67,2024-03-30,Aston Villa,Wolves,Home
+68,2024-03-30,Bournemouth,Everton,Home
+69,2024-03-30,Brentford,Man United,Away
+70,2024-03-30,Chelsea,Burnley,Away
+71,2024-03-30,Liverpool,Brighton,Home
+72,2024-03-30,Man City,Arsenal,Away
+73,2024-03-30,Newcastle,West Ham,Home
+74,2024-03-30,Nott'm Forest,Crystal Palace,Away
+75,2024-03-30,Sheffield United,Fulham,Away
+76,2024-03-30,Tottenham,Luton,Home
+77,2024-04-02,Arsenal,Luton,Away
+78,2024-04-02,Bournemouth,Crystal Palace,Away
+79,2024-04-02,Brentford,Brighton,Away
+80,2024-04-02,Burnley,Wolves,Away
+81,2024-04-02,Nott'm Forest,Fulham,Away
+82,2024-04-02,West Ham,Tottenham,Home
+83,2024-04-03,Chelsea,Man United,Away
+84,2024-04-03,Newcastle,Everton,Away
+85,2024-04-03,Liverpool,Sheffield United,Away
+86,2024-04-03,Man City,Aston Villa,Away
+87,2024-04-06,Aston Villa,Brentford,Draw
+88,2024-04-06,Brighton,Arsenal,Home
+89,2024-04-06,Crystal Palace,Man City,Away
+90,2024-04-06,Everton,Burnley,Home
+91,2024-04-06,Fulham,Newcastle,Away
+92,2024-04-06,Luton,Bournemouth,Home
+93,2024-04-06,Man United,Liverpool,Home
+94,2024-04-06,Sheffield United,Chelsea,Home
+95,2024-04-06,Tottenham,Nott'm Forest,Away
+96,2024-04-06,Wolves,West Ham,Home
+97,2024-04-13,Arsenal,Aston Villa,Home
+98,2024-04-13,Bournemouth,Man United,Home
+99,2024-04-13,Brentford,Sheffield United,Away
+100,2024-04-13,Burnley,Brighton,Home
+101,2024-04-13,Chelsea,Everton,Away
+102,2024-04-13,Liverpool,Crystal Palace,Home
+103,2024-04-13,Man City,Luton,Away
+104,2024-04-13,Newcastle,Tottenham,Home
+105,2024-04-13,Nott'm Forest,Wolves,Home
+106,2024-04-13,West Ham,Fulham,Home
+107,2024-04-20,Aston Villa,Bournemouth,Home
+108,2024-04-20,Brighton,Chelsea,Away
+109,2024-04-20,Crystal Palace,West Ham,Away
+110,2024-04-20,Everton,Nott'm Forest,Home
+111,2024-04-20,Fulham,Liverpool,Home
+112,2024-04-20,Luton,Brentford,Home
+113,2024-04-20,Man United,Newcastle,Home
+114,2024-04-20,Sheffield United,Burnley,Home
+115,2024-04-20,Tottenham,Man City,Away
+116,2024-04-20,Wolves,Arsenal,Home
+117,2024-04-27,Aston Villa,Chelsea,Draw
+118,2024-04-27,Bournemouth,Brighton,Home
+119,2024-04-27,Everton,Brentford,Away
+120,2024-04-27,Fulham,Crystal Palace,Home
+121,2024-04-27,Man United,Burnley,Home
+122,2024-04-27,Newcastle,Sheffield United,Home
+123,2024-04-27,Nott'm Forest,Man City,Home
+124,2024-04-27,Tottenham,Arsenal,Away
+125,2024-04-27,West Ham,Liverpool,Home
+126,2024-04-27,Wolves,Luton,Home
+127,2024-05-04,Arsenal,Bournemouth,Home
+128,2024-05-04,Brentford,Fulham,Away
+129,2024-05-04,Brighton,Aston Villa,Home
+130,2024-05-04,Burnley,Newcastle,Away
+131,2024-05-04,Chelsea,West Ham,Home
+132,2024-05-04,Crystal Palace,Man United,Home
+133,2024-05-04,Liverpool,Tottenham,Away
+134,2024-05-04,Luton,Everton,Home
+135,2024-05-04,Man City,Wolves,Home
+136,2024-05-04,Sheffield United,Nott'm Forest,Home
+137,2024-05-11,Aston Villa,Liverpool,Away
+138,2024-05-11,Bournemouth,Brentford,Draw
+139,2024-05-11,Everton,Sheffield United,Home
+140,2024-05-11,Fulham,Man City,Away
+141,2024-05-11,Man United,Arsenal,Away
+142,2024-05-11,Newcastle,Brighton,Home
+143,2024-05-11,Nott'm Forest,Chelsea,Away
+144,2024-05-11,Tottenham,Burnley,Away
+145,2024-05-11,West Ham,Luton,Home
+146,2024-05-11,Wolves,Crystal Palace,Away
+147,2024-05-19,Arsenal,Everton,Home
+148,2024-05-19,Brentford,Newcastle,Home
+149,2024-05-19,Brighton,Man United,Away
+150,2024-05-19,Burnley,Nott'm Forest,Home
+151,2024-05-19,Chelsea,Bournemouth,Home
+152,2024-05-19,Crystal Palace,Aston Villa,Draw
+153,2024-05-19,Liverpool,Wolves,Home
+154,2024-05-19,Luton,Fulham,Away
+155,2024-05-19,Man City,West Ham,Home
+156,2024-05-19,Sheffield United,Tottenham,Away

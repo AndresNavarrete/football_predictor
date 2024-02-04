@@ -209,21 +209,21 @@
 207,210,21,2024-01-21,Sheffield United,West Ham,2.0,2.0,True
 208,202,21,2024-01-21,Bournemouth,Liverpool,0.0,4.0,True
 209,204,21,2024-01-22,Brighton,Wolves,0.0,0.0,True
-210,214,22,2024-01-30,Nott'm Forest,Arsenal,,,False
-211,212,22,2024-01-30,Fulham,Everton,,,False
-212,213,22,2024-01-30,Luton,Brighton,,,False
-213,218,22,2024-01-30,Crystal Palace,Sheffield United,,,False
-214,211,22,2024-01-30,Aston Villa,Newcastle,,,False
-215,215,22,2024-01-31,Tottenham,Brentford,,,False
-216,220,22,2024-01-31,Man City,Burnley,,,False
-217,219,22,2024-01-31,Liverpool,Chelsea,,,False
-218,216,22,2024-02-01,West Ham,Bournemouth,,,False
-219,217,22,2024-02-01,Wolves,Man United,,,False
-220,227,23,2024-02-03,Everton,Tottenham,,,False
-221,224,23,2024-02-03,Brighton,Crystal Palace,,,False
-222,225,23,2024-02-03,Burnley,Fulham,,,False
-223,229,23,2024-02-03,Newcastle,Luton,,,False
-224,230,23,2024-02-03,Sheffield United,Aston Villa,,,False
+210,214,22,2024-01-30,Nott'm Forest,Arsenal,1.0,2.0,True
+211,212,22,2024-01-30,Fulham,Everton,0.0,0.0,True
+212,213,22,2024-01-30,Luton,Brighton,4.0,0.0,True
+213,218,22,2024-01-30,Crystal Palace,Sheffield United,3.0,2.0,True
+214,211,22,2024-01-30,Aston Villa,Newcastle,1.0,3.0,True
+215,215,22,2024-01-31,Tottenham,Brentford,3.0,2.0,True
+216,220,22,2024-01-31,Man City,Burnley,3.0,1.0,True
+217,219,22,2024-01-31,Liverpool,Chelsea,4.0,1.0,True
+218,216,22,2024-02-01,West Ham,Bournemouth,1.0,1.0,True
+219,217,22,2024-02-01,Wolves,Man United,3.0,4.0,True
+220,227,23,2024-02-03,Everton,Tottenham,2.0,2.0,True
+221,224,23,2024-02-03,Brighton,Crystal Palace,4.0,1.0,True
+222,225,23,2024-02-03,Burnley,Fulham,2.0,2.0,True
+223,229,23,2024-02-03,Newcastle,Luton,4.0,4.0,True
+224,230,23,2024-02-03,Sheffield United,Aston Villa,0.0,5.0,True
 225,222,23,2024-02-04,Bournemouth,Nott'm Forest,,,False
 226,226,23,2024-02-04,Chelsea,Wolves,,,False
 227,228,23,2024-02-04,Man United,West Ham,,,False
@@ -260,15 +260,15 @@
 258,260,26,2024-02-25,Wolves,Sheffield United,,,False
 259,259,26,2024-02-26,West Ham,Brentford,,,False
 260,261,27,2024-03-02,Brentford,Chelsea,,,False
-261,262,27,2024-03-02,Burnley,Bournemouth,,,False
-262,263,27,2024-03-02,Everton,West Ham,,,False
-263,264,27,2024-03-02,Fulham,Brighton,,,False
-264,265,27,2024-03-02,Luton,Aston Villa,,,False
-265,266,27,2024-03-02,Man City,Man United,,,False
-266,267,27,2024-03-02,Newcastle,Wolves,,,False
-267,268,27,2024-03-02,Nott'm Forest,Liverpool,,,False
-268,269,27,2024-03-02,Sheffield United,Arsenal,,,False
-269,270,27,2024-03-02,Tottenham,Crystal Palace,,,False
+261,263,27,2024-03-02,Everton,West Ham,,,False
+262,264,27,2024-03-02,Fulham,Brighton,,,False
+263,267,27,2024-03-02,Newcastle,Wolves,,,False
+264,268,27,2024-03-02,Nott'm Forest,Liverpool,,,False
+265,270,27,2024-03-02,Tottenham,Crystal Palace,,,False
+266,265,27,2024-03-02,Luton,Aston Villa,,,False
+267,262,27,2024-03-03,Burnley,Bournemouth,,,False
+268,266,27,2024-03-03,Man City,Man United,,,False
+269,269,27,2024-03-04,Sheffield United,Arsenal,,,False
 270,271,28,2024-03-09,Arsenal,Brentford,,,False
 271,272,28,2024-03-09,Aston Villa,Tottenham,,,False
 272,273,28,2024-03-09,Bournemouth,Sheffield United,,,False
