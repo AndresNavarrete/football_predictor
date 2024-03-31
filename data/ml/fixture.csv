@@ -289,14 +289,14 @@
 287,285,29,2024-03-17,Everton,Liverpool,,,False
 288,289,29,2024-03-17,West Ham,Aston Villa,1.0,1.0,True
 289,282,29,2024-03-17,Brighton,Man City,,,False
-290,297,30,2024-03-30,Newcastle,West Ham,,,False
-291,292,30,2024-03-30,Bournemouth,Everton,,,False
-292,294,30,2024-03-30,Chelsea,Burnley,,,False
-293,298,30,2024-03-30,Nott'm Forest,Crystal Palace,,,False
-294,299,30,2024-03-30,Sheffield United,Fulham,,,False
-295,300,30,2024-03-30,Tottenham,Luton,,,False
-296,291,30,2024-03-30,Aston Villa,Wolves,,,False
-297,293,30,2024-03-30,Brentford,Man United,,,False
+290,297,30,2024-03-30,Newcastle,West Ham,4.0,3.0,True
+291,292,30,2024-03-30,Bournemouth,Everton,2.0,1.0,True
+292,294,30,2024-03-30,Chelsea,Burnley,2.0,2.0,True
+293,298,30,2024-03-30,Nott'm Forest,Crystal Palace,1.0,1.0,True
+294,299,30,2024-03-30,Sheffield United,Fulham,3.0,3.0,True
+295,300,30,2024-03-30,Tottenham,Luton,2.0,1.0,True
+296,291,30,2024-03-30,Aston Villa,Wolves,2.0,0.0,True
+297,293,30,2024-03-30,Brentford,Man United,1.0,1.0,True
 298,295,30,2024-03-31,Liverpool,Brighton,,,False
 299,296,30,2024-03-31,Man City,Arsenal,,,False
 300,305,31,2024-04-02,Nott'm Forest,Fulham,,,False
