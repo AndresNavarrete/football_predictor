@@ -316,15 +316,15 @@
 314,316,32,2024-04-06,Luton,Bournemouth,2.0,1.0,True
 315,320,32,2024-04-06,Wolves,West Ham,1.0,2.0,True
 316,312,32,2024-04-06,Brighton,Arsenal,0.0,3.0,True
-317,317,32,2024-04-07,Man United,Liverpool,,,False
-318,318,32,2024-04-07,Sheffield United,Chelsea,,,False
-319,319,32,2024-04-07,Tottenham,Nott'm Forest,,,False
-320,328,33,2024-04-13,Newcastle,Tottenham,,,False
-321,323,33,2024-04-13,Brentford,Sheffield United,,,False
-322,324,33,2024-04-13,Burnley,Brighton,,,False
-323,327,33,2024-04-13,Man City,Luton,,,False
-324,329,33,2024-04-13,Nott'm Forest,Wolves,,,False
-325,322,33,2024-04-13,Bournemouth,Man United,,,False
+317,317,32,2024-04-07,Man United,Liverpool,2.0,2.0,True
+318,318,32,2024-04-07,Sheffield United,Chelsea,2.0,2.0,True
+319,319,32,2024-04-07,Tottenham,Nott'm Forest,3.0,1.0,True
+320,328,33,2024-04-13,Newcastle,Tottenham,4.0,0.0,True
+321,323,33,2024-04-13,Brentford,Sheffield United,2.0,0.0,True
+322,324,33,2024-04-13,Burnley,Brighton,1.0,1.0,True
+323,327,33,2024-04-13,Man City,Luton,5.0,1.0,True
+324,329,33,2024-04-13,Nott'm Forest,Wolves,2.0,2.0,True
+325,322,33,2024-04-13,Bournemouth,Man United,2.0,2.0,True
 326,326,33,2024-04-14,Liverpool,Crystal Palace,,,False
 327,330,33,2024-04-14,West Ham,Fulham,,,False
 328,321,33,2024-04-14,Arsenal,Aston Villa,,,False

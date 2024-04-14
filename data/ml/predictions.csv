@@ -5,67 +5,58 @@
 3,2024-04-24,Crystal Palace,Newcastle,Home
 4,2024-04-24,Everton,Liverpool,Home
 5,2024-04-24,Man United,Sheffield United,Away
-6,2024-04-25,Brighton,Man City,Home
-7,2024-04-07,Man United,Liverpool,Away
-8,2024-04-07,Sheffield United,Chelsea,Away
-9,2024-04-07,Tottenham,Nott'm Forest,Draw
-10,2024-04-13,Newcastle,Tottenham,Draw
-11,2024-04-13,Brentford,Sheffield United,Away
-12,2024-04-13,Burnley,Brighton,Home
-13,2024-04-13,Man City,Luton,Away
-14,2024-04-13,Nott'm Forest,Wolves,Draw
-15,2024-04-13,Bournemouth,Man United,Draw
-16,2024-04-14,Liverpool,Crystal Palace,Away
-17,2024-04-14,West Ham,Fulham,Draw
-18,2024-04-14,Arsenal,Aston Villa,Home
-19,2024-04-15,Chelsea,Everton,Home
-20,2024-04-20,Brighton,Chelsea,Home
-21,2024-04-20,Luton,Brentford,Away
-22,2024-04-20,Man United,Newcastle,Away
-23,2024-04-20,Sheffield United,Burnley,Home
-24,2024-04-20,Tottenham,Man City,Home
-25,2024-04-20,Wolves,Arsenal,Home
-26,2024-04-21,Everton,Nott'm Forest,Home
-27,2024-04-21,Aston Villa,Bournemouth,Away
-28,2024-04-21,Crystal Palace,West Ham,Away
-29,2024-04-21,Fulham,Liverpool,Away
-30,2024-04-27,West Ham,Liverpool,Home
-31,2024-04-27,Fulham,Crystal Palace,Away
-32,2024-04-27,Man United,Burnley,Away
-33,2024-04-27,Newcastle,Sheffield United,Home
-34,2024-04-27,Wolves,Luton,Away
-35,2024-04-27,Everton,Brentford,Draw
-36,2024-04-27,Aston Villa,Chelsea,Away
-37,2024-04-28,Bournemouth,Brighton,Home
-38,2024-04-28,Tottenham,Arsenal,Away
-39,2024-04-28,Nott'm Forest,Man City,Home
-40,2024-05-04,Arsenal,Bournemouth,Home
-41,2024-05-04,Brentford,Fulham,Home
-42,2024-05-04,Brighton,Aston Villa,Away
-43,2024-05-04,Burnley,Newcastle,Home
-44,2024-05-04,Chelsea,West Ham,Home
-45,2024-05-04,Crystal Palace,Man United,Away
-46,2024-05-04,Liverpool,Tottenham,Away
-47,2024-05-04,Luton,Everton,Home
-48,2024-05-04,Man City,Wolves,Away
-49,2024-05-04,Sheffield United,Nott'm Forest,Home
-50,2024-05-11,Aston Villa,Liverpool,Away
-51,2024-05-11,Bournemouth,Brentford,Home
-52,2024-05-11,Everton,Sheffield United,Home
-53,2024-05-11,Fulham,Man City,Away
-54,2024-05-11,Man United,Arsenal,Home
-55,2024-05-11,Newcastle,Brighton,Home
-56,2024-05-11,Nott'm Forest,Chelsea,Home
-57,2024-05-11,Tottenham,Burnley,Home
-58,2024-05-11,West Ham,Luton,Home
-59,2024-05-11,Wolves,Crystal Palace,Home
-60,2024-05-19,Arsenal,Everton,Away
-61,2024-05-19,Brentford,Newcastle,Home
-62,2024-05-19,Brighton,Man United,Away
-63,2024-05-19,Burnley,Nott'm Forest,Away
-64,2024-05-19,Chelsea,Bournemouth,Home
-65,2024-05-19,Crystal Palace,Aston Villa,Away
-66,2024-05-19,Liverpool,Wolves,Home
-67,2024-05-19,Luton,Fulham,Away
-68,2024-05-19,Man City,West Ham,Away
-69,2024-05-19,Sheffield United,Tottenham,Home
+6,2024-04-25,Brighton,Man City,Away
+7,2024-04-14,Liverpool,Crystal Palace,Draw
+8,2024-04-14,West Ham,Fulham,Draw
+9,2024-04-14,Arsenal,Aston Villa,Home
+10,2024-04-15,Chelsea,Everton,Draw
+11,2024-04-20,Brighton,Chelsea,Away
+12,2024-04-20,Luton,Brentford,Away
+13,2024-04-20,Man United,Newcastle,Home
+14,2024-04-20,Sheffield United,Burnley,Away
+15,2024-04-20,Tottenham,Man City,Home
+16,2024-04-20,Wolves,Arsenal,Home
+17,2024-04-21,Everton,Nott'm Forest,Home
+18,2024-04-21,Aston Villa,Bournemouth,Away
+19,2024-04-21,Crystal Palace,West Ham,Away
+20,2024-04-21,Fulham,Liverpool,Home
+21,2024-04-27,West Ham,Liverpool,Draw
+22,2024-04-27,Fulham,Crystal Palace,Away
+23,2024-04-27,Man United,Burnley,Away
+24,2024-04-27,Newcastle,Sheffield United,Home
+25,2024-04-27,Wolves,Luton,Away
+26,2024-04-27,Everton,Brentford,Home
+27,2024-04-27,Aston Villa,Chelsea,Away
+28,2024-04-28,Bournemouth,Brighton,Away
+29,2024-04-28,Tottenham,Arsenal,Home
+30,2024-04-28,Nott'm Forest,Man City,Home
+31,2024-05-04,Arsenal,Bournemouth,Away
+32,2024-05-04,Brentford,Fulham,Away
+33,2024-05-04,Brighton,Aston Villa,Away
+34,2024-05-04,Burnley,Newcastle,Home
+35,2024-05-04,Chelsea,West Ham,Draw
+36,2024-05-04,Crystal Palace,Man United,Draw
+37,2024-05-04,Liverpool,Tottenham,Home
+38,2024-05-04,Luton,Everton,Home
+39,2024-05-04,Man City,Wolves,Away
+40,2024-05-04,Sheffield United,Nott'm Forest,Away
+41,2024-05-11,Aston Villa,Liverpool,Away
+42,2024-05-11,Bournemouth,Brentford,Home
+43,2024-05-11,Everton,Sheffield United,Draw
+44,2024-05-11,Fulham,Man City,Home
+45,2024-05-11,Man United,Arsenal,Away
+46,2024-05-11,Newcastle,Brighton,Draw
+47,2024-05-11,Nott'm Forest,Chelsea,Home
+48,2024-05-11,Tottenham,Burnley,Home
+49,2024-05-11,West Ham,Luton,Away
+50,2024-05-11,Wolves,Crystal Palace,Home
+51,2024-05-19,Arsenal,Everton,Home
+52,2024-05-19,Brentford,Newcastle,Draw
+53,2024-05-19,Brighton,Man United,Away
+54,2024-05-19,Burnley,Nott'm Forest,Home
+55,2024-05-19,Chelsea,Bournemouth,Home
+56,2024-05-19,Crystal Palace,Aston Villa,Away
+57,2024-05-19,Liverpool,Wolves,Home
+58,2024-05-19,Luton,Fulham,Home
+59,2024-05-19,Man City,West Ham,Home
+60,2024-05-19,Sheffield United,Tottenham,Away
