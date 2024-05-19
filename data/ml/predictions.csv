@@ -1,16 +1,11 @@
 ,date,home,away,prediction
-0,2024-05-14,Tottenham,Man City,Home
-1,2024-05-15,Brighton,Chelsea,Away
-2,2024-05-15,Man United,Newcastle,Home
-3,2024-05-12,Man United,Arsenal,Home
-4,2024-05-13,Aston Villa,Liverpool,Draw
-5,2024-05-19,Arsenal,Everton,Home
-6,2024-05-19,Brentford,Newcastle,Home
-7,2024-05-19,Brighton,Man United,Away
-8,2024-05-19,Burnley,Nott'm Forest,Away
-9,2024-05-19,Chelsea,Bournemouth,Home
-10,2024-05-19,Crystal Palace,Aston Villa,Home
-11,2024-05-19,Liverpool,Wolves,Home
-12,2024-05-19,Luton,Fulham,Away
-13,2024-05-19,Man City,West Ham,Draw
-14,2024-05-19,Sheffield United,Tottenham,Away
+0,2024-05-19,Arsenal,Everton,Home
+1,2024-05-19,Brentford,Newcastle,Home
+2,2024-05-19,Brighton,Man United,Away
+3,2024-05-19,Burnley,Nott'm Forest,Away
+4,2024-05-19,Chelsea,Bournemouth,Home
+5,2024-05-19,Crystal Palace,Aston Villa,Home
+6,2024-05-19,Liverpool,Wolves,Home
+7,2024-05-19,Luton,Fulham,Away
+8,2024-05-19,Man City,West Ham,Home
+9,2024-05-19,Sheffield United,Tottenham,Away
